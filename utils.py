@@ -130,9 +130,7 @@ def from_state_dict(data: dict[str, Any], atol: float = 1e-12) -> RealState:
     return RealState.from_iterable(real_terms, qubits)
 
 
-def from_operator_dict(
-    data: dict[str, Any], atol: float = 1e-12
-) -> RealPauliOperator:
+def from_operator_dict(data: dict[str, Any], atol: float = 1e-12) -> RealPauliOperator:
     """Deserialize a JSON-like dictionary into a real Pauli operator."""
     pauli_map = {"I": I, "X": X, "Y": Y, "Z": Z}
     n = len(data["qubits"])
@@ -265,9 +263,7 @@ def top_selected_subspace(
     hamiltonian: RealPauliOperator, state: RealState, m: int
 ) -> tuple[float, RealState]:
     """Return the lowest-energy state in the subspace of the top ``m`` terms."""
-    energy, selected = subspace_eigenstate(
-        hamiltonian, subspace_from_state(state, m)
-    )
+    energy, selected = subspace_eigenstate(hamiltonian, subspace_from_state(state, m))
     if state.vdot(selected) < 0:
         selected *= -1.0
     return energy, selected
@@ -283,10 +279,7 @@ def drop_to_top(state: RealState, k: int) -> RealState:
         reverse=True,
     )
     truncated = RealState.from_iterable(
-        [
-            ([int(bit) for bit in term.string], float(term.coeff))
-            for term in terms[:k]
-        ],
+        [([int(bit) for bit in term.string], float(term.coeff)) for term in terms[:k]],
         state.qubits,
     )
     truncated.l2_normalize()
@@ -410,11 +403,7 @@ def outcomer(r: QsysResult) -> pandas.DataFrame:
     return pandas.DataFrame(rows)
 
 
-def load_shottable(filename:str) -> list[QsysShot]:
+def load_shottable(filename: str) -> list[QsysShot]:
     raw = load_json(filename)
-    shots = [
-        QsysShot([(tag, value) for tag, value in shot])
-        for shot in raw
-    ]
+    shots = [QsysShot([(tag, value) for tag, value in shot]) for shot in raw]
     return shots
-

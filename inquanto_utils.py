@@ -94,12 +94,12 @@ def permute_fermion_state(
             for index in range(len(occupation_numbers))
         ]
         occupied_orbitals = [
-            index for index, occupation in enumerate(occupation_numbers)
+            index
+            for index, occupation in enumerate(occupation_numbers)
             if occupation == 1
         ]
         occupied_permuted = [
-            list(permutation_mapping.keys()).index(index)
-            for index in occupied_orbitals
+            list(permutation_mapping.keys()).index(index) for index in occupied_orbitals
         ]
         sign = (-1) ** (permutation_count_bubble(occupied_permuted) % 2)
         permutated_basis = FermionStateString(

@@ -34,9 +34,7 @@ def save_energies(
     """
     overlap_path = Path(filename)
     output_path = (
-        overlap_path.parent
-        if output_directory is None
-        else Path(output_directory)
+        overlap_path.parent if output_directory is None else Path(output_directory)
     )
     output_path.mkdir(parents=True, exist_ok=True)
     overlap = load_json(overlap_path)
@@ -61,11 +59,7 @@ def save_energies(
     if "ratio_sign" in reference:
         ratio_sign = float(reference["ratio_sign"])
     else:
-        ratio_sign = (
-            1.0
-            if float(reference["h"]) / float(reference["s"]) >= 0
-            else -1.0
-        )
+        ratio_sign = 1.0 if float(reference["h"]) / float(reference["s"]) >= 0 else -1.0
     value, se, bias, value_bc, h_abs2, s_abs2, se_h_abs2, se_s_abs2, ratio = (
         mixed_estimator_from_absolute_square_counts(
             float(reference["ephi"]),
@@ -138,10 +132,7 @@ def main(
     state_prep = state_prep.strip().lower()
     geometry = geometry.strip().lower()
     protocol_directory = (
-        Path(__file__).resolve().parents[1]
-        / "data"
-        / f"{geometry}66"
-        / "protocol"
+        Path(__file__).resolve().parents[1] / "data" / f"{geometry}66" / "protocol"
     )
     suffix = f"m{m}_k{k}_l{l}"
     s_path = protocol_directory / f"helios_cu_{state_prep}_s_{suffix}_shots.json"

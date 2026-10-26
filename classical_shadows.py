@@ -7,7 +7,7 @@ from typing import Any, Optional
 
 import numpy as np
 import stim
-from hugr.qsystem.result import QsysShot,QsysResult
+from hugr.qsystem.result import QsysShot, QsysResult
 from qiskit import quantum_info
 from pytket.circuit import Circuit
 from pytket.extensions.qiskit import qiskit_to_tk
@@ -33,27 +33,21 @@ def load_json_info(filename):
     with open(filename, encoding="utf-8") as f:
         info = json.load(f, object_hook=restore_complex)
 
-    info["tableaus"] = [
-        Clifford.from_dict(tableau)
-        for tableau in info["tableaus"]
-    ]
+    info["tableaus"] = [Clifford.from_dict(tableau) for tableau in info["tableaus"]]
 
     for key in ("all_measurements_execute",):
         info[key] = [
-            Counter({
-                tuple(map(int, bits)): count
-                for bits, count in counts.items()
-            })
+            Counter({tuple(map(int, bits)): count for bits, count in counts.items()})
             for counts in info[key]
         ]
 
     for key in ("execute_results",):
         info[key] = [
-            QsysResult(result) if result is not None else None
-            for result in info[key]
+            QsysResult(result) if result is not None else None for result in info[key]
         ]
 
     return info
+
 
 def slater_det_2_qubit_reorder(slater_det, spinorb_to_qubit_indices):
     qubit_basis_state = "0" * len(slater_det)
@@ -545,9 +539,7 @@ def shot_measurement_counters(shots: list[QsysShot]) -> tuple[list[Counter], int
         raise ValueError("shots must contain at least one QsysShot")
     shot_arrays = np.einsum(
         "ijk->jik",
-        [
-            [measurement[1] for measurement in list(shot.entries)] for shot in shots
-        ],
+        [[measurement[1] for measurement in list(shot.entries)] for shot in shots],
     )
     counters = []
     total_shots = 0
@@ -559,9 +551,7 @@ def shot_measurement_counters(shots: list[QsysShot]) -> tuple[list[Counter], int
     return counters, total_shots
 
 
-def process_shadow_shots(
-    shots: list[QsysShot], tableaus: Iterable
-) -> dict[str, Any]:
+def process_shadow_shots(shots: list[QsysShot], tableaus: Iterable) -> dict[str, Any]:
     """Filter leakage and pair each shot register with its Clifford tableau."""
     tableaus = list(tableaus)
     outcomes, total_shots = shot_measurement_counters(shots)
@@ -763,7 +753,9 @@ def main(
             tableaus = info["tableaus"]
             outcomes = info["all_measurements_execute"]
             if not tableaus or len(tableaus) != len(outcomes):
-                raise ValueError(f"Unmatched or missing tableaus/outcomes in {input_path}")
+                raise ValueError(
+                    f"Unmatched or missing tableaus/outcomes in {input_path}"
+                )
             total_shots = sum(counts.total() for counts in outcomes)
             if total_shots == 0:
                 raise ValueError(f"No leak-free hardware shots in {input_path}")
