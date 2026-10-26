@@ -737,7 +737,7 @@ def main(
     data_directory = (
         Path(data_directory)
         if data_directory is not None
-        else Path(__file__).resolve().parents[1] / "data"
+        else Path(__file__).resolve().parent / "data"
     )
     if seed is not None:
         random.seed(seed)
