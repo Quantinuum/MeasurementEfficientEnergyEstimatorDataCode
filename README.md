@@ -8,6 +8,8 @@ Scripts and data for the paper [*Measurement-efficient energy estimator for quan
 - `fig*/` contains additional figure-specific plotting scripts.
 - `ai_smcs/` contains scripts for the AI-assisted SMCS data analysis; see its [README](ai_smcs/README.md) for details.
 - `compute_uncompute.py` and `classical_shadows.py` analyze hardware-shot data for the compute-uncompute and classical-shadow methods, respectively.
+- `guppy_overlaps_protocol.py` builds overlap circuits for different protocols.
+- `qsys_result_sampling.py` supports processing Qsys results, including leakage filtering, bootstrap resampling, and JSON input/output.
 
 ## Shared utilities
 
