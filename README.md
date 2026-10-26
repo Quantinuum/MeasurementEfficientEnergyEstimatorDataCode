@@ -9,6 +9,11 @@ Scripts and data for the paper [*Measurement-efficient energy estimator for quan
 - `ai_smcs/` contains scripts for the AI-assisted SMCS data analysis; see its [README](ai_smcs/README.md) for details.
 - `compute_uncompute.py` and `classical_shadows.py` analyze hardware-shot data for the compute-uncompute and classical-shadow methods, respectively.
 
+## Shared utilities
+
+- `utils.py` contains shared utility functions for processing circuits and energies.
+- `inquanto_utils.py` converts InQuanto objects into forms that can be used by the post-processing workflows.
+
 ## Data
 
 - `data/circuit_resources/` contains compiled, optimized and transpiled resource estimates for state-preparation circuits at different truncations.
