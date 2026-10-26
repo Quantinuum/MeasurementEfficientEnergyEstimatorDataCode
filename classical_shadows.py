@@ -715,11 +715,11 @@ def main(
 
     By default, read the four ``helios_plots_*.json`` files under ``code/data``
     and use the local ``states_smcs_m*_k10_l13.json`` FCI references for both
-    ansatzes, matching the notebooks' reference determinants. Follow their
+    ansatzes. Follow their
     ``E = ephi + rphi * mixed_estimator`` calculation, retaining the largest
     ``chi_determinants`` terms of chi. Each bootstrap resample contains the
     full number of leak-free hardware shots; error bars are one standard
-    deviation of the real energy estimates, without division by sqrt(B).
+    deviation of the real energy estimates.
 
     Print the estimates in Hartree and return them by system and ansatz.
     ``bootstrap_samples`` controls the number of resamples, and ``seed=None``
