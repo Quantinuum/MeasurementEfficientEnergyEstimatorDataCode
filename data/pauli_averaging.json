@@ -1,0 +1,17 @@
+{
+  "sigma_mha": 1.6,
+  "method": {
+    "partition": "QWC",
+    "graph_colouring": "Lazy",
+    "term_order": "descending_absolute_coefficient",
+    "identity_removed": true
+  },
+  "shots": {
+    "rx66": 694194,
+    "t166": 798146,
+    "rx88": 1205657,
+    "t188": 962712,
+    "rx1010": 3754694,
+    "t11010": 2522182
+  }
+}

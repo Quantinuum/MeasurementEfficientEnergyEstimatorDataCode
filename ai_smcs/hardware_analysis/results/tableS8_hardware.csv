@@ -1,0 +1,7 @@
+active_space,geometry,state_preparation,truncation,error_detection,energy_hartree,energy_standard_error_hartree,discarded_h,discarded_s
+"(10,10)",Rx,AI-sMCS,"(1,21,24)",Leakage,-2404.517851,0.001724,1148,153
+"(10,10)",R0,AI-sMCS,"(1,21,22)",Leakage,-2404.514175,0.001658,998,118
+"(10,10)",Rx,AI-sMCS,"(1,21,24)",Leakage + CPC,-2404.518388,0.001734,1696,271
+"(10,10)",R0,AI-sMCS,"(1,21,22)",Leakage + CPC,-2404.511333,0.001691,1387,241
+"(10,10)",Rx,AI-sMCS,"(1,21,24)",Leakage + MBPC,-2404.517853,0.001734,1697,297
+"(10,10)",R0,AI-sMCS,"(1,21,22)",Leakage + MBPC,-2404.513668,0.001687,1494,261

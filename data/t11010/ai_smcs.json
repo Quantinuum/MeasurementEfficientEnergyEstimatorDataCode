@@ -1,0 +1,27 @@
+{
+  "geometry": "R0",
+  "common_tups": {
+    "gates_2q": 433,
+    "depth_2q": 351,
+    "energy_error_mha": 9.000595159704972,
+    "energy_error_sd_mha": 0.0,
+    "psi_spin_residual": 0.02636040279624941,
+    "chi_spin_residual": 0.09831132987820797
+  },
+  "per_geometry_tups": {
+    "gates_2q": 399,
+    "depth_2q": 321,
+    "energy_error_mha": 12.523529283953394,
+    "energy_error_sd_mha": 0.0,
+    "psi_spin_residual": 0.021449954165282052,
+    "chi_spin_residual": 0.09831132987820797
+  },
+  "selected_smcs": {
+    "gates_2q": 338,
+    "depth_2q": 262,
+    "energy_error_mha": 5.89,
+    "energy_error_sd_mha": 0.71,
+    "psi_spin_residual": 0.0329,
+    "chi_spin_residual": 0.0983
+  }
+}

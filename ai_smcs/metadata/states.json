@@ -1,0 +1,90 @@
+{
+  "Rx": {
+    "truncation": {
+      "m": 1,
+      "k": 21,
+      "l": 24
+    },
+    "target_support": "largest-amplitude",
+    "spin_orbital_permutation": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "preparation_files": {
+      "psil": "data/Rx_state_psil.json",
+      "phi": "data/Rx_state_phi.json",
+      "chik": "data/Rx_state_chik.json"
+    },
+    "reference_energy_hartree": -2404.4406895046445,
+    "residual_norm_hartree": 0.2522355706363595,
+    "overlap_ratio_sign": -1.0,
+    "casci_energy_hartree": -2404.5243150902643,
+    "noiseless_mixed_estimator_energy_hartree": -2404.523071244298,
+    "ideal_overlap_probabilities": {
+      "s": 0.8973959550319724,
+      "h": 0.09572653491407636
+    }
+  },
+  "R0": {
+    "truncation": {
+      "m": 1,
+      "k": 21,
+      "l": 22
+    },
+    "target_support": "residual-support guarded, without determinant addback",
+    "spin_orbital_permutation": [
+      13,
+      9,
+      3,
+      5,
+      18,
+      17,
+      8,
+      10,
+      16,
+      19,
+      4,
+      12,
+      15,
+      14,
+      11,
+      6,
+      0,
+      1,
+      7,
+      2
+    ],
+    "preparation_files": {
+      "psil": "data/R0_state_psil.json",
+      "phi": "data/R0_state_phi.json",
+      "chik": "data/R0_state_chik.json"
+    },
+    "reference_energy_hartree": -2404.4346354747854,
+    "residual_norm_hartree": 0.25388935130759605,
+    "overlap_ratio_sign": -1.0,
+    "casci_energy_hartree": -2404.524434560353,
+    "noiseless_mixed_estimator_energy_hartree": -2404.5229144906025,
+    "ideal_overlap_probabilities": {
+      "s": 0.8877589671866675,
+      "h": 0.10732961692985322
+    }
+  }
+}

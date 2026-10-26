@@ -1,0 +1,4820 @@
+{
+    "66": {
+        "Rx": {
+            "1": {
+                "gates_1q": 6,
+                "gates_2q": 0,
+                "depth": 1,
+                "depth_2q": 0,
+                "ZZPhase_gates": 0,
+                "ZZPhase_depth": 0
+            },
+            "2": {
+                "gates_1q": 15,
+                "gates_2q": 3,
+                "depth": 6,
+                "depth_2q": 3,
+                "ZZPhase_gates": 3,
+                "ZZPhase_depth": 3
+            },
+            "3": {
+                "gates_1q": 26,
+                "gates_2q": 7,
+                "depth": 8,
+                "depth_2q": 4,
+                "ZZPhase_gates": 7,
+                "ZZPhase_depth": 4
+            },
+            "4": {
+                "gates_1q": 27,
+                "gates_2q": 11,
+                "depth": 11,
+                "depth_2q": 6,
+                "ZZPhase_gates": 11,
+                "ZZPhase_depth": 6
+            },
+            "5": {
+                "gates_1q": 35,
+                "gates_2q": 11,
+                "depth": 18,
+                "depth_2q": 9,
+                "ZZPhase_gates": 11,
+                "ZZPhase_depth": 9
+            },
+            "6": {
+                "gates_1q": 36,
+                "gates_2q": 16,
+                "depth": 19,
+                "depth_2q": 9,
+                "ZZPhase_gates": 16,
+                "ZZPhase_depth": 9
+            },
+            "7": {
+                "gates_1q": 49,
+                "gates_2q": 31,
+                "depth": 48,
+                "depth_2q": 27,
+                "ZZPhase_gates": 31,
+                "ZZPhase_depth": 27
+            },
+            "8": {
+                "gates_1q": 57,
+                "gates_2q": 33,
+                "depth": 50,
+                "depth_2q": 29,
+                "ZZPhase_gates": 33,
+                "ZZPhase_depth": 29
+            },
+            "9": {
+                "gates_1q": 72,
+                "gates_2q": 45,
+                "depth": 66,
+                "depth_2q": 37,
+                "ZZPhase_gates": 45,
+                "ZZPhase_depth": 37
+            },
+            "10": {
+                "gates_1q": 78,
+                "gates_2q": 45,
+                "depth": 74,
+                "depth_2q": 41,
+                "ZZPhase_gates": 45,
+                "ZZPhase_depth": 41
+            },
+            "11": {
+                "gates_1q": 88,
+                "gates_2q": 56,
+                "depth": 88,
+                "depth_2q": 47,
+                "ZZPhase_gates": 56,
+                "ZZPhase_depth": 47
+            },
+            "12": {
+                "gates_1q": 114,
+                "gates_2q": 79,
+                "depth": 125,
+                "depth_2q": 69,
+                "ZZPhase_gates": 79,
+                "ZZPhase_depth": 69
+            },
+            "13": {
+                "gates_1q": 116,
+                "gates_2q": 76,
+                "depth": 127,
+                "depth_2q": 66,
+                "ZZPhase_gates": 76,
+                "ZZPhase_depth": 66
+            },
+            "14": {
+                "gates_1q": 137,
+                "gates_2q": 92,
+                "depth": 152,
+                "depth_2q": 82,
+                "ZZPhase_gates": 92,
+                "ZZPhase_depth": 82
+            },
+            "15": {
+                "gates_1q": 142,
+                "gates_2q": 101,
+                "depth": 173,
+                "depth_2q": 91,
+                "ZZPhase_gates": 101,
+                "ZZPhase_depth": 91
+            },
+            "16": {
+                "gates_1q": 158,
+                "gates_2q": 103,
+                "depth": 179,
+                "depth_2q": 95,
+                "ZZPhase_gates": 103,
+                "ZZPhase_depth": 95
+            },
+            "17": {
+                "gates_1q": 185,
+                "gates_2q": 124,
+                "depth": 216,
+                "depth_2q": 113,
+                "ZZPhase_gates": 124,
+                "ZZPhase_depth": 113
+            },
+            "18": {
+                "gates_1q": 225,
+                "gates_2q": 147,
+                "depth": 258,
+                "depth_2q": 134,
+                "ZZPhase_gates": 147,
+                "ZZPhase_depth": 134
+            },
+            "19": {
+                "gates_1q": 254,
+                "gates_2q": 170,
+                "depth": 293,
+                "depth_2q": 154,
+                "ZZPhase_gates": 170,
+                "ZZPhase_depth": 154
+            },
+            "20": {
+                "gates_1q": 292,
+                "gates_2q": 223,
+                "depth": 394,
+                "depth_2q": 218,
+                "ZZPhase_gates": 223,
+                "ZZPhase_depth": 218
+            },
+            "21": {
+                "gates_1q": 320,
+                "gates_2q": 246,
+                "depth": 433,
+                "depth_2q": 239,
+                "ZZPhase_gates": 246,
+                "ZZPhase_depth": 239
+            },
+            "22": {
+                "gates_1q": 322,
+                "gates_2q": 253,
+                "depth": 442,
+                "depth_2q": 245,
+                "ZZPhase_gates": 253,
+                "ZZPhase_depth": 245
+            },
+            "23": {
+                "gates_1q": 378,
+                "gates_2q": 265,
+                "depth": 433,
+                "depth_2q": 232,
+                "ZZPhase_gates": 265,
+                "ZZPhase_depth": 232
+            },
+            "24": {
+                "gates_1q": 379,
+                "gates_2q": 268,
+                "depth": 427,
+                "depth_2q": 227,
+                "ZZPhase_gates": 268,
+                "ZZPhase_depth": 227
+            },
+            "25": {
+                "gates_1q": 383,
+                "gates_2q": 281,
+                "depth": 448,
+                "depth_2q": 242,
+                "ZZPhase_gates": 281,
+                "ZZPhase_depth": 242
+            },
+            "26": {
+                "gates_1q": 360,
+                "gates_2q": 286,
+                "depth": 488,
+                "depth_2q": 272,
+                "ZZPhase_gates": 286,
+                "ZZPhase_depth": 272
+            },
+            "27": {
+                "gates_1q": 435,
+                "gates_2q": 302,
+                "depth": 493,
+                "depth_2q": 262,
+                "ZZPhase_gates": 302,
+                "ZZPhase_depth": 262
+            },
+            "28": {
+                "gates_1q": 378,
+                "gates_2q": 310,
+                "depth": 529,
+                "depth_2q": 300,
+                "ZZPhase_gates": 310,
+                "ZZPhase_depth": 300
+            },
+            "29": {
+                "gates_1q": 380,
+                "gates_2q": 321,
+                "depth": 542,
+                "depth_2q": 311,
+                "ZZPhase_gates": 321,
+                "ZZPhase_depth": 311
+            },
+            "30": {
+                "gates_1q": 452,
+                "gates_2q": 323,
+                "depth": 529,
+                "depth_2q": 281,
+                "ZZPhase_gates": 323,
+                "ZZPhase_depth": 281
+            },
+            "31": {
+                "gates_1q": 484,
+                "gates_2q": 349,
+                "depth": 556,
+                "depth_2q": 295,
+                "ZZPhase_gates": 349,
+                "ZZPhase_depth": 295
+            },
+            "32": {
+                "gates_1q": 466,
+                "gates_2q": 387,
+                "depth": 651,
+                "depth_2q": 367,
+                "ZZPhase_gates": 387,
+                "ZZPhase_depth": 367
+            },
+            "33": {
+                "gates_1q": 506,
+                "gates_2q": 362,
+                "depth": 581,
+                "depth_2q": 312,
+                "ZZPhase_gates": 362,
+                "ZZPhase_depth": 312
+            },
+            "34": {
+                "gates_1q": 460,
+                "gates_2q": 369,
+                "depth": 643,
+                "depth_2q": 358,
+                "ZZPhase_gates": 369,
+                "ZZPhase_depth": 358
+            },
+            "35": {
+                "gates_1q": 492,
+                "gates_2q": 397,
+                "depth": 680,
+                "depth_2q": 380,
+                "ZZPhase_gates": 397,
+                "ZZPhase_depth": 380
+            },
+            "36": {
+                "gates_1q": 502,
+                "gates_2q": 406,
+                "depth": 706,
+                "depth_2q": 395,
+                "ZZPhase_gates": 406,
+                "ZZPhase_depth": 395
+            },
+            "37": {
+                "gates_1q": 514,
+                "gates_2q": 415,
+                "depth": 722,
+                "depth_2q": 404,
+                "ZZPhase_gates": 415,
+                "ZZPhase_depth": 404
+            },
+            "38": {
+                "gates_1q": 475,
+                "gates_2q": 387,
+                "depth": 655,
+                "depth_2q": 367,
+                "ZZPhase_gates": 387,
+                "ZZPhase_depth": 367
+            },
+            "39": {
+                "gates_1q": 479,
+                "gates_2q": 394,
+                "depth": 664,
+                "depth_2q": 374,
+                "ZZPhase_gates": 394,
+                "ZZPhase_depth": 374
+            },
+            "40": {
+                "gates_1q": 518,
+                "gates_2q": 423,
+                "depth": 704,
+                "depth_2q": 399,
+                "ZZPhase_gates": 423,
+                "ZZPhase_depth": 399
+            },
+            "41": {
+                "gates_1q": 588,
+                "gates_2q": 486,
+                "depth": 825,
+                "depth_2q": 463,
+                "ZZPhase_gates": 486,
+                "ZZPhase_depth": 463
+            },
+            "42": {
+                "gates_1q": 597,
+                "gates_2q": 498,
+                "depth": 843,
+                "depth_2q": 475,
+                "ZZPhase_gates": 498,
+                "ZZPhase_depth": 475
+            },
+            "43": {
+                "gates_1q": 562,
+                "gates_2q": 456,
+                "depth": 752,
+                "depth_2q": 423,
+                "ZZPhase_gates": 456,
+                "ZZPhase_depth": 423
+            },
+            "44": {
+                "gates_1q": 623,
+                "gates_2q": 516,
+                "depth": 872,
+                "depth_2q": 490,
+                "ZZPhase_gates": 516,
+                "ZZPhase_depth": 490
+            },
+            "45": {
+                "gates_1q": 692,
+                "gates_2q": 570,
+                "depth": 977,
+                "depth_2q": 546,
+                "ZZPhase_gates": 570,
+                "ZZPhase_depth": 546
+            },
+            "46": {
+                "gates_1q": 718,
+                "gates_2q": 515,
+                "depth": 852,
+                "depth_2q": 455,
+                "ZZPhase_gates": 515,
+                "ZZPhase_depth": 455
+            },
+            "47": {
+                "gates_1q": 726,
+                "gates_2q": 532,
+                "depth": 876,
+                "depth_2q": 468,
+                "ZZPhase_gates": 532,
+                "ZZPhase_depth": 468
+            },
+            "48": {
+                "gates_1q": 687,
+                "gates_2q": 571,
+                "depth": 968,
+                "depth_2q": 545,
+                "ZZPhase_gates": 571,
+                "ZZPhase_depth": 545
+            },
+            "49": {
+                "gates_1q": 709,
+                "gates_2q": 595,
+                "depth": 1008,
+                "depth_2q": 571,
+                "ZZPhase_gates": 595,
+                "ZZPhase_depth": 571
+            },
+            "50": {
+                "gates_1q": 690,
+                "gates_2q": 582,
+                "depth": 988,
+                "depth_2q": 563,
+                "ZZPhase_gates": 582,
+                "ZZPhase_depth": 563
+            },
+            "51": {
+                "gates_1q": 718,
+                "gates_2q": 598,
+                "depth": 1014,
+                "depth_2q": 573,
+                "ZZPhase_gates": 598,
+                "ZZPhase_depth": 573
+            },
+            "52": {
+                "gates_1q": 721,
+                "gates_2q": 599,
+                "depth": 1016,
+                "depth_2q": 574,
+                "ZZPhase_gates": 599,
+                "ZZPhase_depth": 574
+            },
+            "53": {
+                "gates_1q": 733,
+                "gates_2q": 609,
+                "depth": 1037,
+                "depth_2q": 583,
+                "ZZPhase_gates": 609,
+                "ZZPhase_depth": 583
+            },
+            "54": {
+                "gates_1q": 742,
+                "gates_2q": 621,
+                "depth": 1046,
+                "depth_2q": 593,
+                "ZZPhase_gates": 621,
+                "ZZPhase_depth": 593
+            },
+            "55": {
+                "gates_1q": 766,
+                "gates_2q": 639,
+                "depth": 1078,
+                "depth_2q": 609,
+                "ZZPhase_gates": 639,
+                "ZZPhase_depth": 609
+            },
+            "56": {
+                "gates_1q": 876,
+                "gates_2q": 663,
+                "depth": 1068,
+                "depth_2q": 574,
+                "ZZPhase_gates": 663,
+                "ZZPhase_depth": 574
+            },
+            "57": {
+                "gates_1q": 886,
+                "gates_2q": 672,
+                "depth": 1082,
+                "depth_2q": 583,
+                "ZZPhase_gates": 672,
+                "ZZPhase_depth": 583
+            },
+            "58": {
+                "gates_1q": 848,
+                "gates_2q": 705,
+                "depth": 1204,
+                "depth_2q": 679,
+                "ZZPhase_gates": 705,
+                "ZZPhase_depth": 679
+            },
+            "59": {
+                "gates_1q": 876,
+                "gates_2q": 724,
+                "depth": 1242,
+                "depth_2q": 699,
+                "ZZPhase_gates": 724,
+                "ZZPhase_depth": 699
+            },
+            "60": {
+                "gates_1q": 886,
+                "gates_2q": 734,
+                "depth": 1242,
+                "depth_2q": 698,
+                "ZZPhase_gates": 734,
+                "ZZPhase_depth": 698
+            },
+            "61": {
+                "gates_1q": 879,
+                "gates_2q": 718,
+                "depth": 1237,
+                "depth_2q": 689,
+                "ZZPhase_gates": 718,
+                "ZZPhase_depth": 689
+            },
+            "62": {
+                "gates_1q": 905,
+                "gates_2q": 747,
+                "depth": 1279,
+                "depth_2q": 717,
+                "ZZPhase_gates": 747,
+                "ZZPhase_depth": 717
+            },
+            "63": {
+                "gates_1q": 933,
+                "gates_2q": 768,
+                "depth": 1316,
+                "depth_2q": 737,
+                "ZZPhase_gates": 768,
+                "ZZPhase_depth": 737
+            },
+            "64": {
+                "gates_1q": 961,
+                "gates_2q": 793,
+                "depth": 1359,
+                "depth_2q": 761,
+                "ZZPhase_gates": 793,
+                "ZZPhase_depth": 761
+            },
+            "65": {
+                "gates_1q": 1008,
+                "gates_2q": 832,
+                "depth": 1428,
+                "depth_2q": 803,
+                "ZZPhase_gates": 832,
+                "ZZPhase_depth": 803
+            },
+            "66": {
+                "gates_1q": 1020,
+                "gates_2q": 835,
+                "depth": 1413,
+                "depth_2q": 792,
+                "ZZPhase_gates": 835,
+                "ZZPhase_depth": 792
+            },
+            "67": {
+                "gates_1q": 1026,
+                "gates_2q": 842,
+                "depth": 1454,
+                "depth_2q": 815,
+                "ZZPhase_gates": 842,
+                "ZZPhase_depth": 815
+            },
+            "68": {
+                "gates_1q": 1052,
+                "gates_2q": 862,
+                "depth": 1488,
+                "depth_2q": 831,
+                "ZZPhase_gates": 862,
+                "ZZPhase_depth": 831
+            },
+            "69": {
+                "gates_1q": 1083,
+                "gates_2q": 890,
+                "depth": 1526,
+                "depth_2q": 855,
+                "ZZPhase_gates": 890,
+                "ZZPhase_depth": 855
+            },
+            "70": {
+                "gates_1q": 1103,
+                "gates_2q": 907,
+                "depth": 1567,
+                "depth_2q": 873,
+                "ZZPhase_gates": 907,
+                "ZZPhase_depth": 873
+            },
+            "71": {
+                "gates_1q": 1100,
+                "gates_2q": 902,
+                "depth": 1544,
+                "depth_2q": 862,
+                "ZZPhase_gates": 902,
+                "ZZPhase_depth": 862
+            },
+            "72": {
+                "gates_1q": 1244,
+                "gates_2q": 997,
+                "depth": 1759,
+                "depth_2q": 971,
+                "ZZPhase_gates": 997,
+                "ZZPhase_depth": 971
+            },
+            "73": {
+                "gates_1q": 1151,
+                "gates_2q": 942,
+                "depth": 1637,
+                "depth_2q": 908,
+                "ZZPhase_gates": 942,
+                "ZZPhase_depth": 908
+            },
+            "74": {
+                "gates_1q": 1185,
+                "gates_2q": 975,
+                "depth": 1683,
+                "depth_2q": 940,
+                "ZZPhase_gates": 975,
+                "ZZPhase_depth": 940
+            },
+            "75": {
+                "gates_1q": 1210,
+                "gates_2q": 993,
+                "depth": 1713,
+                "depth_2q": 956,
+                "ZZPhase_gates": 993,
+                "ZZPhase_depth": 956
+            },
+            "76": {
+                "gates_1q": 1301,
+                "gates_2q": 1055,
+                "depth": 1826,
+                "depth_2q": 1009,
+                "ZZPhase_gates": 1055,
+                "ZZPhase_depth": 1009
+            },
+            "77": {
+                "gates_1q": 1297,
+                "gates_2q": 1061,
+                "depth": 1832,
+                "depth_2q": 1020,
+                "ZZPhase_gates": 1061,
+                "ZZPhase_depth": 1020
+            },
+            "78": {
+                "gates_1q": 1290,
+                "gates_2q": 1042,
+                "depth": 1812,
+                "depth_2q": 1004,
+                "ZZPhase_gates": 1042,
+                "ZZPhase_depth": 1004
+            },
+            "79": {
+                "gates_1q": 1365,
+                "gates_2q": 1099,
+                "depth": 1899,
+                "depth_2q": 1046,
+                "ZZPhase_gates": 1099,
+                "ZZPhase_depth": 1046
+            },
+            "80": {
+                "gates_1q": 1394,
+                "gates_2q": 1122,
+                "depth": 1909,
+                "depth_2q": 1053,
+                "ZZPhase_gates": 1122,
+                "ZZPhase_depth": 1053
+            },
+            "81": {
+                "gates_1q": 1418,
+                "gates_2q": 1139,
+                "depth": 1940,
+                "depth_2q": 1070,
+                "ZZPhase_gates": 1139,
+                "ZZPhase_depth": 1070
+            },
+            "82": {
+                "gates_1q": 1385,
+                "gates_2q": 1121,
+                "depth": 1926,
+                "depth_2q": 1069,
+                "ZZPhase_gates": 1121,
+                "ZZPhase_depth": 1069
+            },
+            "83": {
+                "gates_1q": 1455,
+                "gates_2q": 1193,
+                "depth": 2034,
+                "depth_2q": 1128,
+                "ZZPhase_gates": 1193,
+                "ZZPhase_depth": 1128
+            },
+            "84": {
+                "gates_1q": 1454,
+                "gates_2q": 1181,
+                "depth": 2030,
+                "depth_2q": 1121,
+                "ZZPhase_gates": 1181,
+                "ZZPhase_depth": 1121
+            },
+            "85": {
+                "gates_1q": 1463,
+                "gates_2q": 1187,
+                "depth": 2032,
+                "depth_2q": 1122,
+                "ZZPhase_gates": 1187,
+                "ZZPhase_depth": 1122
+            },
+            "86": {
+                "gates_1q": 1509,
+                "gates_2q": 1228,
+                "depth": 2094,
+                "depth_2q": 1157,
+                "ZZPhase_gates": 1228,
+                "ZZPhase_depth": 1157
+            },
+            "87": {
+                "gates_1q": 1568,
+                "gates_2q": 1265,
+                "depth": 2170,
+                "depth_2q": 1197,
+                "ZZPhase_gates": 1265,
+                "ZZPhase_depth": 1197
+            },
+            "88": {
+                "gates_1q": 1580,
+                "gates_2q": 1276,
+                "depth": 2200,
+                "depth_2q": 1214,
+                "ZZPhase_gates": 1276,
+                "ZZPhase_depth": 1214
+            },
+            "89": {
+                "gates_1q": 1605,
+                "gates_2q": 1293,
+                "depth": 2231,
+                "depth_2q": 1231,
+                "ZZPhase_gates": 1293,
+                "ZZPhase_depth": 1231
+            },
+            "90": {
+                "gates_1q": 1630,
+                "gates_2q": 1310,
+                "depth": 2261,
+                "depth_2q": 1246,
+                "ZZPhase_gates": 1310,
+                "ZZPhase_depth": 1246
+            },
+            "91": {
+                "gates_1q": 1684,
+                "gates_2q": 1354,
+                "depth": 2345,
+                "depth_2q": 1290,
+                "ZZPhase_gates": 1354,
+                "ZZPhase_depth": 1290
+            },
+            "92": {
+                "gates_1q": 1746,
+                "gates_2q": 1394,
+                "depth": 2425,
+                "depth_2q": 1333,
+                "ZZPhase_gates": 1394,
+                "ZZPhase_depth": 1333
+            },
+            "93": {
+                "gates_1q": 1699,
+                "gates_2q": 1372,
+                "depth": 2367,
+                "depth_2q": 1307,
+                "ZZPhase_gates": 1372,
+                "ZZPhase_depth": 1307
+            },
+            "94": {
+                "gates_1q": 1727,
+                "gates_2q": 1397,
+                "depth": 2410,
+                "depth_2q": 1331,
+                "ZZPhase_gates": 1397,
+                "ZZPhase_depth": 1331
+            },
+            "95": {
+                "gates_1q": 1802,
+                "gates_2q": 1444,
+                "depth": 2494,
+                "depth_2q": 1371,
+                "ZZPhase_gates": 1444,
+                "ZZPhase_depth": 1371
+            },
+            "96": {
+                "gates_1q": 1830,
+                "gates_2q": 1468,
+                "depth": 2540,
+                "depth_2q": 1397,
+                "ZZPhase_gates": 1468,
+                "ZZPhase_depth": 1397
+            },
+            "97": {
+                "gates_1q": 1859,
+                "gates_2q": 1491,
+                "depth": 2577,
+                "depth_2q": 1418,
+                "ZZPhase_gates": 1491,
+                "ZZPhase_depth": 1418
+            },
+            "98": {
+                "gates_1q": 1833,
+                "gates_2q": 1472,
+                "depth": 2526,
+                "depth_2q": 1393,
+                "ZZPhase_gates": 1472,
+                "ZZPhase_depth": 1393
+            },
+            "99": {
+                "gates_1q": 1893,
+                "gates_2q": 1518,
+                "depth": 2617,
+                "depth_2q": 1442,
+                "ZZPhase_gates": 1518,
+                "ZZPhase_depth": 1442
+            },
+            "100": {
+                "gates_1q": 1956,
+                "gates_2q": 1561,
+                "depth": 2700,
+                "depth_2q": 1483,
+                "ZZPhase_gates": 1561,
+                "ZZPhase_depth": 1483
+            }
+        },
+        "R0": {
+            "1": {
+                "gates_1q": 6,
+                "gates_2q": 0,
+                "depth": 1,
+                "depth_2q": 0,
+                "ZZPhase_gates": 0,
+                "ZZPhase_depth": 0
+            },
+            "2": {
+                "gates_1q": 15,
+                "gates_2q": 3,
+                "depth": 6,
+                "depth_2q": 3,
+                "ZZPhase_gates": 3,
+                "ZZPhase_depth": 3
+            },
+            "3": {
+                "gates_1q": 26,
+                "gates_2q": 7,
+                "depth": 8,
+                "depth_2q": 4,
+                "ZZPhase_gates": 7,
+                "ZZPhase_depth": 4
+            },
+            "4": {
+                "gates_1q": 29,
+                "gates_2q": 9,
+                "depth": 13,
+                "depth_2q": 6,
+                "ZZPhase_gates": 9,
+                "ZZPhase_depth": 6
+            },
+            "5": {
+                "gates_1q": 35,
+                "gates_2q": 11,
+                "depth": 18,
+                "depth_2q": 9,
+                "ZZPhase_gates": 11,
+                "ZZPhase_depth": 9
+            },
+            "6": {
+                "gates_1q": 37,
+                "gates_2q": 16,
+                "depth": 20,
+                "depth_2q": 10,
+                "ZZPhase_gates": 16,
+                "ZZPhase_depth": 10
+            },
+            "7": {
+                "gates_1q": 46,
+                "gates_2q": 23,
+                "depth": 37,
+                "depth_2q": 19,
+                "ZZPhase_gates": 23,
+                "ZZPhase_depth": 19
+            },
+            "8": {
+                "gates_1q": 57,
+                "gates_2q": 33,
+                "depth": 50,
+                "depth_2q": 29,
+                "ZZPhase_gates": 33,
+                "ZZPhase_depth": 29
+            },
+            "9": {
+                "gates_1q": 62,
+                "gates_2q": 35,
+                "depth": 54,
+                "depth_2q": 28,
+                "ZZPhase_gates": 35,
+                "ZZPhase_depth": 28
+            },
+            "10": {
+                "gates_1q": 65,
+                "gates_2q": 44,
+                "depth": 67,
+                "depth_2q": 37,
+                "ZZPhase_gates": 44,
+                "ZZPhase_depth": 37
+            },
+            "11": {
+                "gates_1q": 88,
+                "gates_2q": 56,
+                "depth": 88,
+                "depth_2q": 47,
+                "ZZPhase_gates": 56,
+                "ZZPhase_depth": 47
+            },
+            "12": {
+                "gates_1q": 98,
+                "gates_2q": 64,
+                "depth": 101,
+                "depth_2q": 55,
+                "ZZPhase_gates": 64,
+                "ZZPhase_depth": 55
+            },
+            "13": {
+                "gates_1q": 120,
+                "gates_2q": 96,
+                "depth": 157,
+                "depth_2q": 91,
+                "ZZPhase_gates": 96,
+                "ZZPhase_depth": 91
+            },
+            "14": {
+                "gates_1q": 137,
+                "gates_2q": 92,
+                "depth": 152,
+                "depth_2q": 82,
+                "ZZPhase_gates": 92,
+                "ZZPhase_depth": 82
+            },
+            "15": {
+                "gates_1q": 152,
+                "gates_2q": 101,
+                "depth": 172,
+                "depth_2q": 90,
+                "ZZPhase_gates": 101,
+                "ZZPhase_depth": 90
+            },
+            "16": {
+                "gates_1q": 159,
+                "gates_2q": 103,
+                "depth": 179,
+                "depth_2q": 95,
+                "ZZPhase_gates": 103,
+                "ZZPhase_depth": 95
+            },
+            "17": {
+                "gates_1q": 194,
+                "gates_2q": 127,
+                "depth": 221,
+                "depth_2q": 115,
+                "ZZPhase_gates": 127,
+                "ZZPhase_depth": 115
+            },
+            "18": {
+                "gates_1q": 225,
+                "gates_2q": 150,
+                "depth": 259,
+                "depth_2q": 136,
+                "ZZPhase_gates": 150,
+                "ZZPhase_depth": 136
+            },
+            "19": {
+                "gates_1q": 244,
+                "gates_2q": 174,
+                "depth": 292,
+                "depth_2q": 156,
+                "ZZPhase_gates": 174,
+                "ZZPhase_depth": 156
+            },
+            "20": {
+                "gates_1q": 268,
+                "gates_2q": 175,
+                "depth": 291,
+                "depth_2q": 154,
+                "ZZPhase_gates": 175,
+                "ZZPhase_depth": 154
+            },
+            "21": {
+                "gates_1q": 288,
+                "gates_2q": 194,
+                "depth": 335,
+                "depth_2q": 177,
+                "ZZPhase_gates": 194,
+                "ZZPhase_depth": 177
+            },
+            "22": {
+                "gates_1q": 322,
+                "gates_2q": 253,
+                "depth": 442,
+                "depth_2q": 245,
+                "ZZPhase_gates": 253,
+                "ZZPhase_depth": 245
+            },
+            "23": {
+                "gates_1q": 341,
+                "gates_2q": 234,
+                "depth": 387,
+                "depth_2q": 205,
+                "ZZPhase_gates": 234,
+                "ZZPhase_depth": 205
+            },
+            "24": {
+                "gates_1q": 352,
+                "gates_2q": 247,
+                "depth": 399,
+                "depth_2q": 214,
+                "ZZPhase_gates": 247,
+                "ZZPhase_depth": 214
+            },
+            "25": {
+                "gates_1q": 325,
+                "gates_2q": 259,
+                "depth": 447,
+                "depth_2q": 252,
+                "ZZPhase_gates": 259,
+                "ZZPhase_depth": 252
+            },
+            "26": {
+                "gates_1q": 374,
+                "gates_2q": 255,
+                "depth": 415,
+                "depth_2q": 221,
+                "ZZPhase_gates": 255,
+                "ZZPhase_depth": 221
+            },
+            "27": {
+                "gates_1q": 380,
+                "gates_2q": 255,
+                "depth": 419,
+                "depth_2q": 221,
+                "ZZPhase_gates": 255,
+                "ZZPhase_depth": 221
+            },
+            "28": {
+                "gates_1q": 337,
+                "gates_2q": 274,
+                "depth": 471,
+                "depth_2q": 267,
+                "ZZPhase_gates": 274,
+                "ZZPhase_depth": 267
+            },
+            "29": {
+                "gates_1q": 357,
+                "gates_2q": 294,
+                "depth": 499,
+                "depth_2q": 285,
+                "ZZPhase_gates": 294,
+                "ZZPhase_depth": 285
+            },
+            "30": {
+                "gates_1q": 394,
+                "gates_2q": 318,
+                "depth": 540,
+                "depth_2q": 303,
+                "ZZPhase_gates": 318,
+                "ZZPhase_depth": 303
+            },
+            "31": {
+                "gates_1q": 446,
+                "gates_2q": 362,
+                "depth": 632,
+                "depth_2q": 355,
+                "ZZPhase_gates": 362,
+                "ZZPhase_depth": 355
+            },
+            "32": {
+                "gates_1q": 477,
+                "gates_2q": 390,
+                "depth": 675,
+                "depth_2q": 377,
+                "ZZPhase_gates": 390,
+                "ZZPhase_depth": 377
+            },
+            "33": {
+                "gates_1q": 487,
+                "gates_2q": 401,
+                "depth": 691,
+                "depth_2q": 387,
+                "ZZPhase_gates": 401,
+                "ZZPhase_depth": 387
+            },
+            "34": {
+                "gates_1q": 487,
+                "gates_2q": 397,
+                "depth": 682,
+                "depth_2q": 380,
+                "ZZPhase_gates": 397,
+                "ZZPhase_depth": 380
+            },
+            "35": {
+                "gates_1q": 445,
+                "gates_2q": 371,
+                "depth": 607,
+                "depth_2q": 345,
+                "ZZPhase_gates": 371,
+                "ZZPhase_depth": 345
+            },
+            "36": {
+                "gates_1q": 458,
+                "gates_2q": 384,
+                "depth": 626,
+                "depth_2q": 357,
+                "ZZPhase_gates": 384,
+                "ZZPhase_depth": 357
+            },
+            "37": {
+                "gates_1q": 536,
+                "gates_2q": 429,
+                "depth": 737,
+                "depth_2q": 411,
+                "ZZPhase_gates": 429,
+                "ZZPhase_depth": 411
+            },
+            "38": {
+                "gates_1q": 540,
+                "gates_2q": 442,
+                "depth": 755,
+                "depth_2q": 420,
+                "ZZPhase_gates": 442,
+                "ZZPhase_depth": 420
+            },
+            "39": {
+                "gates_1q": 537,
+                "gates_2q": 440,
+                "depth": 746,
+                "depth_2q": 419,
+                "ZZPhase_gates": 440,
+                "ZZPhase_depth": 419
+            },
+            "40": {
+                "gates_1q": 546,
+                "gates_2q": 446,
+                "depth": 751,
+                "depth_2q": 422,
+                "ZZPhase_gates": 446,
+                "ZZPhase_depth": 422
+            },
+            "41": {
+                "gates_1q": 546,
+                "gates_2q": 456,
+                "depth": 761,
+                "depth_2q": 428,
+                "ZZPhase_gates": 456,
+                "ZZPhase_depth": 428
+            },
+            "42": {
+                "gates_1q": 557,
+                "gates_2q": 459,
+                "depth": 770,
+                "depth_2q": 431,
+                "ZZPhase_gates": 459,
+                "ZZPhase_depth": 431
+            },
+            "43": {
+                "gates_1q": 570,
+                "gates_2q": 474,
+                "depth": 790,
+                "depth_2q": 445,
+                "ZZPhase_gates": 474,
+                "ZZPhase_depth": 445
+            },
+            "44": {
+                "gates_1q": 592,
+                "gates_2q": 483,
+                "depth": 831,
+                "depth_2q": 467,
+                "ZZPhase_gates": 483,
+                "ZZPhase_depth": 467
+            },
+            "45": {
+                "gates_1q": 606,
+                "gates_2q": 499,
+                "depth": 845,
+                "depth_2q": 478,
+                "ZZPhase_gates": 499,
+                "ZZPhase_depth": 478
+            },
+            "46": {
+                "gates_1q": 635,
+                "gates_2q": 518,
+                "depth": 887,
+                "depth_2q": 498,
+                "ZZPhase_gates": 518,
+                "ZZPhase_depth": 498
+            },
+            "47": {
+                "gates_1q": 645,
+                "gates_2q": 526,
+                "depth": 905,
+                "depth_2q": 510,
+                "ZZPhase_gates": 526,
+                "ZZPhase_depth": 510
+            },
+            "48": {
+                "gates_1q": 802,
+                "gates_2q": 557,
+                "depth": 898,
+                "depth_2q": 481,
+                "ZZPhase_gates": 557,
+                "ZZPhase_depth": 481
+            },
+            "49": {
+                "gates_1q": 663,
+                "gates_2q": 557,
+                "depth": 938,
+                "depth_2q": 535,
+                "ZZPhase_gates": 557,
+                "ZZPhase_depth": 535
+            },
+            "50": {
+                "gates_1q": 673,
+                "gates_2q": 563,
+                "depth": 948,
+                "depth_2q": 540,
+                "ZZPhase_gates": 563,
+                "ZZPhase_depth": 540
+            },
+            "51": {
+                "gates_1q": 700,
+                "gates_2q": 582,
+                "depth": 987,
+                "depth_2q": 560,
+                "ZZPhase_gates": 582,
+                "ZZPhase_depth": 560
+            },
+            "52": {
+                "gates_1q": 705,
+                "gates_2q": 588,
+                "depth": 983,
+                "depth_2q": 554,
+                "ZZPhase_gates": 588,
+                "ZZPhase_depth": 554
+            },
+            "53": {
+                "gates_1q": 734,
+                "gates_2q": 606,
+                "depth": 1026,
+                "depth_2q": 576,
+                "ZZPhase_gates": 606,
+                "ZZPhase_depth": 576
+            },
+            "54": {
+                "gates_1q": 761,
+                "gates_2q": 627,
+                "depth": 1065,
+                "depth_2q": 597,
+                "ZZPhase_gates": 627,
+                "ZZPhase_depth": 597
+            },
+            "55": {
+                "gates_1q": 789,
+                "gates_2q": 646,
+                "depth": 1107,
+                "depth_2q": 621,
+                "ZZPhase_gates": 646,
+                "ZZPhase_depth": 621
+            },
+            "56": {
+                "gates_1q": 830,
+                "gates_2q": 684,
+                "depth": 1187,
+                "depth_2q": 666,
+                "ZZPhase_gates": 684,
+                "ZZPhase_depth": 666
+            },
+            "57": {
+                "gates_1q": 946,
+                "gates_2q": 677,
+                "depth": 1107,
+                "depth_2q": 590,
+                "ZZPhase_gates": 677,
+                "ZZPhase_depth": 590
+            },
+            "58": {
+                "gates_1q": 958,
+                "gates_2q": 686,
+                "depth": 1130,
+                "depth_2q": 599,
+                "ZZPhase_gates": 686,
+                "ZZPhase_depth": 599
+            },
+            "59": {
+                "gates_1q": 860,
+                "gates_2q": 723,
+                "depth": 1222,
+                "depth_2q": 690,
+                "ZZPhase_gates": 723,
+                "ZZPhase_depth": 690
+            },
+            "60": {
+                "gates_1q": 869,
+                "gates_2q": 726,
+                "depth": 1233,
+                "depth_2q": 695,
+                "ZZPhase_gates": 726,
+                "ZZPhase_depth": 695
+            },
+            "61": {
+                "gates_1q": 879,
+                "gates_2q": 732,
+                "depth": 1244,
+                "depth_2q": 701,
+                "ZZPhase_gates": 732,
+                "ZZPhase_depth": 701
+            },
+            "62": {
+                "gates_1q": 905,
+                "gates_2q": 749,
+                "depth": 1272,
+                "depth_2q": 716,
+                "ZZPhase_gates": 749,
+                "ZZPhase_depth": 716
+            },
+            "63": {
+                "gates_1q": 966,
+                "gates_2q": 795,
+                "depth": 1343,
+                "depth_2q": 752,
+                "ZZPhase_gates": 795,
+                "ZZPhase_depth": 752
+            },
+            "64": {
+                "gates_1q": 977,
+                "gates_2q": 802,
+                "depth": 1369,
+                "depth_2q": 767,
+                "ZZPhase_gates": 802,
+                "ZZPhase_depth": 767
+            },
+            "65": {
+                "gates_1q": 988,
+                "gates_2q": 809,
+                "depth": 1370,
+                "depth_2q": 766,
+                "ZZPhase_gates": 809,
+                "ZZPhase_depth": 766
+            },
+            "66": {
+                "gates_1q": 1031,
+                "gates_2q": 844,
+                "depth": 1453,
+                "depth_2q": 814,
+                "ZZPhase_gates": 844,
+                "ZZPhase_depth": 814
+            },
+            "67": {
+                "gates_1q": 1087,
+                "gates_2q": 879,
+                "depth": 1525,
+                "depth_2q": 844,
+                "ZZPhase_gates": 879,
+                "ZZPhase_depth": 844
+            },
+            "68": {
+                "gates_1q": 1129,
+                "gates_2q": 918,
+                "depth": 1599,
+                "depth_2q": 887,
+                "ZZPhase_gates": 918,
+                "ZZPhase_depth": 887
+            },
+            "69": {
+                "gates_1q": 1189,
+                "gates_2q": 967,
+                "depth": 1699,
+                "depth_2q": 941,
+                "ZZPhase_gates": 967,
+                "ZZPhase_depth": 941
+            },
+            "70": {
+                "gates_1q": 1189,
+                "gates_2q": 965,
+                "depth": 1686,
+                "depth_2q": 935,
+                "ZZPhase_gates": 965,
+                "ZZPhase_depth": 935
+            },
+            "71": {
+                "gates_1q": 1249,
+                "gates_2q": 1015,
+                "depth": 1755,
+                "depth_2q": 976,
+                "ZZPhase_gates": 1015,
+                "ZZPhase_depth": 976
+            },
+            "72": {
+                "gates_1q": 1247,
+                "gates_2q": 1017,
+                "depth": 1769,
+                "depth_2q": 983,
+                "ZZPhase_gates": 1017,
+                "ZZPhase_depth": 983
+            },
+            "73": {
+                "gates_1q": 1257,
+                "gates_2q": 1024,
+                "depth": 1783,
+                "depth_2q": 989,
+                "ZZPhase_gates": 1024,
+                "ZZPhase_depth": 989
+            },
+            "74": {
+                "gates_1q": 1283,
+                "gates_2q": 1044,
+                "depth": 1821,
+                "depth_2q": 1009,
+                "ZZPhase_gates": 1044,
+                "ZZPhase_depth": 1009
+            },
+            "75": {
+                "gates_1q": 1334,
+                "gates_2q": 1076,
+                "depth": 1902,
+                "depth_2q": 1047,
+                "ZZPhase_gates": 1076,
+                "ZZPhase_depth": 1047
+            },
+            "76": {
+                "gates_1q": 1413,
+                "gates_2q": 1136,
+                "depth": 2015,
+                "depth_2q": 1108,
+                "ZZPhase_gates": 1136,
+                "ZZPhase_depth": 1108
+            },
+            "77": {
+                "gates_1q": 1445,
+                "gates_2q": 1170,
+                "depth": 2057,
+                "depth_2q": 1134,
+                "ZZPhase_gates": 1170,
+                "ZZPhase_depth": 1134
+            },
+            "78": {
+                "gates_1q": 1484,
+                "gates_2q": 1199,
+                "depth": 2108,
+                "depth_2q": 1159,
+                "ZZPhase_gates": 1199,
+                "ZZPhase_depth": 1159
+            },
+            "79": {
+                "gates_1q": 1416,
+                "gates_2q": 1153,
+                "depth": 2008,
+                "depth_2q": 1113,
+                "ZZPhase_gates": 1153,
+                "ZZPhase_depth": 1113
+            },
+            "80": {
+                "gates_1q": 1458,
+                "gates_2q": 1173,
+                "depth": 2066,
+                "depth_2q": 1139,
+                "ZZPhase_gates": 1173,
+                "ZZPhase_depth": 1139
+            },
+            "81": {
+                "gates_1q": 1469,
+                "gates_2q": 1187,
+                "depth": 2041,
+                "depth_2q": 1123,
+                "ZZPhase_gates": 1187,
+                "ZZPhase_depth": 1123
+            },
+            "82": {
+                "gates_1q": 1494,
+                "gates_2q": 1210,
+                "depth": 2083,
+                "depth_2q": 1148,
+                "ZZPhase_gates": 1210,
+                "ZZPhase_depth": 1148
+            },
+            "83": {
+                "gates_1q": 1524,
+                "gates_2q": 1234,
+                "depth": 2124,
+                "depth_2q": 1172,
+                "ZZPhase_gates": 1234,
+                "ZZPhase_depth": 1172
+            },
+            "84": {
+                "gates_1q": 1548,
+                "gates_2q": 1244,
+                "depth": 2167,
+                "depth_2q": 1190,
+                "ZZPhase_gates": 1244,
+                "ZZPhase_depth": 1190
+            },
+            "85": {
+                "gates_1q": 1655,
+                "gates_2q": 1327,
+                "depth": 2323,
+                "depth_2q": 1274,
+                "ZZPhase_gates": 1327,
+                "ZZPhase_depth": 1274
+            },
+            "86": {
+                "gates_1q": 1583,
+                "gates_2q": 1286,
+                "depth": 2226,
+                "depth_2q": 1226,
+                "ZZPhase_gates": 1286,
+                "ZZPhase_depth": 1226
+            },
+            "87": {
+                "gates_1q": 1681,
+                "gates_2q": 1358,
+                "depth": 2344,
+                "depth_2q": 1286,
+                "ZZPhase_gates": 1358,
+                "ZZPhase_depth": 1286
+            },
+            "88": {
+                "gates_1q": 1755,
+                "gates_2q": 1406,
+                "depth": 2470,
+                "depth_2q": 1351,
+                "ZZPhase_gates": 1406,
+                "ZZPhase_depth": 1351
+            },
+            "89": {
+                "gates_1q": 1763,
+                "gates_2q": 1411,
+                "depth": 2489,
+                "depth_2q": 1365,
+                "ZZPhase_gates": 1411,
+                "ZZPhase_depth": 1365
+            },
+            "90": {
+                "gates_1q": 1709,
+                "gates_2q": 1367,
+                "depth": 2420,
+                "depth_2q": 1330,
+                "ZZPhase_gates": 1367,
+                "ZZPhase_depth": 1330
+            },
+            "91": {
+                "gates_1q": 1736,
+                "gates_2q": 1392,
+                "depth": 2438,
+                "depth_2q": 1342,
+                "ZZPhase_gates": 1392,
+                "ZZPhase_depth": 1342
+            },
+            "92": {
+                "gates_1q": 1726,
+                "gates_2q": 1388,
+                "depth": 2432,
+                "depth_2q": 1339,
+                "ZZPhase_gates": 1388,
+                "ZZPhase_depth": 1339
+            },
+            "93": {
+                "gates_1q": 1736,
+                "gates_2q": 1399,
+                "depth": 2449,
+                "depth_2q": 1349,
+                "ZZPhase_gates": 1399,
+                "ZZPhase_depth": 1349
+            },
+            "94": {
+                "gates_1q": 1796,
+                "gates_2q": 1436,
+                "depth": 2530,
+                "depth_2q": 1390,
+                "ZZPhase_gates": 1436,
+                "ZZPhase_depth": 1390
+            },
+            "95": {
+                "gates_1q": 1840,
+                "gates_2q": 1470,
+                "depth": 2582,
+                "depth_2q": 1418,
+                "ZZPhase_gates": 1470,
+                "ZZPhase_depth": 1418
+            },
+            "96": {
+                "gates_1q": 1883,
+                "gates_2q": 1504,
+                "depth": 2645,
+                "depth_2q": 1452,
+                "ZZPhase_gates": 1504,
+                "ZZPhase_depth": 1452
+            },
+            "97": {
+                "gates_1q": 1908,
+                "gates_2q": 1521,
+                "depth": 2674,
+                "depth_2q": 1468,
+                "ZZPhase_gates": 1521,
+                "ZZPhase_depth": 1468
+            },
+            "98": {
+                "gates_1q": 1937,
+                "gates_2q": 1546,
+                "depth": 2719,
+                "depth_2q": 1493,
+                "ZZPhase_gates": 1546,
+                "ZZPhase_depth": 1493
+            },
+            "99": {
+                "gates_1q": 1999,
+                "gates_2q": 1594,
+                "depth": 2791,
+                "depth_2q": 1529,
+                "ZZPhase_gates": 1594,
+                "ZZPhase_depth": 1529
+            },
+            "100": {
+                "gates_1q": 2052,
+                "gates_2q": 1654,
+                "depth": 2869,
+                "depth_2q": 1572,
+                "ZZPhase_gates": 1654,
+                "ZZPhase_depth": 1572
+            }
+        }
+    },
+    "88": {
+        "Rx": {
+            "1": {
+                "gates_1q": 8,
+                "gates_2q": 0,
+                "depth": 1,
+                "depth_2q": 0,
+                "ZZPhase_gates": 0,
+                "ZZPhase_depth": 0
+            },
+            "2": {
+                "gates_1q": 17,
+                "gates_2q": 3,
+                "depth": 6,
+                "depth_2q": 3,
+                "ZZPhase_gates": 3,
+                "ZZPhase_depth": 3
+            },
+            "3": {
+                "gates_1q": 28,
+                "gates_2q": 7,
+                "depth": 8,
+                "depth_2q": 4,
+                "ZZPhase_gates": 7,
+                "ZZPhase_depth": 4
+            },
+            "4": {
+                "gates_1q": 41,
+                "gates_2q": 12,
+                "depth": 16,
+                "depth_2q": 9,
+                "ZZPhase_gates": 12,
+                "ZZPhase_depth": 9
+            },
+            "5": {
+                "gates_1q": 46,
+                "gates_2q": 16,
+                "depth": 18,
+                "depth_2q": 10,
+                "ZZPhase_gates": 16,
+                "ZZPhase_depth": 10
+            },
+            "6": {
+                "gates_1q": 58,
+                "gates_2q": 25,
+                "depth": 34,
+                "depth_2q": 18,
+                "ZZPhase_gates": 25,
+                "ZZPhase_depth": 18
+            },
+            "7": {
+                "gates_1q": 63,
+                "gates_2q": 31,
+                "depth": 46,
+                "depth_2q": 26,
+                "ZZPhase_gates": 31,
+                "ZZPhase_depth": 26
+            },
+            "8": {
+                "gates_1q": 77,
+                "gates_2q": 48,
+                "depth": 65,
+                "depth_2q": 37,
+                "ZZPhase_gates": 48,
+                "ZZPhase_depth": 37
+            },
+            "9": {
+                "gates_1q": 83,
+                "gates_2q": 46,
+                "depth": 67,
+                "depth_2q": 38,
+                "ZZPhase_gates": 46,
+                "ZZPhase_depth": 38
+            },
+            "10": {
+                "gates_1q": 94,
+                "gates_2q": 58,
+                "depth": 84,
+                "depth_2q": 47,
+                "ZZPhase_gates": 58,
+                "ZZPhase_depth": 47
+            },
+            "11": {
+                "gates_1q": 122,
+                "gates_2q": 75,
+                "depth": 114,
+                "depth_2q": 63,
+                "ZZPhase_gates": 75,
+                "ZZPhase_depth": 63
+            },
+            "12": {
+                "gates_1q": 125,
+                "gates_2q": 81,
+                "depth": 128,
+                "depth_2q": 69,
+                "ZZPhase_gates": 81,
+                "ZZPhase_depth": 69
+            },
+            "13": {
+                "gates_1q": 160,
+                "gates_2q": 102,
+                "depth": 167,
+                "depth_2q": 87,
+                "ZZPhase_gates": 102,
+                "ZZPhase_depth": 87
+            },
+            "14": {
+                "gates_1q": 160,
+                "gates_2q": 102,
+                "depth": 169,
+                "depth_2q": 91,
+                "ZZPhase_gates": 102,
+                "ZZPhase_depth": 91
+            },
+            "15": {
+                "gates_1q": 171,
+                "gates_2q": 108,
+                "depth": 177,
+                "depth_2q": 95,
+                "ZZPhase_gates": 108,
+                "ZZPhase_depth": 95
+            },
+            "16": {
+                "gates_1q": 193,
+                "gates_2q": 129,
+                "depth": 207,
+                "depth_2q": 114,
+                "ZZPhase_gates": 129,
+                "ZZPhase_depth": 114
+            },
+            "17": {
+                "gates_1q": 188,
+                "gates_2q": 127,
+                "depth": 199,
+                "depth_2q": 109,
+                "ZZPhase_gates": 127,
+                "ZZPhase_depth": 109
+            },
+            "18": {
+                "gates_1q": 233,
+                "gates_2q": 148,
+                "depth": 244,
+                "depth_2q": 127,
+                "ZZPhase_gates": 148,
+                "ZZPhase_depth": 127
+            },
+            "19": {
+                "gates_1q": 243,
+                "gates_2q": 159,
+                "depth": 260,
+                "depth_2q": 139,
+                "ZZPhase_gates": 159,
+                "ZZPhase_depth": 139
+            },
+            "20": {
+                "gates_1q": 244,
+                "gates_2q": 158,
+                "depth": 261,
+                "depth_2q": 140,
+                "ZZPhase_gates": 158,
+                "ZZPhase_depth": 140
+            },
+            "21": {
+                "gates_1q": 251,
+                "gates_2q": 170,
+                "depth": 281,
+                "depth_2q": 149,
+                "ZZPhase_gates": 170,
+                "ZZPhase_depth": 149
+            },
+            "22": {
+                "gates_1q": 263,
+                "gates_2q": 179,
+                "depth": 300,
+                "depth_2q": 160,
+                "ZZPhase_gates": 179,
+                "ZZPhase_depth": 160
+            },
+            "23": {
+                "gates_1q": 323,
+                "gates_2q": 206,
+                "depth": 344,
+                "depth_2q": 181,
+                "ZZPhase_gates": 206,
+                "ZZPhase_depth": 181
+            },
+            "24": {
+                "gates_1q": 328,
+                "gates_2q": 213,
+                "depth": 353,
+                "depth_2q": 188,
+                "ZZPhase_gates": 213,
+                "ZZPhase_depth": 188
+            },
+            "25": {
+                "gates_1q": 307,
+                "gates_2q": 248,
+                "depth": 410,
+                "depth_2q": 236,
+                "ZZPhase_gates": 248,
+                "ZZPhase_depth": 236
+            },
+            "26": {
+                "gates_1q": 305,
+                "gates_2q": 251,
+                "depth": 416,
+                "depth_2q": 239,
+                "ZZPhase_gates": 251,
+                "ZZPhase_depth": 239
+            },
+            "27": {
+                "gates_1q": 362,
+                "gates_2q": 247,
+                "depth": 391,
+                "depth_2q": 208,
+                "ZZPhase_gates": 247,
+                "ZZPhase_depth": 208
+            },
+            "28": {
+                "gates_1q": 428,
+                "gates_2q": 286,
+                "depth": 463,
+                "depth_2q": 245,
+                "ZZPhase_gates": 286,
+                "ZZPhase_depth": 245
+            },
+            "29": {
+                "gates_1q": 418,
+                "gates_2q": 290,
+                "depth": 470,
+                "depth_2q": 249,
+                "ZZPhase_gates": 290,
+                "ZZPhase_depth": 249
+            },
+            "30": {
+                "gates_1q": 398,
+                "gates_2q": 320,
+                "depth": 542,
+                "depth_2q": 304,
+                "ZZPhase_gates": 320,
+                "ZZPhase_depth": 304
+            },
+            "31": {
+                "gates_1q": 433,
+                "gates_2q": 347,
+                "depth": 585,
+                "depth_2q": 331,
+                "ZZPhase_gates": 347,
+                "ZZPhase_depth": 331
+            },
+            "32": {
+                "gates_1q": 422,
+                "gates_2q": 335,
+                "depth": 569,
+                "depth_2q": 317,
+                "ZZPhase_gates": 335,
+                "ZZPhase_depth": 317
+            },
+            "33": {
+                "gates_1q": 517,
+                "gates_2q": 356,
+                "depth": 593,
+                "depth_2q": 315,
+                "ZZPhase_gates": 356,
+                "ZZPhase_depth": 315
+            },
+            "34": {
+                "gates_1q": 510,
+                "gates_2q": 402,
+                "depth": 697,
+                "depth_2q": 385,
+                "ZZPhase_gates": 402,
+                "ZZPhase_depth": 385
+            },
+            "35": {
+                "gates_1q": 519,
+                "gates_2q": 418,
+                "depth": 717,
+                "depth_2q": 399,
+                "ZZPhase_gates": 418,
+                "ZZPhase_depth": 399
+            },
+            "36": {
+                "gates_1q": 524,
+                "gates_2q": 425,
+                "depth": 727,
+                "depth_2q": 406,
+                "ZZPhase_gates": 425,
+                "ZZPhase_depth": 406
+            },
+            "37": {
+                "gates_1q": 538,
+                "gates_2q": 436,
+                "depth": 745,
+                "depth_2q": 417,
+                "ZZPhase_gates": 436,
+                "ZZPhase_depth": 417
+            },
+            "38": {
+                "gates_1q": 606,
+                "gates_2q": 488,
+                "depth": 833,
+                "depth_2q": 463,
+                "ZZPhase_gates": 488,
+                "ZZPhase_depth": 463
+            },
+            "39": {
+                "gates_1q": 628,
+                "gates_2q": 505,
+                "depth": 869,
+                "depth_2q": 485,
+                "ZZPhase_gates": 505,
+                "ZZPhase_depth": 485
+            },
+            "40": {
+                "gates_1q": 633,
+                "gates_2q": 523,
+                "depth": 888,
+                "depth_2q": 499,
+                "ZZPhase_gates": 523,
+                "ZZPhase_depth": 499
+            },
+            "41": {
+                "gates_1q": 637,
+                "gates_2q": 526,
+                "depth": 893,
+                "depth_2q": 502,
+                "ZZPhase_gates": 526,
+                "ZZPhase_depth": 502
+            },
+            "42": {
+                "gates_1q": 661,
+                "gates_2q": 534,
+                "depth": 905,
+                "depth_2q": 503,
+                "ZZPhase_gates": 534,
+                "ZZPhase_depth": 503
+            },
+            "43": {
+                "gates_1q": 725,
+                "gates_2q": 592,
+                "depth": 1009,
+                "depth_2q": 563,
+                "ZZPhase_gates": 592,
+                "ZZPhase_depth": 563
+            },
+            "44": {
+                "gates_1q": 775,
+                "gates_2q": 645,
+                "depth": 1085,
+                "depth_2q": 612,
+                "ZZPhase_gates": 645,
+                "ZZPhase_depth": 612
+            },
+            "45": {
+                "gates_1q": 785,
+                "gates_2q": 639,
+                "depth": 1094,
+                "depth_2q": 610,
+                "ZZPhase_gates": 639,
+                "ZZPhase_depth": 610
+            },
+            "46": {
+                "gates_1q": 813,
+                "gates_2q": 665,
+                "depth": 1095,
+                "depth_2q": 612,
+                "ZZPhase_gates": 665,
+                "ZZPhase_depth": 612
+            },
+            "47": {
+                "gates_1q": 822,
+                "gates_2q": 670,
+                "depth": 1154,
+                "depth_2q": 646,
+                "ZZPhase_gates": 670,
+                "ZZPhase_depth": 646
+            },
+            "48": {
+                "gates_1q": 819,
+                "gates_2q": 680,
+                "depth": 1167,
+                "depth_2q": 655,
+                "ZZPhase_gates": 680,
+                "ZZPhase_depth": 655
+            },
+            "49": {
+                "gates_1q": 826,
+                "gates_2q": 689,
+                "depth": 1178,
+                "depth_2q": 664,
+                "ZZPhase_gates": 689,
+                "ZZPhase_depth": 664
+            },
+            "50": {
+                "gates_1q": 830,
+                "gates_2q": 692,
+                "depth": 1179,
+                "depth_2q": 665,
+                "ZZPhase_gates": 692,
+                "ZZPhase_depth": 665
+            },
+            "51": {
+                "gates_1q": 855,
+                "gates_2q": 715,
+                "depth": 1213,
+                "depth_2q": 684,
+                "ZZPhase_gates": 715,
+                "ZZPhase_depth": 684
+            },
+            "52": {
+                "gates_1q": 863,
+                "gates_2q": 722,
+                "depth": 1227,
+                "depth_2q": 693,
+                "ZZPhase_gates": 722,
+                "ZZPhase_depth": 693
+            },
+            "53": {
+                "gates_1q": 832,
+                "gates_2q": 696,
+                "depth": 1180,
+                "depth_2q": 670,
+                "ZZPhase_gates": 696,
+                "ZZPhase_depth": 670
+            },
+            "54": {
+                "gates_1q": 842,
+                "gates_2q": 711,
+                "depth": 1201,
+                "depth_2q": 684,
+                "ZZPhase_gates": 711,
+                "ZZPhase_depth": 684
+            },
+            "55": {
+                "gates_1q": 870,
+                "gates_2q": 734,
+                "depth": 1240,
+                "depth_2q": 704,
+                "ZZPhase_gates": 734,
+                "ZZPhase_depth": 704
+            },
+            "56": {
+                "gates_1q": 897,
+                "gates_2q": 754,
+                "depth": 1274,
+                "depth_2q": 723,
+                "ZZPhase_gates": 754,
+                "ZZPhase_depth": 723
+            },
+            "57": {
+                "gates_1q": 966,
+                "gates_2q": 821,
+                "depth": 1357,
+                "depth_2q": 768,
+                "ZZPhase_gates": 821,
+                "ZZPhase_depth": 768
+            },
+            "58": {
+                "gates_1q": 928,
+                "gates_2q": 774,
+                "depth": 1315,
+                "depth_2q": 743,
+                "ZZPhase_gates": 774,
+                "ZZPhase_depth": 743
+            },
+            "59": {
+                "gates_1q": 951,
+                "gates_2q": 793,
+                "depth": 1332,
+                "depth_2q": 752,
+                "ZZPhase_gates": 793,
+                "ZZPhase_depth": 752
+            },
+            "60": {
+                "gates_1q": 1032,
+                "gates_2q": 861,
+                "depth": 1463,
+                "depth_2q": 823,
+                "ZZPhase_gates": 861,
+                "ZZPhase_depth": 823
+            },
+            "61": {
+                "gates_1q": 1060,
+                "gates_2q": 883,
+                "depth": 1499,
+                "depth_2q": 841,
+                "ZZPhase_gates": 883,
+                "ZZPhase_depth": 841
+            },
+            "62": {
+                "gates_1q": 1020,
+                "gates_2q": 856,
+                "depth": 1450,
+                "depth_2q": 819,
+                "ZZPhase_gates": 856,
+                "ZZPhase_depth": 819
+            },
+            "63": {
+                "gates_1q": 1010,
+                "gates_2q": 852,
+                "depth": 1451,
+                "depth_2q": 816,
+                "ZZPhase_gates": 852,
+                "ZZPhase_depth": 816
+            },
+            "64": {
+                "gates_1q": 1021,
+                "gates_2q": 867,
+                "depth": 1470,
+                "depth_2q": 829,
+                "ZZPhase_gates": 867,
+                "ZZPhase_depth": 829
+            },
+            "65": {
+                "gates_1q": 1141,
+                "gates_2q": 958,
+                "depth": 1621,
+                "depth_2q": 913,
+                "ZZPhase_gates": 958,
+                "ZZPhase_depth": 913
+            },
+            "66": {
+                "gates_1q": 1103,
+                "gates_2q": 934,
+                "depth": 1574,
+                "depth_2q": 887,
+                "ZZPhase_gates": 934,
+                "ZZPhase_depth": 887
+            },
+            "67": {
+                "gates_1q": 1118,
+                "gates_2q": 937,
+                "depth": 1558,
+                "depth_2q": 874,
+                "ZZPhase_gates": 937,
+                "ZZPhase_depth": 874
+            },
+            "68": {
+                "gates_1q": 1073,
+                "gates_2q": 912,
+                "depth": 1531,
+                "depth_2q": 869,
+                "ZZPhase_gates": 912,
+                "ZZPhase_depth": 869
+            },
+            "69": {
+                "gates_1q": 1083,
+                "gates_2q": 932,
+                "depth": 1542,
+                "depth_2q": 882,
+                "ZZPhase_gates": 932,
+                "ZZPhase_depth": 882
+            },
+            "70": {
+                "gates_1q": 1239,
+                "gates_2q": 1041,
+                "depth": 1763,
+                "depth_2q": 990,
+                "ZZPhase_gates": 1041,
+                "ZZPhase_depth": 990
+            },
+            "71": {
+                "gates_1q": 1238,
+                "gates_2q": 1025,
+                "depth": 1717,
+                "depth_2q": 962,
+                "ZZPhase_gates": 1025,
+                "ZZPhase_depth": 962
+            },
+            "72": {
+                "gates_1q": 1201,
+                "gates_2q": 1007,
+                "depth": 1692,
+                "depth_2q": 952,
+                "ZZPhase_gates": 1007,
+                "ZZPhase_depth": 952
+            },
+            "73": {
+                "gates_1q": 1224,
+                "gates_2q": 1007,
+                "depth": 1722,
+                "depth_2q": 961,
+                "ZZPhase_gates": 1007,
+                "ZZPhase_depth": 961
+            },
+            "74": {
+                "gates_1q": 1262,
+                "gates_2q": 1033,
+                "depth": 1752,
+                "depth_2q": 978,
+                "ZZPhase_gates": 1033,
+                "ZZPhase_depth": 978
+            },
+            "75": {
+                "gates_1q": 1232,
+                "gates_2q": 1016,
+                "depth": 1718,
+                "depth_2q": 965,
+                "ZZPhase_gates": 1016,
+                "ZZPhase_depth": 965
+            },
+            "76": {
+                "gates_1q": 1243,
+                "gates_2q": 1027,
+                "depth": 1733,
+                "depth_2q": 974,
+                "ZZPhase_gates": 1027,
+                "ZZPhase_depth": 974
+            },
+            "77": {
+                "gates_1q": 1260,
+                "gates_2q": 1052,
+                "depth": 1754,
+                "depth_2q": 989,
+                "ZZPhase_gates": 1052,
+                "ZZPhase_depth": 989
+            },
+            "78": {
+                "gates_1q": 1316,
+                "gates_2q": 1109,
+                "depth": 1840,
+                "depth_2q": 1040,
+                "ZZPhase_gates": 1109,
+                "ZZPhase_depth": 1040
+            },
+            "79": {
+                "gates_1q": 1329,
+                "gates_2q": 1122,
+                "depth": 1858,
+                "depth_2q": 1052,
+                "ZZPhase_gates": 1122,
+                "ZZPhase_depth": 1052
+            },
+            "80": {
+                "gates_1q": 1304,
+                "gates_2q": 1102,
+                "depth": 1835,
+                "depth_2q": 1040,
+                "ZZPhase_gates": 1102,
+                "ZZPhase_depth": 1040
+            },
+            "81": {
+                "gates_1q": 1363,
+                "gates_2q": 1147,
+                "depth": 1923,
+                "depth_2q": 1086,
+                "ZZPhase_gates": 1147,
+                "ZZPhase_depth": 1086
+            },
+            "82": {
+                "gates_1q": 1425,
+                "gates_2q": 1195,
+                "depth": 2011,
+                "depth_2q": 1132,
+                "ZZPhase_gates": 1195,
+                "ZZPhase_depth": 1132
+            },
+            "83": {
+                "gates_1q": 1515,
+                "gates_2q": 1254,
+                "depth": 2130,
+                "depth_2q": 1193,
+                "ZZPhase_gates": 1254,
+                "ZZPhase_depth": 1193
+            },
+            "84": {
+                "gates_1q": 1460,
+                "gates_2q": 1234,
+                "depth": 2065,
+                "depth_2q": 1164,
+                "ZZPhase_gates": 1234,
+                "ZZPhase_depth": 1164
+            },
+            "85": {
+                "gates_1q": 1470,
+                "gates_2q": 1245,
+                "depth": 2080,
+                "depth_2q": 1173,
+                "ZZPhase_gates": 1245,
+                "ZZPhase_depth": 1173
+            },
+            "86": {
+                "gates_1q": 1498,
+                "gates_2q": 1266,
+                "depth": 2125,
+                "depth_2q": 1201,
+                "ZZPhase_gates": 1266,
+                "ZZPhase_depth": 1201
+            },
+            "87": {
+                "gates_1q": 1439,
+                "gates_2q": 1218,
+                "depth": 2035,
+                "depth_2q": 1150,
+                "ZZPhase_gates": 1218,
+                "ZZPhase_depth": 1150
+            },
+            "88": {
+                "gates_1q": 1516,
+                "gates_2q": 1290,
+                "depth": 2169,
+                "depth_2q": 1227,
+                "ZZPhase_gates": 1290,
+                "ZZPhase_depth": 1227
+            },
+            "89": {
+                "gates_1q": 1543,
+                "gates_2q": 1302,
+                "depth": 2183,
+                "depth_2q": 1227,
+                "ZZPhase_gates": 1302,
+                "ZZPhase_depth": 1227
+            },
+            "90": {
+                "gates_1q": 1553,
+                "gates_2q": 1309,
+                "depth": 2201,
+                "depth_2q": 1236,
+                "ZZPhase_gates": 1309,
+                "ZZPhase_depth": 1236
+            },
+            "91": {
+                "gates_1q": 1578,
+                "gates_2q": 1327,
+                "depth": 2235,
+                "depth_2q": 1254,
+                "ZZPhase_gates": 1327,
+                "ZZPhase_depth": 1254
+            },
+            "92": {
+                "gates_1q": 1609,
+                "gates_2q": 1376,
+                "depth": 2267,
+                "depth_2q": 1275,
+                "ZZPhase_gates": 1376,
+                "ZZPhase_depth": 1275
+            },
+            "93": {
+                "gates_1q": 1636,
+                "gates_2q": 1384,
+                "depth": 2298,
+                "depth_2q": 1292,
+                "ZZPhase_gates": 1384,
+                "ZZPhase_depth": 1292
+            },
+            "94": {
+                "gates_1q": 1646,
+                "gates_2q": 1393,
+                "depth": 2311,
+                "depth_2q": 1300,
+                "ZZPhase_gates": 1393,
+                "ZZPhase_depth": 1300
+            },
+            "95": {
+                "gates_1q": 1674,
+                "gates_2q": 1415,
+                "depth": 2361,
+                "depth_2q": 1327,
+                "ZZPhase_gates": 1415,
+                "ZZPhase_depth": 1327
+            },
+            "96": {
+                "gates_1q": 1699,
+                "gates_2q": 1432,
+                "depth": 2400,
+                "depth_2q": 1345,
+                "ZZPhase_gates": 1432,
+                "ZZPhase_depth": 1345
+            },
+            "97": {
+                "gates_1q": 1710,
+                "gates_2q": 1429,
+                "depth": 2414,
+                "depth_2q": 1351,
+                "ZZPhase_gates": 1429,
+                "ZZPhase_depth": 1351
+            },
+            "98": {
+                "gates_1q": 1788,
+                "gates_2q": 1481,
+                "depth": 2473,
+                "depth_2q": 1381,
+                "ZZPhase_gates": 1481,
+                "ZZPhase_depth": 1381
+            },
+            "99": {
+                "gates_1q": 1809,
+                "gates_2q": 1524,
+                "depth": 2521,
+                "depth_2q": 1413,
+                "ZZPhase_gates": 1524,
+                "ZZPhase_depth": 1413
+            },
+            "100": {
+                "gates_1q": 1760,
+                "gates_2q": 1490,
+                "depth": 2512,
+                "depth_2q": 1413,
+                "ZZPhase_gates": 1490,
+                "ZZPhase_depth": 1413
+            }
+        },
+        "R0": {
+            "1": {
+                "gates_1q": 8,
+                "gates_2q": 0,
+                "depth": 1,
+                "depth_2q": 0,
+                "ZZPhase_gates": 0,
+                "ZZPhase_depth": 0
+            },
+            "2": {
+                "gates_1q": 17,
+                "gates_2q": 3,
+                "depth": 6,
+                "depth_2q": 3,
+                "ZZPhase_gates": 3,
+                "ZZPhase_depth": 3
+            },
+            "3": {
+                "gates_1q": 28,
+                "gates_2q": 7,
+                "depth": 8,
+                "depth_2q": 4,
+                "ZZPhase_gates": 7,
+                "ZZPhase_depth": 4
+            },
+            "4": {
+                "gates_1q": 41,
+                "gates_2q": 12,
+                "depth": 16,
+                "depth_2q": 9,
+                "ZZPhase_gates": 12,
+                "ZZPhase_depth": 9
+            },
+            "5": {
+                "gates_1q": 44,
+                "gates_2q": 17,
+                "depth": 18,
+                "depth_2q": 10,
+                "ZZPhase_gates": 17,
+                "ZZPhase_depth": 10
+            },
+            "6": {
+                "gates_1q": 58,
+                "gates_2q": 25,
+                "depth": 34,
+                "depth_2q": 18,
+                "ZZPhase_gates": 25,
+                "ZZPhase_depth": 18
+            },
+            "7": {
+                "gates_1q": 55,
+                "gates_2q": 27,
+                "depth": 33,
+                "depth_2q": 17,
+                "ZZPhase_gates": 27,
+                "ZZPhase_depth": 17
+            },
+            "8": {
+                "gates_1q": 79,
+                "gates_2q": 48,
+                "depth": 66,
+                "depth_2q": 37,
+                "ZZPhase_gates": 48,
+                "ZZPhase_depth": 37
+            },
+            "9": {
+                "gates_1q": 80,
+                "gates_2q": 46,
+                "depth": 66,
+                "depth_2q": 38,
+                "ZZPhase_gates": 46,
+                "ZZPhase_depth": 38
+            },
+            "10": {
+                "gates_1q": 94,
+                "gates_2q": 58,
+                "depth": 84,
+                "depth_2q": 47,
+                "ZZPhase_gates": 58,
+                "ZZPhase_depth": 47
+            },
+            "11": {
+                "gates_1q": 122,
+                "gates_2q": 75,
+                "depth": 114,
+                "depth_2q": 63,
+                "ZZPhase_gates": 75,
+                "ZZPhase_depth": 63
+            },
+            "12": {
+                "gates_1q": 125,
+                "gates_2q": 81,
+                "depth": 128,
+                "depth_2q": 69,
+                "ZZPhase_gates": 81,
+                "ZZPhase_depth": 69
+            },
+            "13": {
+                "gates_1q": 160,
+                "gates_2q": 102,
+                "depth": 167,
+                "depth_2q": 87,
+                "ZZPhase_gates": 102,
+                "ZZPhase_depth": 87
+            },
+            "14": {
+                "gates_1q": 160,
+                "gates_2q": 102,
+                "depth": 169,
+                "depth_2q": 91,
+                "ZZPhase_gates": 102,
+                "ZZPhase_depth": 91
+            },
+            "15": {
+                "gates_1q": 173,
+                "gates_2q": 111,
+                "depth": 187,
+                "depth_2q": 99,
+                "ZZPhase_gates": 111,
+                "ZZPhase_depth": 99
+            },
+            "16": {
+                "gates_1q": 180,
+                "gates_2q": 116,
+                "depth": 189,
+                "depth_2q": 104,
+                "ZZPhase_gates": 116,
+                "ZZPhase_depth": 104
+            },
+            "17": {
+                "gates_1q": 198,
+                "gates_2q": 123,
+                "depth": 198,
+                "depth_2q": 103,
+                "ZZPhase_gates": 123,
+                "ZZPhase_depth": 103
+            },
+            "18": {
+                "gates_1q": 201,
+                "gates_2q": 123,
+                "depth": 201,
+                "depth_2q": 105,
+                "ZZPhase_gates": 123,
+                "ZZPhase_depth": 105
+            },
+            "19": {
+                "gates_1q": 218,
+                "gates_2q": 133,
+                "depth": 217,
+                "depth_2q": 112,
+                "ZZPhase_gates": 133,
+                "ZZPhase_depth": 112
+            },
+            "20": {
+                "gates_1q": 195,
+                "gates_2q": 143,
+                "depth": 217,
+                "depth_2q": 120,
+                "ZZPhase_gates": 143,
+                "ZZPhase_depth": 120
+            },
+            "21": {
+                "gates_1q": 270,
+                "gates_2q": 184,
+                "depth": 294,
+                "depth_2q": 158,
+                "ZZPhase_gates": 184,
+                "ZZPhase_depth": 158
+            },
+            "22": {
+                "gates_1q": 263,
+                "gates_2q": 190,
+                "depth": 298,
+                "depth_2q": 164,
+                "ZZPhase_gates": 190,
+                "ZZPhase_depth": 164
+            },
+            "23": {
+                "gates_1q": 296,
+                "gates_2q": 201,
+                "depth": 328,
+                "depth_2q": 175,
+                "ZZPhase_gates": 201,
+                "ZZPhase_depth": 175
+            },
+            "24": {
+                "gates_1q": 314,
+                "gates_2q": 214,
+                "depth": 346,
+                "depth_2q": 184,
+                "ZZPhase_gates": 214,
+                "ZZPhase_depth": 184
+            },
+            "25": {
+                "gates_1q": 307,
+                "gates_2q": 213,
+                "depth": 345,
+                "depth_2q": 183,
+                "ZZPhase_gates": 213,
+                "ZZPhase_depth": 183
+            },
+            "26": {
+                "gates_1q": 326,
+                "gates_2q": 223,
+                "depth": 367,
+                "depth_2q": 196,
+                "ZZPhase_gates": 223,
+                "ZZPhase_depth": 196
+            },
+            "27": {
+                "gates_1q": 378,
+                "gates_2q": 250,
+                "depth": 404,
+                "depth_2q": 215,
+                "ZZPhase_gates": 250,
+                "ZZPhase_depth": 215
+            },
+            "28": {
+                "gates_1q": 361,
+                "gates_2q": 254,
+                "depth": 411,
+                "depth_2q": 219,
+                "ZZPhase_gates": 254,
+                "ZZPhase_depth": 219
+            },
+            "29": {
+                "gates_1q": 414,
+                "gates_2q": 290,
+                "depth": 454,
+                "depth_2q": 245,
+                "ZZPhase_gates": 290,
+                "ZZPhase_depth": 245
+            },
+            "30": {
+                "gates_1q": 466,
+                "gates_2q": 307,
+                "depth": 503,
+                "depth_2q": 266,
+                "ZZPhase_gates": 307,
+                "ZZPhase_depth": 266
+            },
+            "31": {
+                "gates_1q": 447,
+                "gates_2q": 309,
+                "depth": 505,
+                "depth_2q": 268,
+                "ZZPhase_gates": 309,
+                "ZZPhase_depth": 268
+            },
+            "32": {
+                "gates_1q": 455,
+                "gates_2q": 325,
+                "depth": 541,
+                "depth_2q": 286,
+                "ZZPhase_gates": 325,
+                "ZZPhase_depth": 286
+            },
+            "33": {
+                "gates_1q": 471,
+                "gates_2q": 337,
+                "depth": 561,
+                "depth_2q": 299,
+                "ZZPhase_gates": 337,
+                "ZZPhase_depth": 299
+            },
+            "34": {
+                "gates_1q": 498,
+                "gates_2q": 354,
+                "depth": 571,
+                "depth_2q": 307,
+                "ZZPhase_gates": 354,
+                "ZZPhase_depth": 307
+            },
+            "35": {
+                "gates_1q": 553,
+                "gates_2q": 403,
+                "depth": 643,
+                "depth_2q": 345,
+                "ZZPhase_gates": 403,
+                "ZZPhase_depth": 345
+            },
+            "36": {
+                "gates_1q": 614,
+                "gates_2q": 424,
+                "depth": 685,
+                "depth_2q": 363,
+                "ZZPhase_gates": 424,
+                "ZZPhase_depth": 363
+            },
+            "37": {
+                "gates_1q": 606,
+                "gates_2q": 430,
+                "depth": 691,
+                "depth_2q": 370,
+                "ZZPhase_gates": 430,
+                "ZZPhase_depth": 370
+            },
+            "38": {
+                "gates_1q": 528,
+                "gates_2q": 437,
+                "depth": 735,
+                "depth_2q": 418,
+                "ZZPhase_gates": 437,
+                "ZZPhase_depth": 418
+            },
+            "39": {
+                "gates_1q": 570,
+                "gates_2q": 469,
+                "depth": 809,
+                "depth_2q": 457,
+                "ZZPhase_gates": 469,
+                "ZZPhase_depth": 457
+            },
+            "40": {
+                "gates_1q": 597,
+                "gates_2q": 489,
+                "depth": 840,
+                "depth_2q": 474,
+                "ZZPhase_gates": 489,
+                "ZZPhase_depth": 474
+            },
+            "41": {
+                "gates_1q": 658,
+                "gates_2q": 536,
+                "depth": 930,
+                "depth_2q": 522,
+                "ZZPhase_gates": 536,
+                "ZZPhase_depth": 522
+            },
+            "42": {
+                "gates_1q": 661,
+                "gates_2q": 537,
+                "depth": 934,
+                "depth_2q": 523,
+                "ZZPhase_gates": 537,
+                "ZZPhase_depth": 523
+            },
+            "43": {
+                "gates_1q": 670,
+                "gates_2q": 536,
+                "depth": 938,
+                "depth_2q": 521,
+                "ZZPhase_gates": 536,
+                "ZZPhase_depth": 521
+            },
+            "44": {
+                "gates_1q": 680,
+                "gates_2q": 543,
+                "depth": 950,
+                "depth_2q": 527,
+                "ZZPhase_gates": 543,
+                "ZZPhase_depth": 527
+            },
+            "45": {
+                "gates_1q": 709,
+                "gates_2q": 566,
+                "depth": 987,
+                "depth_2q": 548,
+                "ZZPhase_gates": 566,
+                "ZZPhase_depth": 548
+            },
+            "46": {
+                "gates_1q": 772,
+                "gates_2q": 618,
+                "depth": 1081,
+                "depth_2q": 601,
+                "ZZPhase_gates": 618,
+                "ZZPhase_depth": 601
+            },
+            "47": {
+                "gates_1q": 782,
+                "gates_2q": 629,
+                "depth": 1097,
+                "depth_2q": 611,
+                "ZZPhase_gates": 629,
+                "ZZPhase_depth": 611
+            },
+            "48": {
+                "gates_1q": 811,
+                "gates_2q": 638,
+                "depth": 1118,
+                "depth_2q": 618,
+                "ZZPhase_gates": 638,
+                "ZZPhase_depth": 618
+            },
+            "49": {
+                "gates_1q": 838,
+                "gates_2q": 664,
+                "depth": 1164,
+                "depth_2q": 644,
+                "ZZPhase_gates": 664,
+                "ZZPhase_depth": 644
+            },
+            "50": {
+                "gates_1q": 812,
+                "gates_2q": 663,
+                "depth": 1147,
+                "depth_2q": 645,
+                "ZZPhase_gates": 663,
+                "ZZPhase_depth": 645
+            },
+            "51": {
+                "gates_1q": 822,
+                "gates_2q": 676,
+                "depth": 1154,
+                "depth_2q": 651,
+                "ZZPhase_gates": 676,
+                "ZZPhase_depth": 651
+            },
+            "52": {
+                "gates_1q": 880,
+                "gates_2q": 719,
+                "depth": 1246,
+                "depth_2q": 696,
+                "ZZPhase_gates": 719,
+                "ZZPhase_depth": 696
+            },
+            "53": {
+                "gates_1q": 889,
+                "gates_2q": 720,
+                "depth": 1246,
+                "depth_2q": 694,
+                "ZZPhase_gates": 720,
+                "ZZPhase_depth": 694
+            },
+            "54": {
+                "gates_1q": 917,
+                "gates_2q": 744,
+                "depth": 1291,
+                "depth_2q": 721,
+                "ZZPhase_gates": 744,
+                "ZZPhase_depth": 721
+            },
+            "55": {
+                "gates_1q": 845,
+                "gates_2q": 693,
+                "depth": 1200,
+                "depth_2q": 676,
+                "ZZPhase_gates": 693,
+                "ZZPhase_depth": 676
+            },
+            "56": {
+                "gates_1q": 924,
+                "gates_2q": 749,
+                "depth": 1290,
+                "depth_2q": 723,
+                "ZZPhase_gates": 749,
+                "ZZPhase_depth": 723
+            },
+            "57": {
+                "gates_1q": 952,
+                "gates_2q": 776,
+                "depth": 1332,
+                "depth_2q": 747,
+                "ZZPhase_gates": 776,
+                "ZZPhase_depth": 747
+            },
+            "58": {
+                "gates_1q": 980,
+                "gates_2q": 795,
+                "depth": 1369,
+                "depth_2q": 764,
+                "ZZPhase_gates": 795,
+                "ZZPhase_depth": 764
+            },
+            "59": {
+                "gates_1q": 957,
+                "gates_2q": 789,
+                "depth": 1339,
+                "depth_2q": 750,
+                "ZZPhase_gates": 789,
+                "ZZPhase_depth": 750
+            },
+            "60": {
+                "gates_1q": 970,
+                "gates_2q": 798,
+                "depth": 1355,
+                "depth_2q": 759,
+                "ZZPhase_gates": 798,
+                "ZZPhase_depth": 759
+            },
+            "61": {
+                "gates_1q": 1029,
+                "gates_2q": 837,
+                "depth": 1434,
+                "depth_2q": 800,
+                "ZZPhase_gates": 837,
+                "ZZPhase_depth": 800
+            },
+            "62": {
+                "gates_1q": 1037,
+                "gates_2q": 847,
+                "depth": 1461,
+                "depth_2q": 816,
+                "ZZPhase_gates": 847,
+                "ZZPhase_depth": 816
+            },
+            "63": {
+                "gates_1q": 1017,
+                "gates_2q": 843,
+                "depth": 1422,
+                "depth_2q": 800,
+                "ZZPhase_gates": 843,
+                "ZZPhase_depth": 800
+            },
+            "64": {
+                "gates_1q": 1094,
+                "gates_2q": 892,
+                "depth": 1532,
+                "depth_2q": 854,
+                "ZZPhase_gates": 892,
+                "ZZPhase_depth": 854
+            },
+            "65": {
+                "gates_1q": 1086,
+                "gates_2q": 902,
+                "depth": 1541,
+                "depth_2q": 866,
+                "ZZPhase_gates": 902,
+                "ZZPhase_depth": 866
+            },
+            "66": {
+                "gates_1q": 1072,
+                "gates_2q": 881,
+                "depth": 1520,
+                "depth_2q": 850,
+                "ZZPhase_gates": 881,
+                "ZZPhase_depth": 850
+            },
+            "67": {
+                "gates_1q": 1097,
+                "gates_2q": 901,
+                "depth": 1561,
+                "depth_2q": 871,
+                "ZZPhase_gates": 901,
+                "ZZPhase_depth": 871
+            },
+            "68": {
+                "gates_1q": 1109,
+                "gates_2q": 909,
+                "depth": 1572,
+                "depth_2q": 877,
+                "ZZPhase_gates": 909,
+                "ZZPhase_depth": 877
+            },
+            "69": {
+                "gates_1q": 1118,
+                "gates_2q": 917,
+                "depth": 1586,
+                "depth_2q": 884,
+                "ZZPhase_gates": 917,
+                "ZZPhase_depth": 884
+            },
+            "70": {
+                "gates_1q": 1163,
+                "gates_2q": 948,
+                "depth": 1642,
+                "depth_2q": 910,
+                "ZZPhase_gates": 948,
+                "ZZPhase_depth": 910
+            },
+            "71": {
+                "gates_1q": 1180,
+                "gates_2q": 971,
+                "depth": 1675,
+                "depth_2q": 932,
+                "ZZPhase_gates": 971,
+                "ZZPhase_depth": 932
+            },
+            "72": {
+                "gates_1q": 1188,
+                "gates_2q": 979,
+                "depth": 1688,
+                "depth_2q": 939,
+                "ZZPhase_gates": 979,
+                "ZZPhase_depth": 939
+            },
+            "73": {
+                "gates_1q": 1247,
+                "gates_2q": 1028,
+                "depth": 1782,
+                "depth_2q": 992,
+                "ZZPhase_gates": 1028,
+                "ZZPhase_depth": 992
+            },
+            "74": {
+                "gates_1q": 1273,
+                "gates_2q": 1048,
+                "depth": 1818,
+                "depth_2q": 1009,
+                "ZZPhase_gates": 1048,
+                "ZZPhase_depth": 1009
+            },
+            "75": {
+                "gates_1q": 1284,
+                "gates_2q": 1065,
+                "depth": 1838,
+                "depth_2q": 1024,
+                "ZZPhase_gates": 1065,
+                "ZZPhase_depth": 1024
+            },
+            "76": {
+                "gates_1q": 1297,
+                "gates_2q": 1079,
+                "depth": 1854,
+                "depth_2q": 1033,
+                "ZZPhase_gates": 1079,
+                "ZZPhase_depth": 1033
+            },
+            "77": {
+                "gates_1q": 1335,
+                "gates_2q": 1113,
+                "depth": 1919,
+                "depth_2q": 1075,
+                "ZZPhase_gates": 1113,
+                "ZZPhase_depth": 1075
+            },
+            "78": {
+                "gates_1q": 1331,
+                "gates_2q": 1107,
+                "depth": 1900,
+                "depth_2q": 1065,
+                "ZZPhase_gates": 1107,
+                "ZZPhase_depth": 1065
+            },
+            "79": {
+                "gates_1q": 1369,
+                "gates_2q": 1125,
+                "depth": 1945,
+                "depth_2q": 1086,
+                "ZZPhase_gates": 1125,
+                "ZZPhase_depth": 1086
+            },
+            "80": {
+                "gates_1q": 1416,
+                "gates_2q": 1165,
+                "depth": 1996,
+                "depth_2q": 1114,
+                "ZZPhase_gates": 1165,
+                "ZZPhase_depth": 1114
+            },
+            "81": {
+                "gates_1q": 1440,
+                "gates_2q": 1207,
+                "depth": 2063,
+                "depth_2q": 1153,
+                "ZZPhase_gates": 1207,
+                "ZZPhase_depth": 1153
+            },
+            "82": {
+                "gates_1q": 1433,
+                "gates_2q": 1194,
+                "depth": 2043,
+                "depth_2q": 1144,
+                "ZZPhase_gates": 1194,
+                "ZZPhase_depth": 1144
+            },
+            "83": {
+                "gates_1q": 1460,
+                "gates_2q": 1216,
+                "depth": 2082,
+                "depth_2q": 1167,
+                "ZZPhase_gates": 1216,
+                "ZZPhase_depth": 1167
+            },
+            "84": {
+                "gates_1q": 1516,
+                "gates_2q": 1259,
+                "depth": 2162,
+                "depth_2q": 1208,
+                "ZZPhase_gates": 1259,
+                "ZZPhase_depth": 1208
+            },
+            "85": {
+                "gates_1q": 1529,
+                "gates_2q": 1285,
+                "depth": 2192,
+                "depth_2q": 1228,
+                "ZZPhase_gates": 1285,
+                "ZZPhase_depth": 1228
+            },
+            "86": {
+                "gates_1q": 1505,
+                "gates_2q": 1275,
+                "depth": 2170,
+                "depth_2q": 1223,
+                "ZZPhase_gates": 1275,
+                "ZZPhase_depth": 1223
+            },
+            "87": {
+                "gates_1q": 1530,
+                "gates_2q": 1295,
+                "depth": 2213,
+                "depth_2q": 1247,
+                "ZZPhase_gates": 1295,
+                "ZZPhase_depth": 1247
+            },
+            "88": {
+                "gates_1q": 1549,
+                "gates_2q": 1296,
+                "depth": 2207,
+                "depth_2q": 1239,
+                "ZZPhase_gates": 1296,
+                "ZZPhase_depth": 1239
+            },
+            "89": {
+                "gates_1q": 1571,
+                "gates_2q": 1302,
+                "depth": 2234,
+                "depth_2q": 1250,
+                "ZZPhase_gates": 1302,
+                "ZZPhase_depth": 1250
+            },
+            "90": {
+                "gates_1q": 1594,
+                "gates_2q": 1317,
+                "depth": 2279,
+                "depth_2q": 1270,
+                "ZZPhase_gates": 1317,
+                "ZZPhase_depth": 1270
+            },
+            "91": {
+                "gates_1q": 1693,
+                "gates_2q": 1392,
+                "depth": 2405,
+                "depth_2q": 1341,
+                "ZZPhase_gates": 1392,
+                "ZZPhase_depth": 1341
+            },
+            "92": {
+                "gates_1q": 1684,
+                "gates_2q": 1400,
+                "depth": 2413,
+                "depth_2q": 1347,
+                "ZZPhase_gates": 1400,
+                "ZZPhase_depth": 1347
+            },
+            "93": {
+                "gates_1q": 1753,
+                "gates_2q": 1437,
+                "depth": 2456,
+                "depth_2q": 1368,
+                "ZZPhase_gates": 1437,
+                "ZZPhase_depth": 1368
+            },
+            "94": {
+                "gates_1q": 1766,
+                "gates_2q": 1452,
+                "depth": 2476,
+                "depth_2q": 1382,
+                "ZZPhase_gates": 1452,
+                "ZZPhase_depth": 1382
+            },
+            "95": {
+                "gates_1q": 1823,
+                "gates_2q": 1507,
+                "depth": 2597,
+                "depth_2q": 1446,
+                "ZZPhase_gates": 1507,
+                "ZZPhase_depth": 1446
+            },
+            "96": {
+                "gates_1q": 1814,
+                "gates_2q": 1508,
+                "depth": 2603,
+                "depth_2q": 1453,
+                "ZZPhase_gates": 1508,
+                "ZZPhase_depth": 1453
+            },
+            "97": {
+                "gates_1q": 1862,
+                "gates_2q": 1541,
+                "depth": 2638,
+                "depth_2q": 1470,
+                "ZZPhase_gates": 1541,
+                "ZZPhase_depth": 1470
+            },
+            "98": {
+                "gates_1q": 1810,
+                "gates_2q": 1498,
+                "depth": 2537,
+                "depth_2q": 1415,
+                "ZZPhase_gates": 1498,
+                "ZZPhase_depth": 1415
+            },
+            "99": {
+                "gates_1q": 1812,
+                "gates_2q": 1501,
+                "depth": 2542,
+                "depth_2q": 1418,
+                "ZZPhase_gates": 1501,
+                "ZZPhase_depth": 1418
+            },
+            "100": {
+                "gates_1q": 1882,
+                "gates_2q": 1561,
+                "depth": 2692,
+                "depth_2q": 1499,
+                "ZZPhase_gates": 1561,
+                "ZZPhase_depth": 1499
+            }
+        }
+    },
+    "1010": {
+        "Rx": {
+            "1": {
+                "gates_1q": 10,
+                "gates_2q": 0,
+                "depth": 1,
+                "depth_2q": 0,
+                "ZZPhase_gates": 0,
+                "ZZPhase_depth": 0
+            },
+            "2": {
+                "gates_1q": 19,
+                "gates_2q": 3,
+                "depth": 6,
+                "depth_2q": 3,
+                "ZZPhase_gates": 3,
+                "ZZPhase_depth": 3
+            },
+            "3": {
+                "gates_1q": 30,
+                "gates_2q": 7,
+                "depth": 8,
+                "depth_2q": 4,
+                "ZZPhase_gates": 7,
+                "ZZPhase_depth": 4
+            },
+            "4": {
+                "gates_1q": 33,
+                "gates_2q": 9,
+                "depth": 13,
+                "depth_2q": 6,
+                "ZZPhase_gates": 9,
+                "ZZPhase_depth": 6
+            },
+            "5": {
+                "gates_1q": 39,
+                "gates_2q": 11,
+                "depth": 18,
+                "depth_2q": 9,
+                "ZZPhase_gates": 11,
+                "ZZPhase_depth": 9
+            },
+            "6": {
+                "gates_1q": 60,
+                "gates_2q": 25,
+                "depth": 34,
+                "depth_2q": 18,
+                "ZZPhase_gates": 25,
+                "ZZPhase_depth": 18
+            },
+            "7": {
+                "gates_1q": 78,
+                "gates_2q": 32,
+                "depth": 41,
+                "depth_2q": 22,
+                "ZZPhase_gates": 32,
+                "ZZPhase_depth": 22
+            },
+            "8": {
+                "gates_1q": 77,
+                "gates_2q": 34,
+                "depth": 42,
+                "depth_2q": 22,
+                "ZZPhase_gates": 34,
+                "ZZPhase_depth": 22
+            },
+            "9": {
+                "gates_1q": 77,
+                "gates_2q": 35,
+                "depth": 43,
+                "depth_2q": 23,
+                "ZZPhase_gates": 35,
+                "ZZPhase_depth": 23
+            },
+            "10": {
+                "gates_1q": 80,
+                "gates_2q": 36,
+                "depth": 47,
+                "depth_2q": 24,
+                "ZZPhase_gates": 36,
+                "ZZPhase_depth": 24
+            },
+            "11": {
+                "gates_1q": 96,
+                "gates_2q": 47,
+                "depth": 63,
+                "depth_2q": 34,
+                "ZZPhase_gates": 47,
+                "ZZPhase_depth": 34
+            },
+            "12": {
+                "gates_1q": 110,
+                "gates_2q": 62,
+                "depth": 88,
+                "depth_2q": 49,
+                "ZZPhase_gates": 62,
+                "ZZPhase_depth": 49
+            },
+            "13": {
+                "gates_1q": 141,
+                "gates_2q": 79,
+                "depth": 123,
+                "depth_2q": 64,
+                "ZZPhase_gates": 79,
+                "ZZPhase_depth": 64
+            },
+            "14": {
+                "gates_1q": 144,
+                "gates_2q": 83,
+                "depth": 120,
+                "depth_2q": 62,
+                "ZZPhase_gates": 83,
+                "ZZPhase_depth": 62
+            },
+            "15": {
+                "gates_1q": 165,
+                "gates_2q": 104,
+                "depth": 152,
+                "depth_2q": 81,
+                "ZZPhase_gates": 104,
+                "ZZPhase_depth": 81
+            },
+            "16": {
+                "gates_1q": 171,
+                "gates_2q": 108,
+                "depth": 166,
+                "depth_2q": 88,
+                "ZZPhase_gates": 108,
+                "ZZPhase_depth": 88
+            },
+            "17": {
+                "gates_1q": 148,
+                "gates_2q": 93,
+                "depth": 138,
+                "depth_2q": 76,
+                "ZZPhase_gates": 93,
+                "ZZPhase_depth": 76
+            },
+            "18": {
+                "gates_1q": 177,
+                "gates_2q": 108,
+                "depth": 164,
+                "depth_2q": 90,
+                "ZZPhase_gates": 108,
+                "ZZPhase_depth": 90
+            },
+            "19": {
+                "gates_1q": 171,
+                "gates_2q": 111,
+                "depth": 167,
+                "depth_2q": 93,
+                "ZZPhase_gates": 111,
+                "ZZPhase_depth": 93
+            },
+            "20": {
+                "gates_1q": 206,
+                "gates_2q": 131,
+                "depth": 202,
+                "depth_2q": 110,
+                "ZZPhase_gates": 131,
+                "ZZPhase_depth": 110
+            },
+            "21": {
+                "gates_1q": 204,
+                "gates_2q": 137,
+                "depth": 219,
+                "depth_2q": 118,
+                "ZZPhase_gates": 137,
+                "ZZPhase_depth": 118
+            },
+            "22": {
+                "gates_1q": 238,
+                "gates_2q": 159,
+                "depth": 250,
+                "depth_2q": 132,
+                "ZZPhase_gates": 159,
+                "ZZPhase_depth": 132
+            },
+            "23": {
+                "gates_1q": 251,
+                "gates_2q": 167,
+                "depth": 272,
+                "depth_2q": 144,
+                "ZZPhase_gates": 167,
+                "ZZPhase_depth": 144
+            },
+            "24": {
+                "gates_1q": 258,
+                "gates_2q": 167,
+                "depth": 271,
+                "depth_2q": 142,
+                "ZZPhase_gates": 167,
+                "ZZPhase_depth": 142
+            },
+            "25": {
+                "gates_1q": 297,
+                "gates_2q": 190,
+                "depth": 312,
+                "depth_2q": 163,
+                "ZZPhase_gates": 190,
+                "ZZPhase_depth": 163
+            },
+            "26": {
+                "gates_1q": 288,
+                "gates_2q": 187,
+                "depth": 306,
+                "depth_2q": 161,
+                "ZZPhase_gates": 187,
+                "ZZPhase_depth": 161
+            },
+            "27": {
+                "gates_1q": 284,
+                "gates_2q": 224,
+                "depth": 368,
+                "depth_2q": 211,
+                "ZZPhase_gates": 224,
+                "ZZPhase_depth": 211
+            },
+            "28": {
+                "gates_1q": 314,
+                "gates_2q": 225,
+                "depth": 366,
+                "depth_2q": 198,
+                "ZZPhase_gates": 225,
+                "ZZPhase_depth": 198
+            },
+            "29": {
+                "gates_1q": 346,
+                "gates_2q": 231,
+                "depth": 374,
+                "depth_2q": 200,
+                "ZZPhase_gates": 231,
+                "ZZPhase_depth": 200
+            },
+            "30": {
+                "gates_1q": 318,
+                "gates_2q": 247,
+                "depth": 413,
+                "depth_2q": 233,
+                "ZZPhase_gates": 247,
+                "ZZPhase_depth": 233
+            },
+            "31": {
+                "gates_1q": 344,
+                "gates_2q": 273,
+                "depth": 457,
+                "depth_2q": 258,
+                "ZZPhase_gates": 273,
+                "ZZPhase_depth": 258
+            },
+            "32": {
+                "gates_1q": 400,
+                "gates_2q": 267,
+                "depth": 434,
+                "depth_2q": 234,
+                "ZZPhase_gates": 267,
+                "ZZPhase_depth": 234
+            },
+            "33": {
+                "gates_1q": 417,
+                "gates_2q": 287,
+                "depth": 469,
+                "depth_2q": 253,
+                "ZZPhase_gates": 287,
+                "ZZPhase_depth": 253
+            },
+            "34": {
+                "gates_1q": 392,
+                "gates_2q": 312,
+                "depth": 523,
+                "depth_2q": 296,
+                "ZZPhase_gates": 312,
+                "ZZPhase_depth": 296
+            },
+            "35": {
+                "gates_1q": 452,
+                "gates_2q": 320,
+                "depth": 506,
+                "depth_2q": 273,
+                "ZZPhase_gates": 320,
+                "ZZPhase_depth": 273
+            },
+            "36": {
+                "gates_1q": 502,
+                "gates_2q": 342,
+                "depth": 532,
+                "depth_2q": 287,
+                "ZZPhase_gates": 342,
+                "ZZPhase_depth": 287
+            },
+            "37": {
+                "gates_1q": 484,
+                "gates_2q": 329,
+                "depth": 527,
+                "depth_2q": 285,
+                "ZZPhase_gates": 329,
+                "ZZPhase_depth": 285
+            },
+            "38": {
+                "gates_1q": 573,
+                "gates_2q": 401,
+                "depth": 636,
+                "depth_2q": 343,
+                "ZZPhase_gates": 401,
+                "ZZPhase_depth": 343
+            },
+            "39": {
+                "gates_1q": 594,
+                "gates_2q": 415,
+                "depth": 655,
+                "depth_2q": 351,
+                "ZZPhase_gates": 415,
+                "ZZPhase_depth": 351
+            },
+            "40": {
+                "gates_1q": 575,
+                "gates_2q": 408,
+                "depth": 649,
+                "depth_2q": 350,
+                "ZZPhase_gates": 408,
+                "ZZPhase_depth": 350
+            },
+            "41": {
+                "gates_1q": 517,
+                "gates_2q": 410,
+                "depth": 703,
+                "depth_2q": 396,
+                "ZZPhase_gates": 410,
+                "ZZPhase_depth": 396
+            },
+            "42": {
+                "gates_1q": 605,
+                "gates_2q": 479,
+                "depth": 822,
+                "depth_2q": 461,
+                "ZZPhase_gates": 479,
+                "ZZPhase_depth": 461
+            },
+            "43": {
+                "gates_1q": 638,
+                "gates_2q": 518,
+                "depth": 867,
+                "depth_2q": 489,
+                "ZZPhase_gates": 518,
+                "ZZPhase_depth": 489
+            },
+            "44": {
+                "gates_1q": 620,
+                "gates_2q": 502,
+                "depth": 857,
+                "depth_2q": 481,
+                "ZZPhase_gates": 502,
+                "ZZPhase_depth": 481
+            },
+            "45": {
+                "gates_1q": 648,
+                "gates_2q": 529,
+                "depth": 902,
+                "depth_2q": 509,
+                "ZZPhase_gates": 529,
+                "ZZPhase_depth": 509
+            },
+            "46": {
+                "gates_1q": 659,
+                "gates_2q": 539,
+                "depth": 917,
+                "depth_2q": 518,
+                "ZZPhase_gates": 539,
+                "ZZPhase_depth": 518
+            },
+            "47": {
+                "gates_1q": 649,
+                "gates_2q": 523,
+                "depth": 903,
+                "depth_2q": 506,
+                "ZZPhase_gates": 523,
+                "ZZPhase_depth": 506
+            },
+            "48": {
+                "gates_1q": 660,
+                "gates_2q": 534,
+                "depth": 923,
+                "depth_2q": 518,
+                "ZZPhase_gates": 534,
+                "ZZPhase_depth": 518
+            },
+            "49": {
+                "gates_1q": 695,
+                "gates_2q": 583,
+                "depth": 981,
+                "depth_2q": 560,
+                "ZZPhase_gates": 583,
+                "ZZPhase_depth": 560
+            },
+            "50": {
+                "gates_1q": 737,
+                "gates_2q": 612,
+                "depth": 1037,
+                "depth_2q": 588,
+                "ZZPhase_gates": 612,
+                "ZZPhase_depth": 588
+            },
+            "51": {
+                "gates_1q": 763,
+                "gates_2q": 631,
+                "depth": 1069,
+                "depth_2q": 603,
+                "ZZPhase_gates": 631,
+                "ZZPhase_depth": 603
+            },
+            "52": {
+                "gates_1q": 829,
+                "gates_2q": 680,
+                "depth": 1163,
+                "depth_2q": 653,
+                "ZZPhase_gates": 680,
+                "ZZPhase_depth": 653
+            },
+            "53": {
+                "gates_1q": 813,
+                "gates_2q": 670,
+                "depth": 1144,
+                "depth_2q": 643,
+                "ZZPhase_gates": 670,
+                "ZZPhase_depth": 643
+            },
+            "54": {
+                "gates_1q": 841,
+                "gates_2q": 689,
+                "depth": 1179,
+                "depth_2q": 661,
+                "ZZPhase_gates": 689,
+                "ZZPhase_depth": 661
+            },
+            "55": {
+                "gates_1q": 866,
+                "gates_2q": 711,
+                "depth": 1213,
+                "depth_2q": 684,
+                "ZZPhase_gates": 711,
+                "ZZPhase_depth": 684
+            },
+            "56": {
+                "gates_1q": 893,
+                "gates_2q": 740,
+                "depth": 1258,
+                "depth_2q": 713,
+                "ZZPhase_gates": 740,
+                "ZZPhase_depth": 713
+            },
+            "57": {
+                "gates_1q": 862,
+                "gates_2q": 705,
+                "depth": 1189,
+                "depth_2q": 669,
+                "ZZPhase_gates": 705,
+                "ZZPhase_depth": 669
+            },
+            "58": {
+                "gates_1q": 962,
+                "gates_2q": 769,
+                "depth": 1330,
+                "depth_2q": 737,
+                "ZZPhase_gates": 769,
+                "ZZPhase_depth": 737
+            },
+            "59": {
+                "gates_1q": 995,
+                "gates_2q": 804,
+                "depth": 1375,
+                "depth_2q": 767,
+                "ZZPhase_gates": 804,
+                "ZZPhase_depth": 767
+            },
+            "60": {
+                "gates_1q": 1021,
+                "gates_2q": 826,
+                "depth": 1417,
+                "depth_2q": 790,
+                "ZZPhase_gates": 826,
+                "ZZPhase_depth": 790
+            },
+            "61": {
+                "gates_1q": 1048,
+                "gates_2q": 846,
+                "depth": 1457,
+                "depth_2q": 811,
+                "ZZPhase_gates": 846,
+                "ZZPhase_depth": 811
+            },
+            "62": {
+                "gates_1q": 1114,
+                "gates_2q": 911,
+                "depth": 1579,
+                "depth_2q": 881,
+                "ZZPhase_gates": 911,
+                "ZZPhase_depth": 881
+            },
+            "63": {
+                "gates_1q": 1060,
+                "gates_2q": 885,
+                "depth": 1459,
+                "depth_2q": 818,
+                "ZZPhase_gates": 885,
+                "ZZPhase_depth": 818
+            },
+            "64": {
+                "gates_1q": 1128,
+                "gates_2q": 921,
+                "depth": 1586,
+                "depth_2q": 882,
+                "ZZPhase_gates": 921,
+                "ZZPhase_depth": 882
+            },
+            "65": {
+                "gates_1q": 1142,
+                "gates_2q": 939,
+                "depth": 1610,
+                "depth_2q": 899,
+                "ZZPhase_gates": 939,
+                "ZZPhase_depth": 899
+            },
+            "66": {
+                "gates_1q": 1186,
+                "gates_2q": 949,
+                "depth": 1651,
+                "depth_2q": 913,
+                "ZZPhase_gates": 949,
+                "ZZPhase_depth": 913
+            },
+            "67": {
+                "gates_1q": 1194,
+                "gates_2q": 953,
+                "depth": 1663,
+                "depth_2q": 919,
+                "ZZPhase_gates": 953,
+                "ZZPhase_depth": 919
+            },
+            "68": {
+                "gates_1q": 1222,
+                "gates_2q": 975,
+                "depth": 1696,
+                "depth_2q": 938,
+                "ZZPhase_gates": 975,
+                "ZZPhase_depth": 938
+            },
+            "69": {
+                "gates_1q": 1282,
+                "gates_2q": 1020,
+                "depth": 1784,
+                "depth_2q": 984,
+                "ZZPhase_gates": 1020,
+                "ZZPhase_depth": 984
+            },
+            "70": {
+                "gates_1q": 1309,
+                "gates_2q": 1042,
+                "depth": 1813,
+                "depth_2q": 1002,
+                "ZZPhase_gates": 1042,
+                "ZZPhase_depth": 1002
+            },
+            "71": {
+                "gates_1q": 1370,
+                "gates_2q": 1086,
+                "depth": 1905,
+                "depth_2q": 1048,
+                "ZZPhase_gates": 1086,
+                "ZZPhase_depth": 1048
+            },
+            "72": {
+                "gates_1q": 1428,
+                "gates_2q": 1131,
+                "depth": 1985,
+                "depth_2q": 1090,
+                "ZZPhase_gates": 1131,
+                "ZZPhase_depth": 1090
+            },
+            "73": {
+                "gates_1q": 1589,
+                "gates_2q": 1317,
+                "depth": 2196,
+                "depth_2q": 1205,
+                "ZZPhase_gates": 1317,
+                "ZZPhase_depth": 1205
+            },
+            "74": {
+                "gates_1q": 1628,
+                "gates_2q": 1306,
+                "depth": 2270,
+                "depth_2q": 1243,
+                "ZZPhase_gates": 1306,
+                "ZZPhase_depth": 1243
+            },
+            "75": {
+                "gates_1q": 1695,
+                "gates_2q": 1360,
+                "depth": 2378,
+                "depth_2q": 1302,
+                "ZZPhase_gates": 1360,
+                "ZZPhase_depth": 1302
+            },
+            "76": {
+                "gates_1q": 1697,
+                "gates_2q": 1371,
+                "depth": 2382,
+                "depth_2q": 1304,
+                "ZZPhase_gates": 1371,
+                "ZZPhase_depth": 1304
+            },
+            "77": {
+                "gates_1q": 1699,
+                "gates_2q": 1373,
+                "depth": 2382,
+                "depth_2q": 1304,
+                "ZZPhase_gates": 1373,
+                "ZZPhase_depth": 1304
+            },
+            "78": {
+                "gates_1q": 1709,
+                "gates_2q": 1381,
+                "depth": 2385,
+                "depth_2q": 1308,
+                "ZZPhase_gates": 1381,
+                "ZZPhase_depth": 1308
+            },
+            "79": {
+                "gates_1q": 1718,
+                "gates_2q": 1389,
+                "depth": 2386,
+                "depth_2q": 1309,
+                "ZZPhase_gates": 1389,
+                "ZZPhase_depth": 1309
+            },
+            "80": {
+                "gates_1q": 1728,
+                "gates_2q": 1398,
+                "depth": 2401,
+                "depth_2q": 1318,
+                "ZZPhase_gates": 1398,
+                "ZZPhase_depth": 1318
+            },
+            "81": {
+                "gates_1q": 1738,
+                "gates_2q": 1405,
+                "depth": 2400,
+                "depth_2q": 1317,
+                "ZZPhase_gates": 1405,
+                "ZZPhase_depth": 1317
+            },
+            "82": {
+                "gates_1q": 1784,
+                "gates_2q": 1443,
+                "depth": 2479,
+                "depth_2q": 1358,
+                "ZZPhase_gates": 1443,
+                "ZZPhase_depth": 1358
+            },
+            "83": {
+                "gates_1q": 1811,
+                "gates_2q": 1461,
+                "depth": 2477,
+                "depth_2q": 1356,
+                "ZZPhase_gates": 1461,
+                "ZZPhase_depth": 1356
+            },
+            "84": {
+                "gates_1q": 1721,
+                "gates_2q": 1417,
+                "depth": 2413,
+                "depth_2q": 1334,
+                "ZZPhase_gates": 1417,
+                "ZZPhase_depth": 1334
+            },
+            "85": {
+                "gates_1q": 1798,
+                "gates_2q": 1462,
+                "depth": 2500,
+                "depth_2q": 1370,
+                "ZZPhase_gates": 1462,
+                "ZZPhase_depth": 1370
+            },
+            "86": {
+                "gates_1q": 1807,
+                "gates_2q": 1469,
+                "depth": 2512,
+                "depth_2q": 1376,
+                "ZZPhase_gates": 1469,
+                "ZZPhase_depth": 1376
+            },
+            "87": {
+                "gates_1q": 1833,
+                "gates_2q": 1491,
+                "depth": 2555,
+                "depth_2q": 1400,
+                "ZZPhase_gates": 1491,
+                "ZZPhase_depth": 1400
+            },
+            "88": {
+                "gates_1q": 1860,
+                "gates_2q": 1512,
+                "depth": 2595,
+                "depth_2q": 1422,
+                "ZZPhase_gates": 1512,
+                "ZZPhase_depth": 1422
+            },
+            "89": {
+                "gates_1q": 1920,
+                "gates_2q": 1560,
+                "depth": 2679,
+                "depth_2q": 1467,
+                "ZZPhase_gates": 1560,
+                "ZZPhase_depth": 1467
+            },
+            "90": {
+                "gates_1q": 1931,
+                "gates_2q": 1572,
+                "depth": 2694,
+                "depth_2q": 1476,
+                "ZZPhase_gates": 1572,
+                "ZZPhase_depth": 1476
+            },
+            "91": {
+                "gates_1q": 1958,
+                "gates_2q": 1591,
+                "depth": 2734,
+                "depth_2q": 1498,
+                "ZZPhase_gates": 1591,
+                "ZZPhase_depth": 1498
+            },
+            "92": {
+                "gates_1q": 2073,
+                "gates_2q": 1689,
+                "depth": 2863,
+                "depth_2q": 1568,
+                "ZZPhase_gates": 1689,
+                "ZZPhase_depth": 1568
+            },
+            "93": {
+                "gates_1q": 2057,
+                "gates_2q": 1662,
+                "depth": 2868,
+                "depth_2q": 1573,
+                "ZZPhase_gates": 1662,
+                "ZZPhase_depth": 1573
+            },
+            "94": {
+                "gates_1q": 2011,
+                "gates_2q": 1619,
+                "depth": 2817,
+                "depth_2q": 1545,
+                "ZZPhase_gates": 1619,
+                "ZZPhase_depth": 1545
+            },
+            "95": {
+                "gates_1q": 2038,
+                "gates_2q": 1639,
+                "depth": 2858,
+                "depth_2q": 1567,
+                "ZZPhase_gates": 1639,
+                "ZZPhase_depth": 1567
+            },
+            "96": {
+                "gates_1q": 2096,
+                "gates_2q": 1687,
+                "depth": 2937,
+                "depth_2q": 1610,
+                "ZZPhase_gates": 1687,
+                "ZZPhase_depth": 1610
+            },
+            "97": {
+                "gates_1q": 2076,
+                "gates_2q": 1681,
+                "depth": 2906,
+                "depth_2q": 1596,
+                "ZZPhase_gates": 1681,
+                "ZZPhase_depth": 1596
+            },
+            "98": {
+                "gates_1q": 2154,
+                "gates_2q": 1736,
+                "depth": 2984,
+                "depth_2q": 1637,
+                "ZZPhase_gates": 1736,
+                "ZZPhase_depth": 1637
+            },
+            "99": {
+                "gates_1q": 2211,
+                "gates_2q": 1774,
+                "depth": 3063,
+                "depth_2q": 1678,
+                "ZZPhase_gates": 1774,
+                "ZZPhase_depth": 1678
+            },
+            "100": {
+                "gates_1q": 2270,
+                "gates_2q": 1818,
+                "depth": 3141,
+                "depth_2q": 1718,
+                "ZZPhase_gates": 1818,
+                "ZZPhase_depth": 1718
+            }
+        },
+        "R0": {
+            "1": {
+                "gates_1q": 10,
+                "gates_2q": 0,
+                "depth": 1,
+                "depth_2q": 0,
+                "ZZPhase_gates": 0,
+                "ZZPhase_depth": 0
+            },
+            "2": {
+                "gates_1q": 19,
+                "gates_2q": 3,
+                "depth": 6,
+                "depth_2q": 3,
+                "ZZPhase_gates": 3,
+                "ZZPhase_depth": 3
+            },
+            "3": {
+                "gates_1q": 30,
+                "gates_2q": 7,
+                "depth": 8,
+                "depth_2q": 4,
+                "ZZPhase_gates": 7,
+                "ZZPhase_depth": 4
+            },
+            "4": {
+                "gates_1q": 43,
+                "gates_2q": 12,
+                "depth": 16,
+                "depth_2q": 9,
+                "ZZPhase_gates": 12,
+                "ZZPhase_depth": 9
+            },
+            "5": {
+                "gates_1q": 57,
+                "gates_2q": 17,
+                "depth": 17,
+                "depth_2q": 10,
+                "ZZPhase_gates": 17,
+                "ZZPhase_depth": 10
+            },
+            "6": {
+                "gates_1q": 61,
+                "gates_2q": 23,
+                "depth": 23,
+                "depth_2q": 13,
+                "ZZPhase_gates": 23,
+                "ZZPhase_depth": 13
+            },
+            "7": {
+                "gates_1q": 78,
+                "gates_2q": 32,
+                "depth": 41,
+                "depth_2q": 22,
+                "ZZPhase_gates": 32,
+                "ZZPhase_depth": 22
+            },
+            "8": {
+                "gates_1q": 74,
+                "gates_2q": 33,
+                "depth": 38,
+                "depth_2q": 21,
+                "ZZPhase_gates": 33,
+                "ZZPhase_depth": 21
+            },
+            "9": {
+                "gates_1q": 77,
+                "gates_2q": 35,
+                "depth": 43,
+                "depth_2q": 23,
+                "ZZPhase_gates": 35,
+                "ZZPhase_depth": 23
+            },
+            "10": {
+                "gates_1q": 79,
+                "gates_2q": 38,
+                "depth": 42,
+                "depth_2q": 21,
+                "ZZPhase_gates": 38,
+                "ZZPhase_depth": 21
+            },
+            "11": {
+                "gates_1q": 102,
+                "gates_2q": 55,
+                "depth": 77,
+                "depth_2q": 40,
+                "ZZPhase_gates": 55,
+                "ZZPhase_depth": 40
+            },
+            "12": {
+                "gates_1q": 100,
+                "gates_2q": 61,
+                "depth": 70,
+                "depth_2q": 37,
+                "ZZPhase_gates": 61,
+                "ZZPhase_depth": 37
+            },
+            "13": {
+                "gates_1q": 110,
+                "gates_2q": 66,
+                "depth": 83,
+                "depth_2q": 47,
+                "ZZPhase_gates": 66,
+                "ZZPhase_depth": 47
+            },
+            "14": {
+                "gates_1q": 119,
+                "gates_2q": 69,
+                "depth": 88,
+                "depth_2q": 48,
+                "ZZPhase_gates": 69,
+                "ZZPhase_depth": 48
+            },
+            "15": {
+                "gates_1q": 127,
+                "gates_2q": 81,
+                "depth": 106,
+                "depth_2q": 58,
+                "ZZPhase_gates": 81,
+                "ZZPhase_depth": 58
+            },
+            "16": {
+                "gates_1q": 146,
+                "gates_2q": 93,
+                "depth": 124,
+                "depth_2q": 70,
+                "ZZPhase_gates": 93,
+                "ZZPhase_depth": 70
+            },
+            "17": {
+                "gates_1q": 160,
+                "gates_2q": 104,
+                "depth": 146,
+                "depth_2q": 81,
+                "ZZPhase_gates": 104,
+                "ZZPhase_depth": 81
+            },
+            "18": {
+                "gates_1q": 164,
+                "gates_2q": 109,
+                "depth": 160,
+                "depth_2q": 88,
+                "ZZPhase_gates": 109,
+                "ZZPhase_depth": 88
+            },
+            "19": {
+                "gates_1q": 163,
+                "gates_2q": 113,
+                "depth": 161,
+                "depth_2q": 89,
+                "ZZPhase_gates": 113,
+                "ZZPhase_depth": 89
+            },
+            "20": {
+                "gates_1q": 223,
+                "gates_2q": 152,
+                "depth": 221,
+                "depth_2q": 120,
+                "ZZPhase_gates": 152,
+                "ZZPhase_depth": 120
+            },
+            "21": {
+                "gates_1q": 213,
+                "gates_2q": 145,
+                "depth": 213,
+                "depth_2q": 119,
+                "ZZPhase_gates": 145,
+                "ZZPhase_depth": 119
+            },
+            "22": {
+                "gates_1q": 226,
+                "gates_2q": 154,
+                "depth": 243,
+                "depth_2q": 130,
+                "ZZPhase_gates": 154,
+                "ZZPhase_depth": 130
+            },
+            "23": {
+                "gates_1q": 233,
+                "gates_2q": 159,
+                "depth": 249,
+                "depth_2q": 134,
+                "ZZPhase_gates": 159,
+                "ZZPhase_depth": 134
+            },
+            "24": {
+                "gates_1q": 252,
+                "gates_2q": 172,
+                "depth": 274,
+                "depth_2q": 148,
+                "ZZPhase_gates": 172,
+                "ZZPhase_depth": 148
+            },
+            "25": {
+                "gates_1q": 281,
+                "gates_2q": 193,
+                "depth": 303,
+                "depth_2q": 164,
+                "ZZPhase_gates": 193,
+                "ZZPhase_depth": 164
+            },
+            "26": {
+                "gates_1q": 310,
+                "gates_2q": 215,
+                "depth": 350,
+                "depth_2q": 187,
+                "ZZPhase_gates": 215,
+                "ZZPhase_depth": 187
+            },
+            "27": {
+                "gates_1q": 325,
+                "gates_2q": 229,
+                "depth": 378,
+                "depth_2q": 200,
+                "ZZPhase_gates": 229,
+                "ZZPhase_depth": 200
+            },
+            "28": {
+                "gates_1q": 360,
+                "gates_2q": 242,
+                "depth": 408,
+                "depth_2q": 215,
+                "ZZPhase_gates": 242,
+                "ZZPhase_depth": 215
+            },
+            "29": {
+                "gates_1q": 371,
+                "gates_2q": 243,
+                "depth": 410,
+                "depth_2q": 215,
+                "ZZPhase_gates": 243,
+                "ZZPhase_depth": 215
+            },
+            "30": {
+                "gates_1q": 371,
+                "gates_2q": 245,
+                "depth": 407,
+                "depth_2q": 215,
+                "ZZPhase_gates": 245,
+                "ZZPhase_depth": 215
+            },
+            "31": {
+                "gates_1q": 389,
+                "gates_2q": 259,
+                "depth": 432,
+                "depth_2q": 227,
+                "ZZPhase_gates": 259,
+                "ZZPhase_depth": 227
+            },
+            "32": {
+                "gates_1q": 356,
+                "gates_2q": 286,
+                "depth": 469,
+                "depth_2q": 271,
+                "ZZPhase_gates": 286,
+                "ZZPhase_depth": 271
+            },
+            "33": {
+                "gates_1q": 416,
+                "gates_2q": 340,
+                "depth": 559,
+                "depth_2q": 318,
+                "ZZPhase_gates": 340,
+                "ZZPhase_depth": 318
+            },
+            "34": {
+                "gates_1q": 436,
+                "gates_2q": 307,
+                "depth": 491,
+                "depth_2q": 267,
+                "ZZPhase_gates": 307,
+                "ZZPhase_depth": 267
+            },
+            "35": {
+                "gates_1q": 471,
+                "gates_2q": 317,
+                "depth": 529,
+                "depth_2q": 283,
+                "ZZPhase_gates": 317,
+                "ZZPhase_depth": 283
+            },
+            "36": {
+                "gates_1q": 478,
+                "gates_2q": 327,
+                "depth": 522,
+                "depth_2q": 281,
+                "ZZPhase_gates": 327,
+                "ZZPhase_depth": 281
+            },
+            "37": {
+                "gates_1q": 425,
+                "gates_2q": 355,
+                "depth": 580,
+                "depth_2q": 337,
+                "ZZPhase_gates": 355,
+                "ZZPhase_depth": 337
+            },
+            "38": {
+                "gates_1q": 453,
+                "gates_2q": 378,
+                "depth": 623,
+                "depth_2q": 360,
+                "ZZPhase_gates": 378,
+                "ZZPhase_depth": 360
+            },
+            "39": {
+                "gates_1q": 460,
+                "gates_2q": 384,
+                "depth": 620,
+                "depth_2q": 361,
+                "ZZPhase_gates": 384,
+                "ZZPhase_depth": 361
+            },
+            "40": {
+                "gates_1q": 472,
+                "gates_2q": 397,
+                "depth": 638,
+                "depth_2q": 373,
+                "ZZPhase_gates": 397,
+                "ZZPhase_depth": 373
+            },
+            "41": {
+                "gates_1q": 589,
+                "gates_2q": 411,
+                "depth": 656,
+                "depth_2q": 352,
+                "ZZPhase_gates": 411,
+                "ZZPhase_depth": 352
+            },
+            "42": {
+                "gates_1q": 541,
+                "gates_2q": 387,
+                "depth": 621,
+                "depth_2q": 337,
+                "ZZPhase_gates": 387,
+                "ZZPhase_depth": 337
+            },
+            "43": {
+                "gates_1q": 672,
+                "gates_2q": 473,
+                "depth": 763,
+                "depth_2q": 407,
+                "ZZPhase_gates": 473,
+                "ZZPhase_depth": 407
+            },
+            "44": {
+                "gates_1q": 689,
+                "gates_2q": 465,
+                "depth": 750,
+                "depth_2q": 401,
+                "ZZPhase_gates": 465,
+                "ZZPhase_depth": 401
+            },
+            "45": {
+                "gates_1q": 742,
+                "gates_2q": 525,
+                "depth": 847,
+                "depth_2q": 457,
+                "ZZPhase_gates": 525,
+                "ZZPhase_depth": 457
+            },
+            "46": {
+                "gates_1q": 697,
+                "gates_2q": 491,
+                "depth": 790,
+                "depth_2q": 426,
+                "ZZPhase_gates": 491,
+                "ZZPhase_depth": 426
+            },
+            "47": {
+                "gates_1q": 720,
+                "gates_2q": 485,
+                "depth": 802,
+                "depth_2q": 425,
+                "ZZPhase_gates": 485,
+                "ZZPhase_depth": 425
+            },
+            "48": {
+                "gates_1q": 787,
+                "gates_2q": 552,
+                "depth": 915,
+                "depth_2q": 489,
+                "ZZPhase_gates": 552,
+                "ZZPhase_depth": 489
+            },
+            "49": {
+                "gates_1q": 875,
+                "gates_2q": 601,
+                "depth": 993,
+                "depth_2q": 527,
+                "ZZPhase_gates": 601,
+                "ZZPhase_depth": 527
+            },
+            "50": {
+                "gates_1q": 789,
+                "gates_2q": 542,
+                "depth": 888,
+                "depth_2q": 471,
+                "ZZPhase_gates": 542,
+                "ZZPhase_depth": 471
+            },
+            "51": {
+                "gates_1q": 813,
+                "gates_2q": 547,
+                "depth": 903,
+                "depth_2q": 477,
+                "ZZPhase_gates": 547,
+                "ZZPhase_depth": 477
+            },
+            "52": {
+                "gates_1q": 892,
+                "gates_2q": 609,
+                "depth": 996,
+                "depth_2q": 530,
+                "ZZPhase_gates": 609,
+                "ZZPhase_depth": 530
+            },
+            "53": {
+                "gates_1q": 746,
+                "gates_2q": 633,
+                "depth": 1044,
+                "depth_2q": 595,
+                "ZZPhase_gates": 633,
+                "ZZPhase_depth": 595
+            },
+            "54": {
+                "gates_1q": 1000,
+                "gates_2q": 701,
+                "depth": 1119,
+                "depth_2q": 598,
+                "ZZPhase_gates": 701,
+                "ZZPhase_depth": 598
+            },
+            "55": {
+                "gates_1q": 952,
+                "gates_2q": 662,
+                "depth": 1077,
+                "depth_2q": 574,
+                "ZZPhase_gates": 662,
+                "ZZPhase_depth": 574
+            },
+            "56": {
+                "gates_1q": 890,
+                "gates_2q": 764,
+                "depth": 1248,
+                "depth_2q": 713,
+                "ZZPhase_gates": 764,
+                "ZZPhase_depth": 713
+            },
+            "57": {
+                "gates_1q": 926,
+                "gates_2q": 766,
+                "depth": 1276,
+                "depth_2q": 718,
+                "ZZPhase_gates": 766,
+                "ZZPhase_depth": 718
+            },
+            "58": {
+                "gates_1q": 940,
+                "gates_2q": 782,
+                "depth": 1301,
+                "depth_2q": 733,
+                "ZZPhase_gates": 782,
+                "ZZPhase_depth": 733
+            },
+            "59": {
+                "gates_1q": 1025,
+                "gates_2q": 860,
+                "depth": 1437,
+                "depth_2q": 810,
+                "ZZPhase_gates": 860,
+                "ZZPhase_depth": 810
+            },
+            "60": {
+                "gates_1q": 956,
+                "gates_2q": 799,
+                "depth": 1311,
+                "depth_2q": 740,
+                "ZZPhase_gates": 799,
+                "ZZPhase_depth": 740
+            },
+            "61": {
+                "gates_1q": 986,
+                "gates_2q": 815,
+                "depth": 1393,
+                "depth_2q": 783,
+                "ZZPhase_gates": 815,
+                "ZZPhase_depth": 783
+            },
+            "62": {
+                "gates_1q": 993,
+                "gates_2q": 826,
+                "depth": 1413,
+                "depth_2q": 796,
+                "ZZPhase_gates": 826,
+                "ZZPhase_depth": 796
+            },
+            "63": {
+                "gates_1q": 1066,
+                "gates_2q": 892,
+                "depth": 1497,
+                "depth_2q": 836,
+                "ZZPhase_gates": 892,
+                "ZZPhase_depth": 836
+            },
+            "64": {
+                "gates_1q": 1099,
+                "gates_2q": 902,
+                "depth": 1500,
+                "depth_2q": 840,
+                "ZZPhase_gates": 902,
+                "ZZPhase_depth": 840
+            },
+            "65": {
+                "gates_1q": 1186,
+                "gates_2q": 978,
+                "depth": 1647,
+                "depth_2q": 918,
+                "ZZPhase_gates": 978,
+                "ZZPhase_depth": 918
+            },
+            "66": {
+                "gates_1q": 1209,
+                "gates_2q": 995,
+                "depth": 1681,
+                "depth_2q": 935,
+                "ZZPhase_gates": 995,
+                "ZZPhase_depth": 935
+            },
+            "67": {
+                "gates_1q": 1219,
+                "gates_2q": 1001,
+                "depth": 1691,
+                "depth_2q": 940,
+                "ZZPhase_gates": 1001,
+                "ZZPhase_depth": 940
+            },
+            "68": {
+                "gates_1q": 1187,
+                "gates_2q": 973,
+                "depth": 1643,
+                "depth_2q": 916,
+                "ZZPhase_gates": 973,
+                "ZZPhase_depth": 916
+            },
+            "69": {
+                "gates_1q": 1337,
+                "gates_2q": 1098,
+                "depth": 1889,
+                "depth_2q": 1049,
+                "ZZPhase_gates": 1098,
+                "ZZPhase_depth": 1049
+            },
+            "70": {
+                "gates_1q": 1395,
+                "gates_2q": 1141,
+                "depth": 1975,
+                "depth_2q": 1093,
+                "ZZPhase_gates": 1141,
+                "ZZPhase_depth": 1093
+            },
+            "71": {
+                "gates_1q": 1389,
+                "gates_2q": 1140,
+                "depth": 1970,
+                "depth_2q": 1091,
+                "ZZPhase_gates": 1140,
+                "ZZPhase_depth": 1091
+            },
+            "72": {
+                "gates_1q": 1418,
+                "gates_2q": 1162,
+                "depth": 2013,
+                "depth_2q": 1114,
+                "ZZPhase_gates": 1162,
+                "ZZPhase_depth": 1114
+            },
+            "73": {
+                "gates_1q": 1342,
+                "gates_2q": 1078,
+                "depth": 1872,
+                "depth_2q": 1033,
+                "ZZPhase_gates": 1078,
+                "ZZPhase_depth": 1033
+            },
+            "74": {
+                "gates_1q": 1338,
+                "gates_2q": 1098,
+                "depth": 1875,
+                "depth_2q": 1047,
+                "ZZPhase_gates": 1098,
+                "ZZPhase_depth": 1047
+            },
+            "75": {
+                "gates_1q": 1364,
+                "gates_2q": 1118,
+                "depth": 1907,
+                "depth_2q": 1065,
+                "ZZPhase_gates": 1118,
+                "ZZPhase_depth": 1065
+            },
+            "76": {
+                "gates_1q": 1390,
+                "gates_2q": 1143,
+                "depth": 1939,
+                "depth_2q": 1083,
+                "ZZPhase_gates": 1143,
+                "ZZPhase_depth": 1083
+            },
+            "77": {
+                "gates_1q": 1499,
+                "gates_2q": 1217,
+                "depth": 2104,
+                "depth_2q": 1163,
+                "ZZPhase_gates": 1217,
+                "ZZPhase_depth": 1163
+            },
+            "78": {
+                "gates_1q": 1509,
+                "gates_2q": 1228,
+                "depth": 2120,
+                "depth_2q": 1173,
+                "ZZPhase_gates": 1228,
+                "ZZPhase_depth": 1173
+            },
+            "79": {
+                "gates_1q": 1522,
+                "gates_2q": 1251,
+                "depth": 2148,
+                "depth_2q": 1195,
+                "ZZPhase_gates": 1251,
+                "ZZPhase_depth": 1195
+            },
+            "80": {
+                "gates_1q": 1480,
+                "gates_2q": 1212,
+                "depth": 2076,
+                "depth_2q": 1160,
+                "ZZPhase_gates": 1212,
+                "ZZPhase_depth": 1160
+            },
+            "81": {
+                "gates_1q": 1505,
+                "gates_2q": 1227,
+                "depth": 2110,
+                "depth_2q": 1176,
+                "ZZPhase_gates": 1227,
+                "ZZPhase_depth": 1176
+            },
+            "82": {
+                "gates_1q": 1632,
+                "gates_2q": 1325,
+                "depth": 2298,
+                "depth_2q": 1278,
+                "ZZPhase_gates": 1325,
+                "ZZPhase_depth": 1278
+            },
+            "83": {
+                "gates_1q": 1663,
+                "gates_2q": 1344,
+                "depth": 2339,
+                "depth_2q": 1293,
+                "ZZPhase_gates": 1344,
+                "ZZPhase_depth": 1293
+            },
+            "84": {
+                "gates_1q": 1627,
+                "gates_2q": 1321,
+                "depth": 2274,
+                "depth_2q": 1261,
+                "ZZPhase_gates": 1321,
+                "ZZPhase_depth": 1261
+            },
+            "85": {
+                "gates_1q": 1654,
+                "gates_2q": 1342,
+                "depth": 2307,
+                "depth_2q": 1280,
+                "ZZPhase_gates": 1342,
+                "ZZPhase_depth": 1280
+            },
+            "86": {
+                "gates_1q": 1713,
+                "gates_2q": 1386,
+                "depth": 2394,
+                "depth_2q": 1325,
+                "ZZPhase_gates": 1386,
+                "ZZPhase_depth": 1325
+            },
+            "87": {
+                "gates_1q": 1928,
+                "gates_2q": 1577,
+                "depth": 2663,
+                "depth_2q": 1465,
+                "ZZPhase_gates": 1577,
+                "ZZPhase_depth": 1465
+            },
+            "88": {
+                "gates_1q": 1956,
+                "gates_2q": 1603,
+                "depth": 2714,
+                "depth_2q": 1495,
+                "ZZPhase_gates": 1603,
+                "ZZPhase_depth": 1495
+            },
+            "89": {
+                "gates_1q": 1905,
+                "gates_2q": 1557,
+                "depth": 2635,
+                "depth_2q": 1460,
+                "ZZPhase_gates": 1557,
+                "ZZPhase_depth": 1460
+            },
+            "90": {
+                "gates_1q": 1964,
+                "gates_2q": 1599,
+                "depth": 2721,
+                "depth_2q": 1503,
+                "ZZPhase_gates": 1599,
+                "ZZPhase_depth": 1503
+            },
+            "91": {
+                "gates_1q": 1971,
+                "gates_2q": 1604,
+                "depth": 2735,
+                "depth_2q": 1508,
+                "ZZPhase_gates": 1604,
+                "ZZPhase_depth": 1508
+            },
+            "92": {
+                "gates_1q": 1949,
+                "gates_2q": 1586,
+                "depth": 2695,
+                "depth_2q": 1491,
+                "ZZPhase_gates": 1586,
+                "ZZPhase_depth": 1491
+            },
+            "93": {
+                "gates_1q": 1951,
+                "gates_2q": 1595,
+                "depth": 2694,
+                "depth_2q": 1492,
+                "ZZPhase_gates": 1595,
+                "ZZPhase_depth": 1492
+            },
+            "94": {
+                "gates_1q": 2012,
+                "gates_2q": 1638,
+                "depth": 2781,
+                "depth_2q": 1536,
+                "ZZPhase_gates": 1638,
+                "ZZPhase_depth": 1536
+            },
+            "95": {
+                "gates_1q": 2026,
+                "gates_2q": 1653,
+                "depth": 2801,
+                "depth_2q": 1550,
+                "ZZPhase_gates": 1653,
+                "ZZPhase_depth": 1550
+            },
+            "96": {
+                "gates_1q": 2083,
+                "gates_2q": 1698,
+                "depth": 2878,
+                "depth_2q": 1589,
+                "ZZPhase_gates": 1698,
+                "ZZPhase_depth": 1589
+            },
+            "97": {
+                "gates_1q": 2173,
+                "gates_2q": 1772,
+                "depth": 3014,
+                "depth_2q": 1663,
+                "ZZPhase_gates": 1772,
+                "ZZPhase_depth": 1663
+            },
+            "98": {
+                "gates_1q": 2200,
+                "gates_2q": 1795,
+                "depth": 3047,
+                "depth_2q": 1681,
+                "ZZPhase_gates": 1795,
+                "ZZPhase_depth": 1681
+            },
+            "99": {
+                "gates_1q": 2209,
+                "gates_2q": 1802,
+                "depth": 3060,
+                "depth_2q": 1688,
+                "ZZPhase_gates": 1802,
+                "ZZPhase_depth": 1688
+            },
+            "100": {
+                "gates_1q": 2217,
+                "gates_2q": 1801,
+                "depth": 3056,
+                "depth_2q": 1681,
+                "ZZPhase_gates": 1801,
+                "ZZPhase_depth": 1681
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "Rx": {
+    "truncation": {
+      "m": 1,
+      "k": 21,
+      "l": 24
+    },
+    "reference_energy_hartree": -2404.4406895046445,
+    "residual_norm_hartree": 0.2522355706363595,
+    "overlap_ratio_sign": -1.0,
+    "casci_energy_hartree": -2404.5243150902643
+  },
+  "R0": {
+    "truncation": {
+      "m": 1,
+      "k": 21,
+      "l": 22
+    },
+    "reference_energy_hartree": -2404.4346354747854,
+    "residual_norm_hartree": 0.25388935130759605,
+    "overlap_ratio_sign": -1.0,
+    "casci_energy_hartree": -2404.524434560353
+  }
+}

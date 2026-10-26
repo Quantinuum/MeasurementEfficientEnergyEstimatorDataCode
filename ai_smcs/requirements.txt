@@ -1,0 +1,8 @@
+# Circuit generation only. QNexus is not required.
+guppylang==0.21.16
+hugr==0.16.0
+pytket==2.18.0
+numpy==2.5.4
+
+# Guppy implementation used to compile this release.
+guppylang-internals==0.36.1
