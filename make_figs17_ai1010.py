@@ -15,12 +15,12 @@ DATA_FILES = {
     "Rx": HERE / "data" / "rx1010" / "ai_smcs.json",
     "R0": HERE / "data" / "t11010" / "ai_smcs.json",
 }
-GEOMETRY_COLORS = {'Rx': '#D55E00', 'R0': '#0072B2'}
+GEOMETRY_COLORS = {"Rx": "#D55E00", "R0": "#0072B2"}
 METHODS = (
     {
         "data_key": "common_tups",
-        "label": 'Common tUPS',
-        "short_label": 'Common\ntUPS',
+        "label": "Common tUPS",
+        "short_label": "Common\ntUPS",
         "n_runs": 1,
         "fill_alpha": 0.28,
         "gap_error_mha": -0.3149460148961225,
@@ -28,8 +28,8 @@ METHODS = (
     },
     {
         "data_key": "per_geometry_tups",
-        "label": 'Per-geometry tUPS',
-        "short_label": 'Per-geometry\ntUPS',
+        "label": "Per-geometry tUPS",
+        "short_label": "Per-geometry\ntUPS",
         "n_runs": 1,
         "fill_alpha": 0.46,
         "gap_error_mha": -3.2905828161347017,
@@ -37,8 +37,8 @@ METHODS = (
     },
     {
         "data_key": "selected_smcs",
-        "label": 'Selected sMCS',
-        "short_label": 'Selected\nsMCS',
+        "label": "Selected sMCS",
+        "short_label": "Selected\nsMCS",
         "n_runs": 5,
         "fill_alpha": 1.0,
         "gap_error_mha": 0.19,
@@ -157,14 +157,40 @@ def make_figure(data):
         linewidth=0.9,
     )
     for yy, rx_value, r0_value, total in zip(y, rx, r0, totals):
-        a.text(rx_value / 2, yy, str(rx_value), ha="center", va="center", fontsize=6.4, fontfamily=MONO_FONT)
-        a.text(rx_value + r0_value / 2, yy, str(r0_value), ha="center", va="center", fontsize=6.4, fontfamily=MONO_FONT)
-        a.text(total + 13, yy, str(total), ha="left", va="center", fontsize=6.4, fontfamily=MONO_FONT)
+        a.text(
+            rx_value / 2,
+            yy,
+            str(rx_value),
+            ha="center",
+            va="center",
+            fontsize=6.4,
+            fontfamily=MONO_FONT,
+        )
+        a.text(
+            rx_value + r0_value / 2,
+            yy,
+            str(r0_value),
+            ha="center",
+            va="center",
+            fontsize=6.4,
+            fontfamily=MONO_FONT,
+        )
+        a.text(
+            total + 13,
+            yy,
+            str(total),
+            ha="left",
+            va="center",
+            fontsize=6.4,
+            fontfamily=MONO_FONT,
+        )
     a.set_xlim(0, max(totals) * 1.18)
     a.set_ylim(len(rows) - 0.5, -1.05)
     a.set_yticks(y, [row["label"] for row in rows])
     a.set_xlabel(r"Aggregate ZZPhase-gate count, $2G(\psi_l)+G(\chi_{1,k})$")
-    a.set_title(r"$\bf{a}$  State-preparation gate count", loc="left", pad=7, fontsize=8.2)
+    a.set_title(
+        r"$\bf{a}$  State-preparation gate count", loc="left", pad=7, fontsize=8.2
+    )
     a.xaxis.grid(True)
     add_geometry_legend(a, rx_color, r0_color)
 
@@ -190,13 +216,29 @@ def make_figure(data):
         linewidth=0.9,
     )
     for yy, rx_value, r0_value in zip(y, rx, r0):
-        b.text(rx_value + 5, yy - height / 2, str(rx_value), va="center", fontsize=6.4, fontfamily=MONO_FONT)
-        b.text(r0_value + 5, yy + height / 2, str(r0_value), va="center", fontsize=6.4, fontfamily=MONO_FONT)
+        b.text(
+            rx_value + 5,
+            yy - height / 2,
+            str(rx_value),
+            va="center",
+            fontsize=6.4,
+            fontfamily=MONO_FONT,
+        )
+        b.text(
+            r0_value + 5,
+            yy + height / 2,
+            str(r0_value),
+            va="center",
+            fontsize=6.4,
+            fontfamily=MONO_FONT,
+        )
     b.set_xlim(0, max(rx + r0) * 1.20)
     b.set_ylim(len(rows) - 0.5, -1.05)
     b.set_yticks(y, [row["label"] for row in rows])
     b.set_xlabel(r"Aggregate two-qubit depth, $2D(\psi_l)+D(\chi_{1,k})$")
-    b.set_title(r"$\bf{b}$  State-preparation two-qubit depth", loc="left", pad=7, fontsize=8.2)
+    b.set_title(
+        r"$\bf{b}$  State-preparation two-qubit depth", loc="left", pad=7, fontsize=8.2
+    )
     b.xaxis.grid(True)
     add_geometry_legend(b, rx_color, r0_color)
 
@@ -234,8 +276,22 @@ def make_figure(data):
     )
     c.axhline(1.6, color=CHEMICAL_ACCURACY, linestyle=(0, (5, 3)), linewidth=1.0)
     for xx, rx_value, r0_value, rx_err, r0_err in zip(x, rx, r0, rx_sd, r0_sd):
-        c.text(xx - width / 2, rx_value + rx_err + 0.16, f"{rx_value:.2f}", ha="center", va="bottom", fontsize=6.4)
-        c.text(xx + width / 2, r0_value + r0_err + 0.16, f"{r0_value:.2f}", ha="center", va="bottom", fontsize=6.4)
+        c.text(
+            xx - width / 2,
+            rx_value + rx_err + 0.16,
+            f"{rx_value:.2f}",
+            ha="center",
+            va="bottom",
+            fontsize=6.4,
+        )
+        c.text(
+            xx + width / 2,
+            r0_value + r0_err + 0.16,
+            f"{r0_value:.2f}",
+            ha="center",
+            va="bottom",
+            fontsize=6.4,
+        )
     c.set_xticks(x, labels)
     c.set_ylabel(r"$|E_{\mathrm{ME}}-E_{\mathrm{exact}}|$ (mHa)")
     c.set_ylim(0, max(rx + r0) + 2.4)
@@ -243,7 +299,14 @@ def make_figure(data):
     c.yaxis.grid(True)
     c.legend(
         handles=[
-            Line2D([0], [0], color=CHEMICAL_ACCURACY, linestyle=(0, (5, 3)), linewidth=1.0, label="1.6 mHa"),
+            Line2D(
+                [0],
+                [0],
+                color=CHEMICAL_ACCURACY,
+                linestyle=(0, (5, 3)),
+                linewidth=1.0,
+                label="1.6 mHa",
+            ),
             *geometry_legend(rx_color, r0_color),
         ],
         loc="upper left",
@@ -288,11 +351,17 @@ def make_figure(data):
             fontfamily=MONO_FONT,
         )
     d.set_xlabel(r"$\delta(\Delta E_{\mathbf{R}_x-\mathbf{R}_0})$ (mHa)")
-    d.set_title(r"$\bf{d}$  Signed activation-gap error", loc="left", pad=7, fontsize=8.2)
+    d.set_title(
+        r"$\bf{d}$  Signed activation-gap error", loc="left", pad=7, fontsize=8.2
+    )
     d.xaxis.grid(True)
     d.legend(
         handles=[
-            Patch(facecolor=rgba(BASELINE, 0.66), edgecolor=BASELINE, label="tUPS baselines"),
+            Patch(
+                facecolor=rgba(BASELINE, 0.66),
+                edgecolor=BASELINE,
+                label="tUPS baselines",
+            ),
             Patch(facecolor=rgba(PAIR, 0.96), edgecolor=PAIR, label="selected sMCS"),
         ],
         loc="upper center",
@@ -308,7 +377,13 @@ def make_figure(data):
     # e-f) Spin residuals
     spin_panels = [
         (ax[2, 0], "psi_spin_residual", "Prepared-state spin residual", "e", r"\psi_l"),
-        (ax[2, 1], "chi_spin_residual", "Residual-state spin residual", "f", r"\chi_{1,k}"),
+        (
+            ax[2, 1],
+            "chi_spin_residual",
+            "Residual-state spin residual",
+            "f",
+            r"\chi_{1,k}",
+        ),
     ]
     for axis, key, title, letter, symbol in spin_panels:
         rx = [row["Rx"][key] for row in rows]
@@ -333,16 +408,34 @@ def make_figure(data):
         axis.set_yscale("log")
         axis.set_ylim(min(positive) * 0.38, max(positive) * 4.8)
         axis.set_xticks(x, labels)
-        axis.set_ylabel(rf"$\Vert \hat{{S}}^2|{symbol}\rangle-2|{symbol}\rangle\Vert^2$")
+        axis.set_ylabel(
+            rf"$\Vert \hat{{S}}^2|{symbol}\rangle-2|{symbol}\rangle\Vert^2$"
+        )
         axis.set_title(rf"$\bf{{{letter}}}$  {title}", loc="left", pad=7, fontsize=8.2)
         axis.yaxis.grid(True, which="major")
         for xx, rx_value, r0_value in zip(x, rx, r0):
-            axis.text(xx - width / 2, rx_value * 1.42, residual_text(rx_value), ha="center", va="bottom", fontsize=6.2)
-            axis.text(xx + width / 2, r0_value * 1.42, residual_text(r0_value), ha="center", va="bottom", fontsize=6.2)
+            axis.text(
+                xx - width / 2,
+                rx_value * 1.42,
+                residual_text(rx_value),
+                ha="center",
+                va="bottom",
+                fontsize=6.2,
+            )
+            axis.text(
+                xx + width / 2,
+                r0_value * 1.42,
+                residual_text(r0_value),
+                ha="center",
+                va="bottom",
+                fontsize=6.2,
+            )
         add_geometry_legend(axis, rx_color, r0_color)
 
     fig.savefig(OUTPUT.with_suffix(".pdf"), bbox_inches="tight", pad_inches=0.08)
-    fig.savefig(OUTPUT.with_suffix(".png"), dpi=600, bbox_inches="tight", pad_inches=0.08)
+    fig.savefig(
+        OUTPUT.with_suffix(".png"), dpi=600, bbox_inches="tight", pad_inches=0.08
+    )
     plt.close(fig)
 
 

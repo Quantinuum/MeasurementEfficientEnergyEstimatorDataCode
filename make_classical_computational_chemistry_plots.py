@@ -44,7 +44,6 @@ def _add_subplot_labels(axes) -> None:
 def plot_activation_energies():
     """Create and save the activation-energy plot."""
 
-
     fig = plt.figure(figsize=(9, 9))
     gs = fig.add_gridspec(2, 1, hspace=0.3, wspace=0.3)
     ax = gs.subplots()
@@ -74,7 +73,6 @@ def plot_activation_energies():
 
 def plot_diabatic_coupl():
     """Create and save the diabatic-couplings plot."""
-
 
     fig = plt.figure(figsize=(9, 9))
     gs = fig.add_gridspec(2, 2, hspace=0.3, wspace=0.3)
@@ -120,7 +118,16 @@ def plot_rates():
     ax = gs.subplots()
 
     y1 = (3.86, 14.3, 42.3, 11.7, 42.2, 47.6, 0.0329, 0.00022)
-    y2 = (5.03e-07, 6.77e-07, 2.03e-06, 1.38e-06, 1.53e-05, 1.76e-05, 4.93e-06, 1.30e-04)
+    y2 = (
+        5.03e-07,
+        6.77e-07,
+        2.03e-06,
+        1.38e-06,
+        1.53e-05,
+        1.76e-05,
+        4.93e-06,
+        1.30e-04,
+    )
 
     ax[0].set(
         xlabel=r"PS-O$_2$ distance (Å)",
@@ -144,7 +151,6 @@ def plot_rates():
 
 def plot_spin_images():
     """Create and save the Hirshfeld spin-density plot."""
-
 
     fig = plt.figure(figsize=(9, 9))
     gs = fig.add_gridspec(2, 1, hspace=0.3, wspace=0.3)
@@ -324,7 +330,6 @@ def plot_splittings():
 
 def plot_triplet_energies():
     """Create and save the triplet-energy plot."""
-
 
     fig = plt.figure(figsize=(9, 9))
     gs = fig.add_gridspec(2, 2, hspace=0.3, wspace=0.3)

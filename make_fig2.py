@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Any
 
 FIGURE_DIR = Path(__file__).resolve().parent
-CODE_DIR = FIGURE_DIR.parent
+CODE_DIR = FIGURE_DIR
 SHARED_DATA_DIR = CODE_DIR / "data"
 OUTPUT_DIR = FIGURE_DIR
 M_VALUES = tuple(range(1, 9))

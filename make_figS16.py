@@ -7,10 +7,10 @@ import tempfile
 from pathlib import Path
 
 FIGURE_DIR = Path(__file__).resolve().parent
-CODE_DIR = FIGURE_DIR.parent
+CODE_DIR = FIGURE_DIR
 PROJECT_DIR = CODE_DIR.parent
 DATA_DIR = CODE_DIR / "data"
-OUTPUT = FIGURE_DIR
+OUTPUT = FIGURE_DIR / "figS16.pdf"
 sys.path.insert(0, str(CODE_DIR))
 
 CACHE_DIR = Path(tempfile.gettempdir()) / "figS16-matplotlib"

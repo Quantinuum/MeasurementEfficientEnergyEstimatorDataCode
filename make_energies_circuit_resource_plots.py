@@ -19,6 +19,7 @@ COLOURS = {
 }
 
 mpl.rcParams["pdf.fonttype"] = 42
+CODE_DIR = pl.Path(__file__).resolve().parent
 
 
 def read_stateprep_circuit_resources(
@@ -33,8 +34,7 @@ def read_stateprep_circuit_resources(
         circ_resources: dictionary of keys --- cas, geo, truncation then
             "gates1q", "gates2q", "depth", "depth2q", "ZZPhase_gates", "ZZPhase_depth"
     """
-    home_dir = f"{pl.Path(__file__).parent.parent}"
-    with open(f"{home_dir}/code/data/circuit_resources/{stateprep}.json", "r") as f:
+    with open(CODE_DIR / "data" / "circuit_resources" / f"{stateprep}.json", "r") as f:
         data = json.load(f)
     return data
 
@@ -51,8 +51,7 @@ def read_stateprep_statevector_energies(
         energies: dictionary of keys --- cas, geo, truncation then
             "sv", "casci_overlap"
     """
-    home_dir = f"{pl.Path(__file__).parent.parent}"
-    with open(f"{home_dir}/code/data/energies/{stateprep}_sv.json", "r") as f:
+    with open(CODE_DIR / "data" / "energies" / f"{stateprep}_sv.json", "r") as f:
         data = json.load(f)
     return data
 
@@ -68,9 +67,8 @@ def read_energies(
     Returns:
         energies: dictionary of keys --- cas, geo, stateprep, device finally "energies"/"errors".
     """
-    home_dir = f"{pl.Path(__file__).parent.parent}"
     fname = "classical_shadows" if method == "cs" else "compute_uncompute"
-    with open(f"{home_dir}/code/data/energies/{fname}.json", "r") as f:
+    with open(CODE_DIR / "data" / "energies" / f"{fname}.json", "r") as f:
         data = json.load(f)
     return data
 
@@ -82,8 +80,7 @@ def read_casci_data() -> dict[str, dict[str, dict[str, dict[str, int | float]]]]
         energies: dictionary of keys --- cas, geo, resource_type (circ_resources/energies).
             The only circ resource is number of determinants. The only energy is the SV energy.
     """
-    home_dir = f"{pl.Path(__file__).parent.parent}"
-    with open(f"{home_dir}/code/data/energies/casci.json", "r") as f:
+    with open(CODE_DIR / "data" / "energies" / "casci.json", "r") as f:
         data = json.load(f)
     return data
 
@@ -607,8 +604,7 @@ def plot_cas66_cu_cu_cs_comparison() -> None:
         a.set_xticks([1, 2, 3, 4, 5, 6, 7, 8])
         a.set_xticklabels([1, 2, 3, 4, 5, 6, 7, 8])
 
-    home_dir = f"{pl.Path(__file__).parent.parent}"
-    plt.savefig(f"{home_dir}/code/cas66_cu_cs_comparison.pdf", bbox_inches="tight")
+    plt.savefig(CODE_DIR / "cas66_cu_cs_comparison.pdf", bbox_inches="tight")
     plt.close(fig)
 
 
@@ -1046,9 +1042,8 @@ def plot_expectation_value_mixed_estimator_convergence() -> None:
     ax[0, 0].set_xticks([1, 2, 3])
     ax[0, 0].set_xticklabels([1, 2, 3])
 
-    home_dir = f"{pl.Path(__file__).parent.parent}"
     plt.savefig(
-        f"{home_dir}/code/expectation_value_mixed_estimator_convergence.pdf",
+        CODE_DIR / "expectation_value_mixed_estimator_convergence.pdf",
         bbox_inches="tight",
     )
     plt.close(fig)
@@ -1351,9 +1346,8 @@ def plot_compressed_tups_multiconfig_stateprep66() -> None:
     #     a.set_xticks([1, 2, 3])
     #     a.set_xticklabels([1, 2, 3])
 
-    home_dir = f"{pl.Path(__file__).parent.parent}"
     plt.savefig(
-        f"{home_dir}/code/cas66_stateprep_resources_compressed.pdf",
+        CODE_DIR / "cas66_stateprep_resources_compressed.pdf",
         bbox_inches="tight",
     )
     plt.close(fig)
@@ -1500,9 +1494,8 @@ def plot_compressed_multiconfig_stateprep_881010() -> None:
             ha="right",
         )
 
-    home_dir = f"{pl.Path(__file__).parent.parent}"
     plt.savefig(
-        f"{home_dir}/code/cas881010_multiconfig_resources_compressed.pdf",
+        CODE_DIR / "cas881010_multiconfig_resources_compressed.pdf",
         bbox_inches="tight",
     )
     plt.close(fig)
@@ -2419,15 +2412,8 @@ def plot_tups_smcs_ai_activation_energy_66_1010() -> None:
         handles=activation_handles, fontsize=6, loc="upper left", framealpha=0.1, ncol=2
     )
 
-    # for a in ax[0, :]:
-    #     a.tick_params(axis="x", which="both", labelbottom=True)
-
-    #     a.set_xticks([1, 2, 3])
-    #     a.set_xticklabels([1, 2, 3])
-
-    home_dir = f"{pl.Path(__file__).parent.parent}"
     plt.savefig(
-        f"{home_dir}/code/activation_energy_tups_multiconfig_ai_cas661010.pdf",
+        CODE_DIR / "activation_energy_tups_multiconfig_ai_cas661010.pdf",
         bbox_inches="tight",
     )
 
@@ -2435,8 +2421,6 @@ def plot_tups_smcs_ai_activation_energy_66_1010() -> None:
 
 
 if __name__ == "__main__":
-    x = 1
-
     plot_cas66_cu_cu_cs_comparison()
     plot_expectation_value_mixed_estimator_convergence()
     plot_compressed_tups_multiconfig_stateprep66()

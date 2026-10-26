@@ -12,7 +12,7 @@ import numpy
 from numpy.typing import NDArray
 
 FIGURE_DIR = Path(__file__).resolve().parent
-CODE_DIR = FIGURE_DIR.parent
+CODE_DIR = FIGURE_DIR
 PROJECT_DIR = CODE_DIR.parent
 DATA_DIR = CODE_DIR / "data"
 RX_CASE_DIR = DATA_DIR / "rx66"
