@@ -6,7 +6,7 @@ from typing import Any
 
 from hugr.qsystem.result import QsysResult, QsysShot
 
-from MeasurementEfficientEnergyEstimatorDataCode.utils import (
+from utils import (
     absolute_square_summary_text,
     get_zero_counts,
     load_json,
@@ -132,7 +132,7 @@ def main(
     state_prep = state_prep.strip().lower()
     geometry = geometry.strip().lower()
     protocol_directory = (
-        Path(__file__).resolve().parents[1] / "data" / f"{geometry}66" / "protocol"
+        Path(__file__).resolve().parent / "data" / f"{geometry}66" / "protocol"
     )
     suffix = f"m{m}_k{k}_l{l}"
     s_path = protocol_directory / f"helios_cu_{state_prep}_s_{suffix}_shots.json"
@@ -153,7 +153,9 @@ def main(
 
 
 if __name__ == "__main__":
-    output_root = Path(__file__).resolve().parents[1] / "sandbox" / "compute_uncompute"
+    output_root = (
+        Path(__file__).resolve().parent / "sandbox" / "compute_uncompute"
+    )
     output_root.mkdir(parents=True, exist_ok=True)
     cases = (
         ("tups", (1, 10, 2)),

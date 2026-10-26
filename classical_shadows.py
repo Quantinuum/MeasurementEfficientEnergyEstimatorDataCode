@@ -12,8 +12,8 @@ from qiskit import quantum_info
 from pytket.circuit import Circuit
 from pytket.extensions.qiskit import qiskit_to_tk
 
-from MeasurementEfficientEnergyEstimatorDataCode.utils import from_state_dict
-from MeasurementEfficientEnergyEstimatorDataCode.inquanto_utils import (
+from utils import from_state_dict
+from inquanto_utils import (
     drop_to_inq_by_count,
     eval_mixed_estimator,
     permute_fermion_state,
