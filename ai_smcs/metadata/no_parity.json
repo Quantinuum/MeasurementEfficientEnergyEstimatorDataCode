@@ -1,0 +1,110 @@
+{
+  "method": "Leakage-only",
+  "hardware_backend": "Helios-1",
+  "submitted_shots_per_geometry": {
+    "s": 2000,
+    "h": 8000
+  },
+  "attempt_batching": false,
+  "data_qubits": 20,
+  "total_qubit_allocations": 20,
+  "routing_qubits": 20,
+  "leakage_detection": "ternary data-qubit measurement and postselection",
+  "parity_check": false,
+  "campaign_software_versions": {
+    "guppylang": "0.21.16",
+    "hugr": "0.16.0",
+    "pytket": "2.18.0",
+    "qnexus": "0.43.2"
+  },
+  "geometry_settings": {
+    "Rx": {
+      "alpha_spin_qubits": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18
+      ],
+      "beta_spin_qubits": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ],
+      "preparation_wire_swaps": [
+        [
+          6,
+          4
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          19
+        ],
+        [
+          1,
+          16
+        ]
+      ]
+    },
+    "R0": {
+      "alpha_spin_qubits": [
+        4,
+        6,
+        7,
+        8,
+        10,
+        11,
+        13,
+        15,
+        16,
+        19
+      ],
+      "beta_spin_qubits": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        9,
+        12,
+        14,
+        17,
+        18
+      ],
+      "preparation_wire_swaps": [
+        [
+          4,
+          2
+        ],
+        [
+          8,
+          5
+        ],
+        [
+          8,
+          16
+        ]
+      ]
+    }
+  }
+}

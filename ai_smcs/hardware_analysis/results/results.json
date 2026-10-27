@@ -1,0 +1,371 @@
+{
+  "backend": "Helios-1",
+  "energy_difference_convention": "E_Rx - E_R0",
+  "uncertainty": "One standard error; independent s/h and geometry measurements",
+  "shot_statistics": [
+    {
+      "method": "no_parity",
+      "geometry": "Rx",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "counts": {
+        "total": 8000,
+        "aborted": 0,
+        "leaked": 1148,
+        "accepted": 6852,
+        "zero": 502
+      },
+      "data_qubits": 20,
+      "discarded_shots": 1148,
+      "acceptance_fraction": 0.8565,
+      "all_zero_probability": 0.07326328079392878,
+      "probability_standard_error": 0.0031478402904294854
+    },
+    {
+      "method": "no_parity",
+      "geometry": "Rx",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "counts": {
+        "total": 2000,
+        "aborted": 0,
+        "leaked": 153,
+        "accepted": 1847,
+        "zero": 1446
+      },
+      "data_qubits": 20,
+      "discarded_shots": 153,
+      "acceptance_fraction": 0.9235,
+      "all_zero_probability": 0.7828911748781808,
+      "probability_standard_error": 0.009593034130612715
+    },
+    {
+      "method": "no_parity",
+      "geometry": "R0",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "counts": {
+        "total": 8000,
+        "aborted": 0,
+        "leaked": 998,
+        "accepted": 7002,
+        "zero": 566
+      },
+      "data_qubits": 20,
+      "discarded_shots": 998,
+      "acceptance_fraction": 0.87525,
+      "all_zero_probability": 0.08083404741502428,
+      "probability_standard_error": 0.003257489868705667
+    },
+    {
+      "method": "no_parity",
+      "geometry": "R0",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "counts": {
+        "total": 2000,
+        "aborted": 0,
+        "leaked": 118,
+        "accepted": 1882,
+        "zero": 1550
+      },
+      "data_qubits": 20,
+      "discarded_shots": 118,
+      "acceptance_fraction": 0.941,
+      "all_zero_probability": 0.8235919234856536,
+      "probability_standard_error": 0.008786288560045732
+    },
+    {
+      "method": "CPC",
+      "geometry": "Rx",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "counts": {
+        "total": 8000,
+        "aborted": 724,
+        "leaked": 972,
+        "accepted": 6304,
+        "zero": 493
+      },
+      "data_qubits": 20,
+      "discarded_shots": 1696,
+      "acceptance_fraction": 0.788,
+      "all_zero_probability": 0.07820431472081218,
+      "probability_standard_error": 0.003381618343417279
+    },
+    {
+      "method": "CPC",
+      "geometry": "Rx",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "counts": {
+        "total": 2000,
+        "aborted": 163,
+        "leaked": 108,
+        "accepted": 1729,
+        "zero": 1425
+      },
+      "data_qubits": 20,
+      "discarded_shots": 271,
+      "acceptance_fraction": 0.8645,
+      "all_zero_probability": 0.8241758241758241,
+      "probability_standard_error": 0.009154860564783476
+    },
+    {
+      "method": "CPC",
+      "geometry": "R0",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "counts": {
+        "total": 8000,
+        "aborted": 591,
+        "leaked": 796,
+        "accepted": 6613,
+        "zero": 504
+      },
+      "data_qubits": 20,
+      "discarded_shots": 1387,
+      "acceptance_fraction": 0.826625,
+      "all_zero_probability": 0.07621351882655376,
+      "probability_standard_error": 0.0032628908551917643
+    },
+    {
+      "method": "CPC",
+      "geometry": "R0",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "counts": {
+        "total": 2000,
+        "aborted": 141,
+        "leaked": 100,
+        "accepted": 1759,
+        "zero": 1469
+      },
+      "data_qubits": 20,
+      "discarded_shots": 241,
+      "acceptance_fraction": 0.8795,
+      "all_zero_probability": 0.8351335986355884,
+      "probability_standard_error": 0.008847307818599054
+    },
+    {
+      "method": "MBPC",
+      "geometry": "Rx",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "counts": {
+        "total": 8000,
+        "aborted": 828,
+        "leaked": 869,
+        "accepted": 6303,
+        "zero": 487
+      },
+      "data_qubits": 20,
+      "discarded_shots": 1697,
+      "acceptance_fraction": 0.787875,
+      "all_zero_probability": 0.07726479454228145,
+      "probability_standard_error": 0.003363223421944299
+    },
+    {
+      "method": "MBPC",
+      "geometry": "Rx",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "counts": {
+        "total": 2000,
+        "aborted": 187,
+        "leaked": 110,
+        "accepted": 1703,
+        "zero": 1406
+      },
+      "data_qubits": 20,
+      "discarded_shots": 297,
+      "acceptance_fraction": 0.8515,
+      "all_zero_probability": 0.8256018790369936,
+      "probability_standard_error": 0.009194940283436292
+    },
+    {
+      "method": "MBPC",
+      "geometry": "R0",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "counts": {
+        "total": 8000,
+        "aborted": 696,
+        "leaked": 798,
+        "accepted": 6506,
+        "zero": 534
+      },
+      "data_qubits": 20,
+      "discarded_shots": 1494,
+      "acceptance_fraction": 0.81325,
+      "all_zero_probability": 0.08207808177067323,
+      "probability_standard_error": 0.003402980336580388
+    },
+    {
+      "method": "MBPC",
+      "geometry": "R0",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "counts": {
+        "total": 2000,
+        "aborted": 168,
+        "leaked": 93,
+        "accepted": 1739,
+        "zero": 1473
+      },
+      "data_qubits": 20,
+      "discarded_shots": 261,
+      "acceptance_fraction": 0.8695,
+      "all_zero_probability": 0.8470385278895918,
+      "probability_standard_error": 0.008631630058681828
+    }
+  ],
+  "energies": [
+    {
+      "method": "no_parity",
+      "geometry": "Rx",
+      "truncation": {
+        "m": 1,
+        "k": 21,
+        "l": 24
+      },
+      "p_reference": 0.7828911748781808,
+      "p_reference_standard_error": 0.009593034130612715,
+      "p_residual": 0.07326328079392878,
+      "p_residual_standard_error": 0.0031478402904294854,
+      "overlap_ratio": 0.30590916082945613,
+      "overlap_ratio_standard_error": 0.006833892714272585,
+      "energy_hartree": -2404.517850676389,
+      "energy_standard_error_hartree": 0.001723750828452205,
+      "casci_energy_hartree": -2404.5243150902643,
+      "signed_error_mha": 6.46441387516461,
+      "absolute_error_mha": 6.46441387516461
+    },
+    {
+      "method": "no_parity",
+      "geometry": "R0",
+      "truncation": {
+        "m": 1,
+        "k": 21,
+        "l": 22
+      },
+      "p_reference": 0.8235919234856536,
+      "p_reference_standard_error": 0.008786288560045732,
+      "p_residual": 0.08083404741502428,
+      "p_residual_standard_error": 0.003257489868705667,
+      "overlap_ratio": 0.31328609745939756,
+      "overlap_ratio_standard_error": 0.006529929561512828,
+      "energy_hartree": -2404.514175478843,
+      "energy_standard_error_hartree": 0.001657879580456787,
+      "casci_energy_hartree": -2404.524434560353,
+      "signed_error_mha": 10.259081509957468,
+      "absolute_error_mha": 10.259081509957468
+    },
+    {
+      "method": "CPC",
+      "geometry": "Rx",
+      "truncation": {
+        "m": 1,
+        "k": 21,
+        "l": 24
+      },
+      "p_reference": 0.8241758241758241,
+      "p_reference_standard_error": 0.009154860564783476,
+      "p_residual": 0.07820431472081218,
+      "p_residual_standard_error": 0.003381618343417279,
+      "overlap_ratio": 0.3080387992790066,
+      "overlap_ratio_standard_error": 0.006876157261348274,
+      "energy_hartree": -2404.518387846959,
+      "energy_standard_error_hartree": 0.0017344114506015287,
+      "casci_energy_hartree": -2404.5243150902643,
+      "signed_error_mha": 5.927243305450247,
+      "absolute_error_mha": 5.927243305450247
+    },
+    {
+      "method": "CPC",
+      "geometry": "R0",
+      "truncation": {
+        "m": 1,
+        "k": 21,
+        "l": 22
+      },
+      "p_reference": 0.8351335986355884,
+      "p_reference_standard_error": 0.008847307818599054,
+      "p_residual": 0.07621351882655376,
+      "p_residual_standard_error": 0.0032628908551917643,
+      "overlap_ratio": 0.302091168256656,
+      "overlap_ratio_standard_error": 0.006661675452401203,
+      "energy_hartree": -2404.51133320553,
+      "energy_standard_error_hartree": 0.0016913284592318778,
+      "casci_energy_hartree": -2404.524434560353,
+      "signed_error_mha": 13.101354822993017,
+      "absolute_error_mha": 13.101354822993017
+    },
+    {
+      "method": "MBPC",
+      "geometry": "Rx",
+      "truncation": {
+        "m": 1,
+        "k": 21,
+        "l": 24
+      },
+      "p_reference": 0.8256018790369936,
+      "p_reference_standard_error": 0.009194940283436292,
+      "p_residual": 0.07726479454228145,
+      "p_residual_standard_error": 0.003363223421944299,
+      "overlap_ratio": 0.3059183235782525,
+      "overlap_ratio_standard_error": 0.006872569311704545,
+      "energy_hartree": -2404.51785298756,
+      "energy_standard_error_hartree": 0.0017335064420757283,
+      "casci_energy_hartree": -2404.5243150902643,
+      "signed_error_mha": 6.462102704063,
+      "absolute_error_mha": 6.462102704063
+    },
+    {
+      "method": "MBPC",
+      "geometry": "R0",
+      "truncation": {
+        "m": 1,
+        "k": 21,
+        "l": 22
+      },
+      "p_reference": 0.8470385278895918,
+      "p_reference_standard_error": 0.008631630058681828,
+      "p_residual": 0.08207808177067323,
+      "p_residual_standard_error": 0.003402980336580388,
+      "overlap_ratio": 0.3112877401403905,
+      "overlap_ratio_standard_error": 0.006645097238320772,
+      "energy_hartree": -2404.5136681172,
+      "energy_standard_error_hartree": 0.0016871194272131587,
+      "casci_energy_hartree": -2404.524434560353,
+      "signed_error_mha": 10.766443152988359,
+      "absolute_error_mha": 10.766443152988359
+    }
+  ],
+  "energy_differences": [
+    {
+      "method": "no_parity",
+      "energy_difference_hartree": -0.003675197546272102,
+      "energy_difference_standard_error_hartree": 0.0023916274003040762,
+      "casci_energy_difference_hartree": 0.00011947008852075669,
+      "signed_error_mha": -3.7946676347928587,
+      "absolute_error_mha": 3.7946676347928587
+    },
+    {
+      "method": "CPC",
+      "energy_difference_hartree": -0.007054641429022013,
+      "energy_difference_standard_error_hartree": 0.0024225554765547426,
+      "casci_energy_difference_hartree": 0.00011947008852075669,
+      "signed_error_mha": -7.174111517542769,
+      "absolute_error_mha": 7.174111517542769
+    },
+    {
+      "method": "MBPC",
+      "energy_difference_hartree": -0.004184870360404602,
+      "energy_difference_standard_error_hartree": 0.002418970141692143,
+      "casci_energy_difference_hartree": 0.00011947008852075669,
+      "signed_error_mha": -4.304340448925359,
+      "absolute_error_mha": 4.304340448925359
+    }
+  ]
+}

@@ -1,0 +1,4220 @@
+{
+    "66": {
+        "Rx": {
+            "1": {
+                "exp_val": -2404.442299806631,
+                "mixed_estimator": -2404.442299806631,
+                "casci_overlap": 0.9331743918769274,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "2": {
+                "exp_val": -2404.456859870237,
+                "mixed_estimator": -2404.4568020159486,
+                "casci_overlap": 0.9544315957992452,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "3": {
+                "exp_val": -2404.466498823392,
+                "mixed_estimator": -2404.467547284198,
+                "casci_overlap": 0.9705846465436268,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "4": {
+                "exp_val": -2404.4709496207174,
+                "mixed_estimator": -2404.4708868730104,
+                "casci_overlap": 0.9762474472125539,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "5": {
+                "exp_val": -2404.475339498773,
+                "mixed_estimator": -2404.4742162651514,
+                "casci_overlap": 0.9818757205376603,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "6": {
+                "exp_val": -2404.4773247450316,
+                "mixed_estimator": -2404.4769842482133,
+                "casci_overlap": 0.985129682614616,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "7": {
+                "exp_val": -2404.479298474529,
+                "mixed_estimator": -2404.479750418165,
+                "casci_overlap": 0.988379383206075,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "8": {
+                "exp_val": -2404.481554141386,
+                "mixed_estimator": -2404.4833757183364,
+                "casci_overlap": 0.9915489174614762,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "9": {
+                "exp_val": -2404.482186947739,
+                "mixed_estimator": -2404.485231424979,
+                "casci_overlap": 0.9930764308768745,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "10": {
+                "exp_val": -2404.4829756120503,
+                "mixed_estimator": -2404.4856068946465,
+                "casci_overlap": 0.994226480977165,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "11": {
+                "exp_val": -2404.48365526014,
+                "mixed_estimator": -2404.4859806881905,
+                "casci_overlap": 0.9953662861775802,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "12": {
+                "exp_val": -2404.4850053078567,
+                "mixed_estimator": -2404.4859806881905,
+                "casci_overlap": 0.9964065542207854,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "13": {
+                "exp_val": -2404.485474099334,
+                "mixed_estimator": -2404.4865350198556,
+                "casci_overlap": 0.9970764847450593,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "14": {
+                "exp_val": -2404.4858787488993,
+                "mixed_estimator": -2404.487085944508,
+                "casci_overlap": 0.9977382055724314,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "15": {
+                "exp_val": -2404.486217080998,
+                "mixed_estimator": -2404.4873910448464,
+                "casci_overlap": 0.998194924344688,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "16": {
+                "exp_val": -2404.4865176864237,
+                "mixed_estimator": -2404.487692922805,
+                "casci_overlap": 0.9986420466070801,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "17": {
+                "exp_val": -2404.4867054813903,
+                "mixed_estimator": -2404.487617668382,
+                "casci_overlap": 0.9989716547282665,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "18": {
+                "exp_val": -2404.4868925519277,
+                "mixed_estimator": -2404.4875427704687,
+                "casci_overlap": 0.9992981472927148,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "19": {
+                "exp_val": -2404.4871320734055,
+                "mixed_estimator": -2404.4874609346125,
+                "casci_overlap": 0.9996001808275843,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "20": {
+                "exp_val": -2404.4873456154187,
+                "mixed_estimator": -2404.487380108097,
+                "casci_overlap": 0.9998948099180198,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "21": {
+                "exp_val": -2404.487364498004,
+                "mixed_estimator": -2404.487391296649,
+                "casci_overlap": 0.9999203018476233,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "22": {
+                "exp_val": -2404.4873732048404,
+                "mixed_estimator": -2404.487396515661,
+                "casci_overlap": 0.9999310174576848,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "23": {
+                "exp_val": -2404.4873796735205,
+                "mixed_estimator": -2404.4874017613392,
+                "casci_overlap": 0.9999400980200823,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "24": {
+                "exp_val": -2404.487385913351,
+                "mixed_estimator": -2404.487401761339,
+                "casci_overlap": 0.9999463103193259,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "25": {
+                "exp_val": -2404.4873903400235,
+                "mixed_estimator": -2404.4874061948094,
+                "casci_overlap": 0.9999511541474487,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "26": {
+                "exp_val": -2404.487393119107,
+                "mixed_estimator": -2404.487409017598,
+                "casci_overlap": 0.9999556237655185,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "27": {
+                "exp_val": -2404.4873976465765,
+                "mixed_estimator": -2404.4874090175986,
+                "casci_overlap": 0.9999597970756396,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "28": {
+                "exp_val": -2404.4874013701055,
+                "mixed_estimator": -2404.487409017598,
+                "casci_overlap": 0.9999633461265672,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "29": {
+                "exp_val": -2404.48740400222,
+                "mixed_estimator": -2404.487410960232,
+                "casci_overlap": 0.9999668786396965,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "30": {
+                "exp_val": -2404.487404613201,
+                "mixed_estimator": -2404.4874200395093,
+                "casci_overlap": 0.9999697057218263,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "31": {
+                "exp_val": -2404.4874076353717,
+                "mixed_estimator": -2404.4874200395097,
+                "casci_overlap": 0.9999723869898647,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "32": {
+                "exp_val": -2404.4874081168296,
+                "mixed_estimator": -2404.4874205888805,
+                "casci_overlap": 0.9999748998444609,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "33": {
+                "exp_val": -2404.487409730663,
+                "mixed_estimator": -2404.4874220410547,
+                "casci_overlap": 0.999976595387672,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "34": {
+                "exp_val": -2404.4874103310262,
+                "mixed_estimator": -2404.4874221514447,
+                "casci_overlap": 0.9999782144521708,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "35": {
+                "exp_val": -2404.487412295909,
+                "mixed_estimator": -2404.4874221514438,
+                "casci_overlap": 0.9999796142553433,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "36": {
+                "exp_val": -2404.4874133581925,
+                "mixed_estimator": -2404.4874224530913,
+                "casci_overlap": 0.9999809691704753,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "37": {
+                "exp_val": -2404.487414005398,
+                "mixed_estimator": -2404.487422967429,
+                "casci_overlap": 0.9999822030176185,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "38": {
+                "exp_val": -2404.487415163463,
+                "mixed_estimator": -2404.4874237930376,
+                "casci_overlap": 0.9999834349170954,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "39": {
+                "exp_val": -2404.487415404335,
+                "mixed_estimator": -2404.4874240184936,
+                "casci_overlap": 0.9999845990964638,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "40": {
+                "exp_val": -2404.487416167336,
+                "mixed_estimator": -2404.487424521986,
+                "casci_overlap": 0.9999856448845679,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "41": {
+                "exp_val": -2404.48741651487,
+                "mixed_estimator": -2404.487419761082,
+                "casci_overlap": 0.9999866107354438,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "42": {
+                "exp_val": -2404.4874172490286,
+                "mixed_estimator": -2404.487420461213,
+                "casci_overlap": 0.9999875536034234,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "43": {
+                "exp_val": -2404.487417893503,
+                "mixed_estimator": -2404.487421043253,
+                "casci_overlap": 0.9999883637536446,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "44": {
+                "exp_val": -2404.4874184277214,
+                "mixed_estimator": -2404.4874215272102,
+                "casci_overlap": 0.9999891720627792,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "45": {
+                "exp_val": -2404.4874191097774,
+                "mixed_estimator": -2404.4874219098747,
+                "casci_overlap": 0.9999899556079462,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "46": {
+                "exp_val": -2404.4874196008545,
+                "mixed_estimator": -2404.4874222643707,
+                "casci_overlap": 0.9999905701693844,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "47": {
+                "exp_val": -2404.487419961365,
+                "mixed_estimator": -2404.4874221375458,
+                "casci_overlap": 0.999991183759602,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "48": {
+                "exp_val": -2404.4874204865437,
+                "mixed_estimator": -2404.4874226049055,
+                "casci_overlap": 0.9999917666761157,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "49": {
+                "exp_val": -2404.4874208764054,
+                "mixed_estimator": -2404.487422989725,
+                "casci_overlap": 0.9999923486260552,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "50": {
+                "exp_val": -2404.4874211971883,
+                "mixed_estimator": -2404.487423177685,
+                "casci_overlap": 0.9999929141275434,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "51": {
+                "exp_val": -2404.4874215980353,
+                "mixed_estimator": -2404.4874234400395,
+                "casci_overlap": 0.9999934649487687,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "52": {
+                "exp_val": -2404.487421763673,
+                "mixed_estimator": -2404.487424256376,
+                "casci_overlap": 0.9999939436545456,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "53": {
+                "exp_val": -2404.4874218404134,
+                "mixed_estimator": -2404.487424352015,
+                "casci_overlap": 0.9999943003049768,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "54": {
+                "exp_val": -2404.487422014909,
+                "mixed_estimator": -2404.4874245698275,
+                "casci_overlap": 0.9999946109631734,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "55": {
+                "exp_val": -2404.4874222431954,
+                "mixed_estimator": -2404.487424380664,
+                "casci_overlap": 0.9999948882910473,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "56": {
+                "exp_val": -2404.4874224097107,
+                "mixed_estimator": -2404.487425046489,
+                "casci_overlap": 0.9999951600889361,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "57": {
+                "exp_val": -2404.4874225748713,
+                "mixed_estimator": -2404.487425147474,
+                "casci_overlap": 0.9999954235248603,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "58": {
+                "exp_val": -2404.487422664821,
+                "mixed_estimator": -2404.4874251767883,
+                "casci_overlap": 0.9999956698177925,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "59": {
+                "exp_val": -2404.487423051592,
+                "mixed_estimator": -2404.487425176787,
+                "casci_overlap": 0.9999959146788426,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "60": {
+                "exp_val": -2404.487423117578,
+                "mixed_estimator": -2404.4874242724163,
+                "casci_overlap": 0.999996152283634,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "61": {
+                "exp_val": -2404.4874235025814,
+                "mixed_estimator": -2404.487424272416,
+                "casci_overlap": 0.9999963848853856,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "62": {
+                "exp_val": -2404.487423559533,
+                "mixed_estimator": -2404.4874243047566,
+                "casci_overlap": 0.9999966171760987,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "63": {
+                "exp_val": -2404.487423713149,
+                "mixed_estimator": -2404.4874244329717,
+                "casci_overlap": 0.9999968403587661,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "64": {
+                "exp_val": -2404.4874237642357,
+                "mixed_estimator": -2404.487425353752,
+                "casci_overlap": 0.9999970353537168,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "65": {
+                "exp_val": -2404.487423959908,
+                "mixed_estimator": -2404.4874254674805,
+                "casci_overlap": 0.9999972208299726,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "66": {
+                "exp_val": -2404.4874240373706,
+                "mixed_estimator": -2404.487425616595,
+                "casci_overlap": 0.9999974041312527,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "67": {
+                "exp_val": -2404.487424140452,
+                "mixed_estimator": -2404.4874256117882,
+                "casci_overlap": 0.9999975675405608,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "68": {
+                "exp_val": -2404.48742430603,
+                "mixed_estimator": -2404.4874256117882,
+                "casci_overlap": 0.9999977259553966,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "69": {
+                "exp_val": -2404.487424400644,
+                "mixed_estimator": -2404.487425612429,
+                "casci_overlap": 0.9999978551410459,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "70": {
+                "exp_val": -2404.487424478119,
+                "mixed_estimator": -2404.4874257056786,
+                "casci_overlap": 0.999997982161719,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "71": {
+                "exp_val": -2404.4874245442293,
+                "mixed_estimator": -2404.4874257590077,
+                "casci_overlap": 0.9999981083180012,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "72": {
+                "exp_val": -2404.4874245815236,
+                "mixed_estimator": -2404.487425775,
+                "casci_overlap": 0.9999982297023976,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "73": {
+                "exp_val": -2404.4874246564023,
+                "mixed_estimator": -2404.487425825466,
+                "casci_overlap": 0.9999983467590358,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "74": {
+                "exp_val": -2404.487424682727,
+                "mixed_estimator": -2404.4874258486016,
+                "casci_overlap": 0.9999984568684435,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "75": {
+                "exp_val": -2404.4874247828798,
+                "mixed_estimator": -2404.487425848601,
+                "casci_overlap": 0.9999985596588845,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "76": {
+                "exp_val": -2404.4874248519695,
+                "mixed_estimator": -2404.4874258810964,
+                "casci_overlap": 0.9999986407708352,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "77": {
+                "exp_val": -2404.4874249679915,
+                "mixed_estimator": -2404.487425881096,
+                "casci_overlap": 0.9999987205942749,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "78": {
+                "exp_val": -2404.48742503277,
+                "mixed_estimator": -2404.4874259501416,
+                "casci_overlap": 0.9999987936527143,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "79": {
+                "exp_val": -2404.4874250829644,
+                "mixed_estimator": -2404.487425950142,
+                "casci_overlap": 0.9999988633681344,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "80": {
+                "exp_val": -2404.487425182165,
+                "mixed_estimator": -2404.487425950141,
+                "casci_overlap": 0.9999989297397708,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "81": {
+                "exp_val": -2404.4874252403333,
+                "mixed_estimator": -2404.487426057043,
+                "casci_overlap": 0.9999989933935594,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "82": {
+                "exp_val": -2404.487425244078,
+                "mixed_estimator": -2404.487426064463,
+                "casci_overlap": 0.999999055685955,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "83": {
+                "exp_val": -2404.487425249709,
+                "mixed_estimator": -2404.4874260731062,
+                "casci_overlap": 0.9999991052623446,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "84": {
+                "exp_val": -2404.4874252600157,
+                "mixed_estimator": -2404.4874260916336,
+                "casci_overlap": 0.9999991515763683,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "85": {
+                "exp_val": -2404.4874252736727,
+                "mixed_estimator": -2404.4874260885404,
+                "casci_overlap": 0.9999991975642761,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "86": {
+                "exp_val": -2404.487425315448,
+                "mixed_estimator": -2404.487426088541,
+                "casci_overlap": 0.9999992419889214,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "87": {
+                "exp_val": -2404.487425353014,
+                "mixed_estimator": -2404.487426080436,
+                "casci_overlap": 0.9999992818411508,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "88": {
+                "exp_val": -2404.487425377915,
+                "mixed_estimator": -2404.487426080436,
+                "casci_overlap": 0.9999993162675603,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "89": {
+                "exp_val": -2404.487425383725,
+                "mixed_estimator": -2404.487426085176,
+                "casci_overlap": 0.9999993491664163,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "90": {
+                "exp_val": -2404.487425407663,
+                "mixed_estimator": -2404.4874261002246,
+                "casci_overlap": 0.9999993808856141,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "91": {
+                "exp_val": -2404.4874254531173,
+                "mixed_estimator": -2404.487426100225,
+                "casci_overlap": 0.9999994115911481,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "92": {
+                "exp_val": -2404.4874254957463,
+                "mixed_estimator": -2404.4874261002246,
+                "casci_overlap": 0.9999994397529214,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "93": {
+                "exp_val": -2404.487425502377,
+                "mixed_estimator": -2404.4874261097166,
+                "casci_overlap": 0.9999994645961438,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "94": {
+                "exp_val": -2404.487425526642,
+                "mixed_estimator": -2404.487426109716,
+                "casci_overlap": 0.9999994860664935,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "95": {
+                "exp_val": -2404.487425549141,
+                "mixed_estimator": -2404.4874261097166,
+                "casci_overlap": 0.9999995060689651,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "96": {
+                "exp_val": -2404.487425557834,
+                "mixed_estimator": -2404.487425961975,
+                "casci_overlap": 0.9999995252463498,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "97": {
+                "exp_val": -2404.487425573019,
+                "mixed_estimator": -2404.4874259619755,
+                "casci_overlap": 0.9999995431179312,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "98": {
+                "exp_val": -2404.4874255794152,
+                "mixed_estimator": -2404.487425961975,
+                "casci_overlap": 0.9999995582497,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "99": {
+                "exp_val": -2404.487425582725,
+                "mixed_estimator": -2404.4874259693315,
+                "casci_overlap": 0.999999573132641,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "100": {
+                "exp_val": -2404.4874255939753,
+                "mixed_estimator": -2404.4874259606677,
+                "casci_overlap": 0.9999995875482889,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            }
+        },
+        "R0": {
+            "1": {
+                "exp_val": -2404.4363657426106,
+                "mixed_estimator": -2404.4363657426106,
+                "casci_overlap": 0.9356775764872909,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "2": {
+                "exp_val": -2404.4507528648896,
+                "mixed_estimator": -2404.450401352493,
+                "casci_overlap": 0.9548153939523605,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "3": {
+                "exp_val": -2404.4604859724354,
+                "mixed_estimator": -2404.4609892192325,
+                "casci_overlap": 0.9699872007807714,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "4": {
+                "exp_val": -2404.4633915136365,
+                "mixed_estimator": -2404.4632786947627,
+                "casci_overlap": 0.97377752717025,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "5": {
+                "exp_val": -2404.466281465559,
+                "mixed_estimator": -2404.4655672432737,
+                "casci_overlap": 0.97756478474263,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "6": {
+                "exp_val": -2404.469334952321,
+                "mixed_estimator": -2404.4694690090064,
+                "casci_overlap": 0.9811544091481397,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "7": {
+                "exp_val": -2404.4710470723317,
+                "mixed_estimator": -2404.4722154267884,
+                "casci_overlap": 0.9842992636128705,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "8": {
+                "exp_val": -2404.4727517918022,
+                "mixed_estimator": -2404.474960619835,
+                "casci_overlap": 0.987441313873163,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "9": {
+                "exp_val": -2404.4737656439897,
+                "mixed_estimator": -2404.4757461054364,
+                "casci_overlap": 0.9893804290083383,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "10": {
+                "exp_val": -2404.4745970506237,
+                "mixed_estimator": -2404.4765311301617,
+                "casci_overlap": 0.9913172692972375,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "11": {
+                "exp_val": -2404.475891461533,
+                "mixed_estimator": -2404.478440460815,
+                "casci_overlap": 0.9930546420344323,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "12": {
+                "exp_val": -2404.476737997076,
+                "mixed_estimator": -2404.4793097395436,
+                "casci_overlap": 0.9943206780804577,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "13": {
+                "exp_val": -2404.477465511242,
+                "mixed_estimator": -2404.4801781905444,
+                "casci_overlap": 0.9955843042332502,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "14": {
+                "exp_val": -2404.4787564653975,
+                "mixed_estimator": -2404.4801781905444,
+                "casci_overlap": 0.9965596248382672,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "15": {
+                "exp_val": -2404.4793152527845,
+                "mixed_estimator": -2404.4806266162764,
+                "casci_overlap": 0.9973988697865426,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "16": {
+                "exp_val": -2404.479812300953,
+                "mixed_estimator": -2404.4810741429983,
+                "casci_overlap": 0.998234753049137,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "17": {
+                "exp_val": -2404.4803674083723,
+                "mixed_estimator": -2404.481108280801,
+                "casci_overlap": 0.9989307172524897,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "18": {
+                "exp_val": -2404.480871485932,
+                "mixed_estimator": -2404.4811423752362,
+                "casci_overlap": 0.9996249143402165,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "19": {
+                "exp_val": -2404.480961902801,
+                "mixed_estimator": -2404.4812030964567,
+                "casci_overlap": 0.9997420792095264,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "20": {
+                "exp_val": -2404.4809946435284,
+                "mixed_estimator": -2404.4812227221723,
+                "casci_overlap": 0.9997803834977045,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "21": {
+                "exp_val": -2404.481016290911,
+                "mixed_estimator": -2404.4811579752704,
+                "casci_overlap": 0.9998105598379123,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "22": {
+                "exp_val": -2404.4810373863374,
+                "mixed_estimator": -2404.4810933851636,
+                "casci_overlap": 0.9998405902017442,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "23": {
+                "exp_val": -2404.481050499603,
+                "mixed_estimator": -2404.481106694767,
+                "casci_overlap": 0.9998598803215728,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "24": {
+                "exp_val": -2404.4810632306703,
+                "mixed_estimator": -2404.4811188514873,
+                "casci_overlap": 0.9998783278612081,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "25": {
+                "exp_val": -2404.481077068679,
+                "mixed_estimator": -2404.48112866919,
+                "casci_overlap": 0.9998937223351327,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "26": {
+                "exp_val": -2404.481084479275,
+                "mixed_estimator": -2404.4811286691897,
+                "casci_overlap": 0.9999006763782632,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "27": {
+                "exp_val": -2404.481089602719,
+                "mixed_estimator": -2404.481132407844,
+                "casci_overlap": 0.9999074878248662,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "28": {
+                "exp_val": -2404.4810928512406,
+                "mixed_estimator": -2404.481132348703,
+                "casci_overlap": 0.9999137714217123,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "29": {
+                "exp_val": -2404.481098721243,
+                "mixed_estimator": -2404.481132348703,
+                "casci_overlap": 0.9999197453035124,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "30": {
+                "exp_val": -2404.4811028957447,
+                "mixed_estimator": -2404.481138454558,
+                "casci_overlap": 0.9999253640282723,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "31": {
+                "exp_val": -2404.481110434728,
+                "mixed_estimator": -2404.4811384545583,
+                "casci_overlap": 0.9999309729184982,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "32": {
+                "exp_val": -2404.481115569822,
+                "mixed_estimator": -2404.48114517742,
+                "casci_overlap": 0.9999365631890925,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "33": {
+                "exp_val": -2404.4811217709466,
+                "mixed_estimator": -2404.48114517742,
+                "casci_overlap": 0.9999416778154578,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "34": {
+                "exp_val": -2404.4811268068047,
+                "mixed_estimator": -2404.4811459901393,
+                "casci_overlap": 0.9999466617219954,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "35": {
+                "exp_val": -2404.481131983389,
+                "mixed_estimator": -2404.481145990139,
+                "casci_overlap": 0.9999512115537288,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "36": {
+                "exp_val": -2404.4811346389356,
+                "mixed_estimator": -2404.4811480115613,
+                "casci_overlap": 0.9999554378555314,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "37": {
+                "exp_val": -2404.481137116182,
+                "mixed_estimator": -2404.4811482644172,
+                "casci_overlap": 0.9999586695196473,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "38": {
+                "exp_val": -2404.481140109622,
+                "mixed_estimator": -2404.4811482644172,
+                "casci_overlap": 0.9999614976708355,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "39": {
+                "exp_val": -2404.481142141323,
+                "mixed_estimator": -2404.4811497352557,
+                "casci_overlap": 0.9999643060975084,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "40": {
+                "exp_val": -2404.4811447371067,
+                "mixed_estimator": -2404.481149735256,
+                "casci_overlap": 0.9999670675478005,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "41": {
+                "exp_val": -2404.481146906835,
+                "mixed_estimator": -2404.4811512282645,
+                "casci_overlap": 0.9999694098012458,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "42": {
+                "exp_val": -2404.4811480740327,
+                "mixed_estimator": -2404.481152178035,
+                "casci_overlap": 0.9999713619177141,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "43": {
+                "exp_val": -2404.4811490071097,
+                "mixed_estimator": -2404.4811531538016,
+                "casci_overlap": 0.9999731686272998,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "44": {
+                "exp_val": -2404.4811498984163,
+                "mixed_estimator": -2404.4811545652906,
+                "casci_overlap": 0.9999749447250948,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "45": {
+                "exp_val": -2404.4811512677256,
+                "mixed_estimator": -2404.481155709984,
+                "casci_overlap": 0.9999767018148779,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "46": {
+                "exp_val": -2404.481152052667,
+                "mixed_estimator": -2404.481156500791,
+                "casci_overlap": 0.9999780800388524,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "47": {
+                "exp_val": -2404.481152284021,
+                "mixed_estimator": -2404.48115678344,
+                "casci_overlap": 0.9999793418041918,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "48": {
+                "exp_val": -2404.481152861427,
+                "mixed_estimator": -2404.481157614027,
+                "casci_overlap": 0.9999805811273043,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "49": {
+                "exp_val": -2404.4811541122294,
+                "mixed_estimator": -2404.4811576140264,
+                "casci_overlap": 0.9999817920027355,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "50": {
+                "exp_val": -2404.4811550746076,
+                "mixed_estimator": -2404.481158363097,
+                "casci_overlap": 0.999982962453299,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "51": {
+                "exp_val": -2404.481156450795,
+                "mixed_estimator": -2404.4811583630976,
+                "casci_overlap": 0.9999840911356371,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "52": {
+                "exp_val": -2404.481157245962,
+                "mixed_estimator": -2404.481158787972,
+                "casci_overlap": 0.9999851974861057,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "53": {
+                "exp_val": -2404.481157918201,
+                "mixed_estimator": -2404.481160360645,
+                "casci_overlap": 0.9999862725508596,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "54": {
+                "exp_val": -2404.4811590452896,
+                "mixed_estimator": -2404.481160360645,
+                "casci_overlap": 0.9999872765217238,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "55": {
+                "exp_val": -2404.481159745493,
+                "mixed_estimator": -2404.4811599068444,
+                "casci_overlap": 0.9999881018662992,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "56": {
+                "exp_val": -2404.4811599440177,
+                "mixed_estimator": -2404.4811657030864,
+                "casci_overlap": 0.9999888855648571,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "57": {
+                "exp_val": -2404.4811605545774,
+                "mixed_estimator": -2404.4811662022557,
+                "casci_overlap": 0.9999896233201936,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "58": {
+                "exp_val": -2404.4811608223904,
+                "mixed_estimator": -2404.481166586651,
+                "casci_overlap": 0.9999903246217218,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "59": {
+                "exp_val": -2404.481161427333,
+                "mixed_estimator": -2404.4811665866514,
+                "casci_overlap": 0.9999909658820263,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "60": {
+                "exp_val": -2404.4811616674842,
+                "mixed_estimator": -2404.481166698394,
+                "casci_overlap": 0.9999915108689709,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "61": {
+                "exp_val": -2404.4811619794755,
+                "mixed_estimator": -2404.48116706114,
+                "casci_overlap": 0.9999920465209192,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "62": {
+                "exp_val": -2404.4811623921437,
+                "mixed_estimator": -2404.4811681793853,
+                "casci_overlap": 0.9999925689021683,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "63": {
+                "exp_val": -2404.481162871401,
+                "mixed_estimator": -2404.4811681793853,
+                "casci_overlap": 0.999993089210272,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "64": {
+                "exp_val": -2404.481163735671,
+                "mixed_estimator": -2404.481168179386,
+                "casci_overlap": 0.9999935757748721,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "65": {
+                "exp_val": -2404.4811638779665,
+                "mixed_estimator": -2404.481168245749,
+                "casci_overlap": 0.9999940550919709,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "66": {
+                "exp_val": -2404.4811640457383,
+                "mixed_estimator": -2404.481169167337,
+                "casci_overlap": 0.9999945223522922,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "67": {
+                "exp_val": -2404.4811641343495,
+                "mixed_estimator": -2404.4811692736566,
+                "casci_overlap": 0.9999949436120126,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "68": {
+                "exp_val": -2404.481164399686,
+                "mixed_estimator": -2404.481169536178,
+                "casci_overlap": 0.9999953441645968,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "69": {
+                "exp_val": -2404.4811647758247,
+                "mixed_estimator": -2404.481169536178,
+                "casci_overlap": 0.9999957288790133,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "70": {
+                "exp_val": -2404.4811650103347,
+                "mixed_estimator": -2404.4811696566426,
+                "casci_overlap": 0.9999960874417241,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "71": {
+                "exp_val": -2404.481165181109,
+                "mixed_estimator": -2404.4811699146185,
+                "casci_overlap": 0.999996406068444,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "72": {
+                "exp_val": -2404.4811656020115,
+                "mixed_estimator": -2404.481169914619,
+                "casci_overlap": 0.9999967226562217,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "73": {
+                "exp_val": -2404.4811657475725,
+                "mixed_estimator": -2404.48116999829,
+                "casci_overlap": 0.999997010930851,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "74": {
+                "exp_val": -2404.481165871326,
+                "mixed_estimator": -2404.4811701348967,
+                "casci_overlap": 0.9999972728423978,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "75": {
+                "exp_val": -2404.481166117574,
+                "mixed_estimator": -2404.4811697875525,
+                "casci_overlap": 0.9999975325895919,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "76": {
+                "exp_val": -2404.481166316372,
+                "mixed_estimator": -2404.4811698896515,
+                "casci_overlap": 0.9999977829227743,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "77": {
+                "exp_val": -2404.481166540647,
+                "mixed_estimator": -2404.481169889651,
+                "casci_overlap": 0.9999979460095869,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "78": {
+                "exp_val": -2404.4811667639487,
+                "mixed_estimator": -2404.4811698896506,
+                "casci_overlap": 0.9999981044544651,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "79": {
+                "exp_val": -2404.4811668016114,
+                "mixed_estimator": -2404.4811698580834,
+                "casci_overlap": 0.9999982305552975,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "80": {
+                "exp_val": -2404.481166871448,
+                "mixed_estimator": -2404.4811698287554,
+                "casci_overlap": 0.9999983328555176,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "81": {
+                "exp_val": -2404.4811669559826,
+                "mixed_estimator": -2404.4811698287554,
+                "casci_overlap": 0.9999984328554021,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "82": {
+                "exp_val": -2404.4811670052454,
+                "mixed_estimator": -2404.481169912204,
+                "casci_overlap": 0.9999985245197782,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "83": {
+                "exp_val": -2404.4811671126117,
+                "mixed_estimator": -2404.481169912204,
+                "casci_overlap": 0.999998615939576,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "84": {
+                "exp_val": -2404.481167207774,
+                "mixed_estimator": -2404.481169912204,
+                "casci_overlap": 0.999998705945479,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "85": {
+                "exp_val": -2404.481167293558,
+                "mixed_estimator": -2404.4811699122047,
+                "casci_overlap": 0.9999987870147994,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "86": {
+                "exp_val": -2404.4811672961555,
+                "mixed_estimator": -2404.481169919749,
+                "casci_overlap": 0.9999988600018117,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "87": {
+                "exp_val": -2404.4811673218483,
+                "mixed_estimator": -2404.4811691527643,
+                "casci_overlap": 0.9999989246334204,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "88": {
+                "exp_val": -2404.4811673748145,
+                "mixed_estimator": -2404.4811691527643,
+                "casci_overlap": 0.9999989866926409,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "89": {
+                "exp_val": -2404.481167429762,
+                "mixed_estimator": -2404.4811691527643,
+                "casci_overlap": 0.9999990456024618,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "90": {
+                "exp_val": -2404.4811675015826,
+                "mixed_estimator": -2404.4811691527643,
+                "casci_overlap": 0.9999991038077002,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "91": {
+                "exp_val": -2404.481167536078,
+                "mixed_estimator": -2404.481169254313,
+                "casci_overlap": 0.9999991577513853,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "92": {
+                "exp_val": -2404.481167573397,
+                "mixed_estimator": -2404.4811692920794,
+                "casci_overlap": 0.9999992092879271,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "93": {
+                "exp_val": -2404.481167586729,
+                "mixed_estimator": -2404.481169309143,
+                "casci_overlap": 0.9999992582142817,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "94": {
+                "exp_val": -2404.4811676189483,
+                "mixed_estimator": -2404.4811693091438,
+                "casci_overlap": 0.999999301987314,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "95": {
+                "exp_val": -2404.4811676332215,
+                "mixed_estimator": -2404.4811693016413,
+                "casci_overlap": 0.9999993435165992,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "96": {
+                "exp_val": -2404.4811676829745,
+                "mixed_estimator": -2404.481169301642,
+                "casci_overlap": 0.9999993819143431,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "97": {
+                "exp_val": -2404.481167696902,
+                "mixed_estimator": -2404.481169225626,
+                "casci_overlap": 0.9999994177039462,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "98": {
+                "exp_val": -2404.4811677399493,
+                "mixed_estimator": -2404.481169225626,
+                "casci_overlap": 0.9999994517261775,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "99": {
+                "exp_val": -2404.4811677785906,
+                "mixed_estimator": -2404.4811692256258,
+                "casci_overlap": 0.9999994844179471,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "100": {
+                "exp_val": -2404.48116780626,
+                "mixed_estimator": -2404.481169225626,
+                "casci_overlap": 0.9999995138686337,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            }
+        }
+    },
+    "88": {
+        "Rx": {
+            "1": {
+                "exp_val": -2404.441645198684,
+                "mixed_estimator": -2404.441645198685,
+                "casci_overlap": 0.9124133528919728,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "2": {
+                "exp_val": -2404.4601179954457,
+                "mixed_estimator": -2404.460166503004,
+                "casci_overlap": 0.9326578680150955,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "3": {
+                "exp_val": -2404.471387491508,
+                "mixed_estimator": -2404.47241341708,
+                "casci_overlap": 0.9528592036433483,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "4": {
+                "exp_val": -2404.4814476382116,
+                "mixed_estimator": -2404.484221309371,
+                "casci_overlap": 0.9689300728145848,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "5": {
+                "exp_val": -2404.4871156130703,
+                "mixed_estimator": -2404.488482378895,
+                "casci_overlap": 0.9757481996032247,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "6": {
+                "exp_val": -2404.4927078208407,
+                "mixed_estimator": -2404.492741622243,
+                "casci_overlap": 0.9825604835234518,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "7": {
+                "exp_val": -2404.4946265482185,
+                "mixed_estimator": -2404.4954968354245,
+                "casci_overlap": 0.9857241368778566,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "8": {
+                "exp_val": -2404.4965341880134,
+                "mixed_estimator": -2404.498250275287,
+                "casci_overlap": 0.9888837191396896,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "9": {
+                "exp_val": -2404.498200705252,
+                "mixed_estimator": -2404.501377722936,
+                "casci_overlap": 0.9914158261313798,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "10": {
+                "exp_val": -2404.4993369292906,
+                "mixed_estimator": -2404.5039108328733,
+                "casci_overlap": 0.9933872806414074,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "11": {
+                "exp_val": -2404.500645301003,
+                "mixed_estimator": -2404.5039108328738,
+                "casci_overlap": 0.9943980830229862,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "12": {
+                "exp_val": -2404.501149754203,
+                "mixed_estimator": -2404.5039798719476,
+                "casci_overlap": 0.9950926656854278,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "13": {
+                "exp_val": -2404.501653771996,
+                "mixed_estimator": -2404.5040487640927,
+                "casci_overlap": 0.9957842950822035,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "14": {
+                "exp_val": -2404.502257041079,
+                "mixed_estimator": -2404.5040487640927,
+                "casci_overlap": 0.9962323629297929,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "15": {
+                "exp_val": -2404.50256378738,
+                "mixed_estimator": -2404.5044192151004,
+                "casci_overlap": 0.9966671707622005,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "16": {
+                "exp_val": -2404.502831836887,
+                "mixed_estimator": -2404.504785425342,
+                "casci_overlap": 0.9970920805768987,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "17": {
+                "exp_val": -2404.5033412266516,
+                "mixed_estimator": -2404.5047854253417,
+                "casci_overlap": 0.9974556052430841,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "18": {
+                "exp_val": -2404.503572536104,
+                "mixed_estimator": -2404.5048348074715,
+                "casci_overlap": 0.9977888084080279,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "19": {
+                "exp_val": -2404.503767564296,
+                "mixed_estimator": -2404.5048836011188,
+                "casci_overlap": 0.9981141173791482,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "20": {
+                "exp_val": -2404.50401640654,
+                "mixed_estimator": -2404.504883601119,
+                "casci_overlap": 0.9982667698065901,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "21": {
+                "exp_val": -2404.5042651282247,
+                "mixed_estimator": -2404.5048836011188,
+                "casci_overlap": 0.9984192959234701,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "22": {
+                "exp_val": -2404.5043700459537,
+                "mixed_estimator": -2404.5050164030104,
+                "casci_overlap": 0.9985565532599512,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "23": {
+                "exp_val": -2404.5044593438465,
+                "mixed_estimator": -2404.505146639892,
+                "casci_overlap": 0.998688559669666,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "24": {
+                "exp_val": -2404.5045716180107,
+                "mixed_estimator": -2404.505247185719,
+                "casci_overlap": 0.9988049091620411,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "25": {
+                "exp_val": -2404.5046836026486,
+                "mixed_estimator": -2404.5053475220084,
+                "casci_overlap": 0.9989207742131359,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "26": {
+                "exp_val": -2404.504725990521,
+                "mixed_estimator": -2404.505395871978,
+                "casci_overlap": 0.9990066355966595,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "27": {
+                "exp_val": -2404.5048273007724,
+                "mixed_estimator": -2404.5053958719805,
+                "casci_overlap": 0.9990777382501337,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "28": {
+                "exp_val": -2404.5049285466334,
+                "mixed_estimator": -2404.5053958719795,
+                "casci_overlap": 0.9991487346657463,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "29": {
+                "exp_val": -2404.5050131119815,
+                "mixed_estimator": -2404.5053958719805,
+                "casci_overlap": 0.9992053392457565,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "30": {
+                "exp_val": -2404.5050749781303,
+                "mixed_estimator": -2404.5053958719805,
+                "casci_overlap": 0.9992496124988367,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "31": {
+                "exp_val": -2404.5051109500814,
+                "mixed_estimator": -2404.50542979202,
+                "casci_overlap": 0.9992900972908977,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "32": {
+                "exp_val": -2404.5051470467315,
+                "mixed_estimator": -2404.505463571582,
+                "casci_overlap": 0.9993302474515727,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "33": {
+                "exp_val": -2404.5051752948043,
+                "mixed_estimator": -2404.5054219422655,
+                "casci_overlap": 0.9993672646193981,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "34": {
+                "exp_val": -2404.505199569811,
+                "mixed_estimator": -2404.505381844718,
+                "casci_overlap": 0.9994016077769963,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "35": {
+                "exp_val": -2404.505230909873,
+                "mixed_estimator": -2404.5054121250328,
+                "casci_overlap": 0.9994353423697431,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "36": {
+                "exp_val": -2404.5052631118415,
+                "mixed_estimator": -2404.505442396688,
+                "casci_overlap": 0.9994690576680586,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "37": {
+                "exp_val": -2404.5052903124115,
+                "mixed_estimator": -2404.5054624845166,
+                "casci_overlap": 0.9995001681489798,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "38": {
+                "exp_val": -2404.505338427057,
+                "mixed_estimator": -2404.5054624845175,
+                "casci_overlap": 0.9995230225511139,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "39": {
+                "exp_val": -2404.505346492802,
+                "mixed_estimator": -2404.5054802943127,
+                "casci_overlap": 0.9995438883378089,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "40": {
+                "exp_val": -2404.505362509278,
+                "mixed_estimator": -2404.5054957805996,
+                "casci_overlap": 0.9995629562464702,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "41": {
+                "exp_val": -2404.505367207015,
+                "mixed_estimator": -2404.5055012573603,
+                "casci_overlap": 0.9995817895428376,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "42": {
+                "exp_val": -2404.5053828102987,
+                "mixed_estimator": -2404.5055165683675,
+                "casci_overlap": 0.999600428253136,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "43": {
+                "exp_val": -2404.505407054105,
+                "mixed_estimator": -2404.505516568367,
+                "casci_overlap": 0.9996158565030852,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "44": {
+                "exp_val": -2404.5054312474576,
+                "mixed_estimator": -2404.5055165683666,
+                "casci_overlap": 0.9996312224886346,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "45": {
+                "exp_val": -2404.5054371073293,
+                "mixed_estimator": -2404.50553520214,
+                "casci_overlap": 0.9996450500803905,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "46": {
+                "exp_val": -2404.5054487593557,
+                "mixed_estimator": -2404.5055434938567,
+                "casci_overlap": 0.9996574092204658,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "47": {
+                "exp_val": -2404.5054605528435,
+                "mixed_estimator": -2404.505551754161,
+                "casci_overlap": 0.9996696748949792,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "48": {
+                "exp_val": -2404.505467945441,
+                "mixed_estimator": -2404.5055564364675,
+                "casci_overlap": 0.9996817181214677,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "49": {
+                "exp_val": -2404.505475804835,
+                "mixed_estimator": -2404.5055609413052,
+                "casci_overlap": 0.999693322760604,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "50": {
+                "exp_val": -2404.505480807049,
+                "mixed_estimator": -2404.5055752431404,
+                "casci_overlap": 0.9997045436498565,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "51": {
+                "exp_val": -2404.5054960452344,
+                "mixed_estimator": -2404.50557524314,
+                "casci_overlap": 0.9997144303390872,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "52": {
+                "exp_val": -2404.505510224479,
+                "mixed_estimator": -2404.505575243139,
+                "casci_overlap": 0.9997240875138382,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "53": {
+                "exp_val": -2404.5055173956735,
+                "mixed_estimator": -2404.505583284154,
+                "casci_overlap": 0.9997323020921324,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "54": {
+                "exp_val": -2404.5055245507774,
+                "mixed_estimator": -2404.5055912890584,
+                "casci_overlap": 0.9997404430567626,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "55": {
+                "exp_val": -2404.5055361637937,
+                "mixed_estimator": -2404.5055912890593,
+                "casci_overlap": 0.999748027569681,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "56": {
+                "exp_val": -2404.5055468054393,
+                "mixed_estimator": -2404.5055912890593,
+                "casci_overlap": 0.9997554332403088,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "57": {
+                "exp_val": -2404.505552215826,
+                "mixed_estimator": -2404.5055949623365,
+                "casci_overlap": 0.9997619869756323,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "58": {
+                "exp_val": -2404.5055543539224,
+                "mixed_estimator": -2404.50560508157,
+                "casci_overlap": 0.9997684522283078,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "59": {
+                "exp_val": -2404.505561000821,
+                "mixed_estimator": -2404.5056138922605,
+                "casci_overlap": 0.9997740217710569,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "60": {
+                "exp_val": -2404.5055674573678,
+                "mixed_estimator": -2404.505622602021,
+                "casci_overlap": 0.9997794644442236,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "61": {
+                "exp_val": -2404.5055717657433,
+                "mixed_estimator": -2404.505631194021,
+                "casci_overlap": 0.9997849067158588,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "62": {
+                "exp_val": -2404.505576032466,
+                "mixed_estimator": -2404.505639767963,
+                "casci_overlap": 0.9997903261327109,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "63": {
+                "exp_val": -2404.50558137092,
+                "mixed_estimator": -2404.505639767963,
+                "casci_overlap": 0.9997949713739759,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "64": {
+                "exp_val": -2404.5055855688324,
+                "mixed_estimator": -2404.5056422264133,
+                "casci_overlap": 0.9997996140204419,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "65": {
+                "exp_val": -2404.5055886091855,
+                "mixed_estimator": -2404.5056448853566,
+                "casci_overlap": 0.9998037813246039,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "66": {
+                "exp_val": -2404.5055924597355,
+                "mixed_estimator": -2404.5056485940386,
+                "casci_overlap": 0.999807947653436,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "67": {
+                "exp_val": -2404.5055962469146,
+                "mixed_estimator": -2404.5056522872833,
+                "casci_overlap": 0.9998120793728817,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "68": {
+                "exp_val": -2404.5056003304876,
+                "mixed_estimator": -2404.505658846947,
+                "casci_overlap": 0.9998160510392858,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "69": {
+                "exp_val": -2404.5056035023986,
+                "mixed_estimator": -2404.505664618976,
+                "casci_overlap": 0.9998199869683139,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "70": {
+                "exp_val": -2404.5056065500935,
+                "mixed_estimator": -2404.5056667919125,
+                "casci_overlap": 0.999823898240856,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "71": {
+                "exp_val": -2404.5056105297826,
+                "mixed_estimator": -2404.5056732657877,
+                "casci_overlap": 0.9998277667019762,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "72": {
+                "exp_val": -2404.5056137139645,
+                "mixed_estimator": -2404.505678955486,
+                "casci_overlap": 0.9998315911488377,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "73": {
+                "exp_val": -2404.505616278271,
+                "mixed_estimator": -2404.50568520161,
+                "casci_overlap": 0.9998353021466931,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "74": {
+                "exp_val": -2404.5056187226937,
+                "mixed_estimator": -2404.505691401375,
+                "casci_overlap": 0.9998389582620894,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "75": {
+                "exp_val": -2404.5056226099628,
+                "mixed_estimator": -2404.505691401374,
+                "casci_overlap": 0.9998424777564131,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "76": {
+                "exp_val": -2404.505626320265,
+                "mixed_estimator": -2404.5056933265573,
+                "casci_overlap": 0.9998458774041287,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "77": {
+                "exp_val": -2404.505630000691,
+                "mixed_estimator": -2404.505695244169,
+                "casci_overlap": 0.9998492503749852,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "78": {
+                "exp_val": -2404.505631954915,
+                "mixed_estimator": -2404.5056960406637,
+                "casci_overlap": 0.9998523874557738,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "79": {
+                "exp_val": -2404.505633673746,
+                "mixed_estimator": -2404.505696928982,
+                "casci_overlap": 0.9998554859427675,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "80": {
+                "exp_val": -2404.5056366607328,
+                "mixed_estimator": -2404.5056969289813,
+                "casci_overlap": 0.9998585640206232,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "81": {
+                "exp_val": -2404.505641538918,
+                "mixed_estimator": -2404.505696928982,
+                "casci_overlap": 0.9998615314021717,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "82": {
+                "exp_val": -2404.5056459801976,
+                "mixed_estimator": -2404.5056969289813,
+                "casci_overlap": 0.9998643834178688,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "83": {
+                "exp_val": -2404.5056483784992,
+                "mixed_estimator": -2404.505699389473,
+                "casci_overlap": 0.9998671570784751,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "84": {
+                "exp_val": -2404.5056507291283,
+                "mixed_estimator": -2404.5057018201423,
+                "casci_overlap": 0.9998698639057658,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "85": {
+                "exp_val": -2404.5056529146714,
+                "mixed_estimator": -2404.505704498042,
+                "casci_overlap": 0.9998725056754639,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "86": {
+                "exp_val": -2404.505654990651,
+                "mixed_estimator": -2404.5057062735664,
+                "casci_overlap": 0.9998750606775817,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "87": {
+                "exp_val": -2404.505657359194,
+                "mixed_estimator": -2404.5057085654025,
+                "casci_overlap": 0.999877595151424,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "88": {
+                "exp_val": -2404.5056601340184,
+                "mixed_estimator": -2404.505712436228,
+                "casci_overlap": 0.9998801172425894,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "89": {
+                "exp_val": -2404.5056639474647,
+                "mixed_estimator": -2404.5057124362247,
+                "casci_overlap": 0.9998825877798743,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "90": {
+                "exp_val": -2404.505667712351,
+                "mixed_estimator": -2404.505712436225,
+                "casci_overlap": 0.9998850474099392,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "91": {
+                "exp_val": -2404.5056701372373,
+                "mixed_estimator": -2404.5057124362274,
+                "casci_overlap": 0.9998875026512238,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "92": {
+                "exp_val": -2404.5056727488786,
+                "mixed_estimator": -2404.5057162182643,
+                "casci_overlap": 0.9998899103704484,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "93": {
+                "exp_val": -2404.5056751356838,
+                "mixed_estimator": -2404.505716218263,
+                "casci_overlap": 0.9998922810838522,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "94": {
+                "exp_val": -2404.505677024465,
+                "mixed_estimator": -2404.505718483015,
+                "casci_overlap": 0.999894636122421,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "95": {
+                "exp_val": -2404.5056786428104,
+                "mixed_estimator": -2404.5057221430666,
+                "casci_overlap": 0.9998969589782166,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "96": {
+                "exp_val": -2404.505680256,
+                "mixed_estimator": -2404.505725791225,
+                "casci_overlap": 0.9998992667601219,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "97": {
+                "exp_val": -2404.5056837693933,
+                "mixed_estimator": -2404.5057257912217,
+                "casci_overlap": 0.9999015172994515,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "98": {
+                "exp_val": -2404.5056872819446,
+                "mixed_estimator": -2404.505725791226,
+                "casci_overlap": 0.9999037670122781,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "99": {
+                "exp_val": -2404.505687885503,
+                "mixed_estimator": -2404.5057326545248,
+                "casci_overlap": 0.9999059941233615,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "100": {
+                "exp_val": -2404.505689068941,
+                "mixed_estimator": -2404.5057341095167,
+                "casci_overlap": 0.9999081138256262,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            }
+        },
+        "R0": {
+            "1": {
+                "exp_val": -2404.4353579997896,
+                "mixed_estimator": -2404.4353579997896,
+                "casci_overlap": 0.914745646560391,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "2": {
+                "exp_val": -2404.4541563324824,
+                "mixed_estimator": -2404.454128645831,
+                "casci_overlap": 0.9349314353672822,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "3": {
+                "exp_val": -2404.465237641268,
+                "mixed_estimator": -2404.466245070799,
+                "casci_overlap": 0.9539444617909673,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "4": {
+                "exp_val": -2404.4756598965105,
+                "mixed_estimator": -2404.4784125308634,
+                "casci_overlap": 0.9704742896705818,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "5": {
+                "exp_val": -2404.4813580209857,
+                "mixed_estimator": -2404.4826665677388,
+                "casci_overlap": 0.9771254039281239,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "6": {
+                "exp_val": -2404.486970502091,
+                "mixed_estimator": -2404.4869181324475,
+                "casci_overlap": 0.9837687900520055,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "7": {
+                "exp_val": -2404.488907088416,
+                "mixed_estimator": -2404.4896488167333,
+                "casci_overlap": 0.9868275645086335,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "8": {
+                "exp_val": -2404.490835363378,
+                "mixed_estimator": -2404.4923792302866,
+                "casci_overlap": 0.9898857324748298,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "9": {
+                "exp_val": -2404.492425114864,
+                "mixed_estimator": -2404.4953757616145,
+                "casci_overlap": 0.9922953997982188,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "10": {
+                "exp_val": -2404.4935805913706,
+                "mixed_estimator": -2404.4979086305443,
+                "casci_overlap": 0.9941939299708044,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "11": {
+                "exp_val": -2404.4948579659913,
+                "mixed_estimator": -2404.4979086305443,
+                "casci_overlap": 0.9951473021860555,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "12": {
+                "exp_val": -2404.49536961291,
+                "mixed_estimator": -2404.497981807301,
+                "casci_overlap": 0.9958361898218986,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "13": {
+                "exp_val": -2404.495879776211,
+                "mixed_estimator": -2404.498054880732,
+                "casci_overlap": 0.9965231334334421,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "14": {
+                "exp_val": -2404.4964625552607,
+                "mixed_estimator": -2404.4980548807325,
+                "casci_overlap": 0.9969424375656181,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "15": {
+                "exp_val": -2404.4969932411277,
+                "mixed_estimator": -2404.498054880732,
+                "casci_overlap": 0.9973070560416923,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "16": {
+                "exp_val": -2404.4972379358233,
+                "mixed_estimator": -2404.4981492181078,
+                "casci_overlap": 0.9975925003440216,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "17": {
+                "exp_val": -2404.497452904903,
+                "mixed_estimator": -2404.4982435478437,
+                "casci_overlap": 0.99787789841576,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "18": {
+                "exp_val": -2404.4976096588966,
+                "mixed_estimator": -2404.4984182910343,
+                "casci_overlap": 0.9981274381018475,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "19": {
+                "exp_val": -2404.4977018006684,
+                "mixed_estimator": -2404.498589168662,
+                "casci_overlap": 0.9983680732126808,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "20": {
+                "exp_val": -2404.4979495134226,
+                "mixed_estimator": -2404.4985891686606,
+                "casci_overlap": 0.9985146779017068,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "21": {
+                "exp_val": -2404.498196821822,
+                "mixed_estimator": -2404.498589168661,
+                "casci_overlap": 0.9986611284451717,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "22": {
+                "exp_val": -2404.498289555638,
+                "mixed_estimator": -2404.498710138403,
+                "casci_overlap": 0.9987925742722036,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "23": {
+                "exp_val": -2404.498372733324,
+                "mixed_estimator": -2404.4988305738834,
+                "casci_overlap": 0.9989228616029066,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "24": {
+                "exp_val": -2404.4984498465715,
+                "mixed_estimator": -2404.4988847173536,
+                "casci_overlap": 0.9990360792253448,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "25": {
+                "exp_val": -2404.4985328721045,
+                "mixed_estimator": -2404.4989474234285,
+                "casci_overlap": 0.9991252088469013,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "26": {
+                "exp_val": -2404.498583815635,
+                "mixed_estimator": -2404.4990408541044,
+                "casci_overlap": 0.9992018497889648,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "27": {
+                "exp_val": -2404.4986257410196,
+                "mixed_estimator": -2404.4991340624924,
+                "casci_overlap": 0.999278126479005,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "28": {
+                "exp_val": -2404.498725951339,
+                "mixed_estimator": -2404.499134062492,
+                "casci_overlap": 0.9993456369239325,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "29": {
+                "exp_val": -2404.4988262168877,
+                "mixed_estimator": -2404.499134062492,
+                "casci_overlap": 0.9994131213967026,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "30": {
+                "exp_val": -2404.4989069608887,
+                "mixed_estimator": -2404.499134062492,
+                "casci_overlap": 0.9994663789331165,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "31": {
+                "exp_val": -2404.4989471895133,
+                "mixed_estimator": -2404.499158223442,
+                "casci_overlap": 0.9995132339198923,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "32": {
+                "exp_val": -2404.4990087278807,
+                "mixed_estimator": -2404.4991582234425,
+                "casci_overlap": 0.9995552127520069,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "33": {
+                "exp_val": -2404.499022746401,
+                "mixed_estimator": -2404.499164856272,
+                "casci_overlap": 0.9995863383066228,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "34": {
+                "exp_val": -2404.499037076186,
+                "mixed_estimator": -2404.499178495342,
+                "casci_overlap": 0.9996082895176919,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "35": {
+                "exp_val": -2404.499083326818,
+                "mixed_estimator": -2404.499178495343,
+                "casci_overlap": 0.999629312197588,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "36": {
+                "exp_val": -2404.4990959473776,
+                "mixed_estimator": -2404.4991913281037,
+                "casci_overlap": 0.999647210124518,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "37": {
+                "exp_val": -2404.4991124276917,
+                "mixed_estimator": -2404.4992045864683,
+                "casci_overlap": 0.9996645173717952,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "38": {
+                "exp_val": -2404.499136849502,
+                "mixed_estimator": -2404.499204586469,
+                "casci_overlap": 0.9996796664060684,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "39": {
+                "exp_val": -2404.499161216442,
+                "mixed_estimator": -2404.4992045864706,
+                "casci_overlap": 0.9996947738805868,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "40": {
+                "exp_val": -2404.499168562468,
+                "mixed_estimator": -2404.499248490502,
+                "casci_overlap": 0.999709239627878,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "41": {
+                "exp_val": -2404.499175136178,
+                "mixed_estimator": -2404.499292075812,
+                "casci_overlap": 0.9997234961074773,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "42": {
+                "exp_val": -2404.4991810621405,
+                "mixed_estimator": -2404.499315264914,
+                "casci_overlap": 0.9997355070409918,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "43": {
+                "exp_val": -2404.4991896412653,
+                "mixed_estimator": -2404.4993265141616,
+                "casci_overlap": 0.9997461519374412,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "44": {
+                "exp_val": -2404.499193450948,
+                "mixed_estimator": -2404.4993369443714,
+                "casci_overlap": 0.9997558482231231,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "45": {
+                "exp_val": -2404.499195309379,
+                "mixed_estimator": -2404.4993462390503,
+                "casci_overlap": 0.9997642871680658,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "46": {
+                "exp_val": -2404.4992031453216,
+                "mixed_estimator": -2404.49935079404,
+                "casci_overlap": 0.9997722955179248,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "47": {
+                "exp_val": -2404.4992123139145,
+                "mixed_estimator": -2404.4993507940408,
+                "casci_overlap": 0.9997795310016647,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "48": {
+                "exp_val": -2404.499217296809,
+                "mixed_estimator": -2404.499352092125,
+                "casci_overlap": 0.9997863702537684,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "49": {
+                "exp_val": -2404.4992246078577,
+                "mixed_estimator": -2404.4993520921244,
+                "casci_overlap": 0.9997928565200698,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "50": {
+                "exp_val": -2404.499229394667,
+                "mixed_estimator": -2404.499359192078,
+                "casci_overlap": 0.9997992754048625,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "51": {
+                "exp_val": -2404.499235440637,
+                "mixed_estimator": -2404.499359192079,
+                "casci_overlap": 0.9998056736258604,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "52": {
+                "exp_val": -2404.4992463688423,
+                "mixed_estimator": -2404.4993591920784,
+                "casci_overlap": 0.9998120670170806,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "53": {
+                "exp_val": -2404.499256634225,
+                "mixed_estimator": -2404.4993591920775,
+                "casci_overlap": 0.9998184575612047,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "54": {
+                "exp_val": -2404.49925763129,
+                "mixed_estimator": -2404.499374624741,
+                "casci_overlap": 0.9998242722229799,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "55": {
+                "exp_val": -2404.4992643279934,
+                "mixed_estimator": -2404.4993746247414,
+                "casci_overlap": 0.9998300558254942,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "56": {
+                "exp_val": -2404.4992698644105,
+                "mixed_estimator": -2404.4993746247414,
+                "casci_overlap": 0.9998357540951563,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "57": {
+                "exp_val": -2404.499274956676,
+                "mixed_estimator": -2404.4993746247405,
+                "casci_overlap": 0.9998413471085754,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "58": {
+                "exp_val": -2404.499282058449,
+                "mixed_estimator": -2404.499374624742,
+                "casci_overlap": 0.999846632937426,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "59": {
+                "exp_val": -2404.499287244665,
+                "mixed_estimator": -2404.4993818686125,
+                "casci_overlap": 0.999851802181986,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "60": {
+                "exp_val": -2404.4992912110024,
+                "mixed_estimator": -2404.4993847242717,
+                "casci_overlap": 0.9998566721210621,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "61": {
+                "exp_val": -2404.499296970727,
+                "mixed_estimator": -2404.4993847242727,
+                "casci_overlap": 0.9998613408263939,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "62": {
+                "exp_val": -2404.499300956885,
+                "mixed_estimator": -2404.4993879072586,
+                "casci_overlap": 0.9998658671709861,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "63": {
+                "exp_val": -2404.4993054090105,
+                "mixed_estimator": -2404.4993879072586,
+                "casci_overlap": 0.9998703732467483,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "64": {
+                "exp_val": -2404.499309039238,
+                "mixed_estimator": -2404.4993917208335,
+                "casci_overlap": 0.9998748027519642,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "65": {
+                "exp_val": -2404.499311955558,
+                "mixed_estimator": -2404.4993939032893,
+                "casci_overlap": 0.99987917244311,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "66": {
+                "exp_val": -2404.499314181334,
+                "mixed_estimator": -2404.499397027182,
+                "casci_overlap": 0.9998832787561845,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "67": {
+                "exp_val": -2404.4993159475043,
+                "mixed_estimator": -2404.4993911810734,
+                "casci_overlap": 0.9998867706232153,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "68": {
+                "exp_val": -2404.499317153001,
+                "mixed_estimator": -2404.4993918643186,
+                "casci_overlap": 0.9998899919203645,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "69": {
+                "exp_val": -2404.4993201371235,
+                "mixed_estimator": -2404.499394353123,
+                "casci_overlap": 0.9998930894712529,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "70": {
+                "exp_val": -2404.499322368295,
+                "mixed_estimator": -2404.49939742333,
+                "casci_overlap": 0.9998961008640133,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "71": {
+                "exp_val": -2404.4993253867256,
+                "mixed_estimator": -2404.499399863189,
+                "casci_overlap": 0.999899077786618,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "72": {
+                "exp_val": -2404.4993299842636,
+                "mixed_estimator": -2404.499399863187,
+                "casci_overlap": 0.9999020069046862,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "73": {
+                "exp_val": -2404.499334347095,
+                "mixed_estimator": -2404.4993998631885,
+                "casci_overlap": 0.9999049101076306,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "74": {
+                "exp_val": -2404.499335559736,
+                "mixed_estimator": -2404.499394494671,
+                "casci_overlap": 0.9999076412049283,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "75": {
+                "exp_val": -2404.4993368479386,
+                "mixed_estimator": -2404.499395936501,
+                "casci_overlap": 0.9999101862126218,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "76": {
+                "exp_val": -2404.499340724402,
+                "mixed_estimator": -2404.499395936499,
+                "casci_overlap": 0.999912618243324,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "77": {
+                "exp_val": -2404.4993437675907,
+                "mixed_estimator": -2404.499395936499,
+                "casci_overlap": 0.9999147547839652,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "78": {
+                "exp_val": -2404.4993467806294,
+                "mixed_estimator": -2404.4993959365006,
+                "casci_overlap": 0.9999168695473425,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "79": {
+                "exp_val": -2404.499349216339,
+                "mixed_estimator": -2404.499395936499,
+                "casci_overlap": 0.9999189373992289,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "80": {
+                "exp_val": -2404.4993516238274,
+                "mixed_estimator": -2404.4993959365,
+                "casci_overlap": 0.9999209840843591,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "81": {
+                "exp_val": -2404.499354489841,
+                "mixed_estimator": -2404.4993959365006,
+                "casci_overlap": 0.9999228776097361,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "82": {
+                "exp_val": -2404.4993560566054,
+                "mixed_estimator": -2404.4993967832993,
+                "casci_overlap": 0.999924703533213,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "83": {
+                "exp_val": -2404.49935860658,
+                "mixed_estimator": -2404.4993967832966,
+                "casci_overlap": 0.9999263495575589,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "84": {
+                "exp_val": -2404.499360955605,
+                "mixed_estimator": -2404.499396783299,
+                "casci_overlap": 0.9999279877305178,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "85": {
+                "exp_val": -2404.499363474281,
+                "mixed_estimator": -2404.4993967832984,
+                "casci_overlap": 0.9999296018288008,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "86": {
+                "exp_val": -2404.4993641424917,
+                "mixed_estimator": -2404.4993968838,
+                "casci_overlap": 0.9999310146086994,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "87": {
+                "exp_val": -2404.4993647535375,
+                "mixed_estimator": -2404.4993942907518,
+                "casci_overlap": 0.9999323471524656,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "88": {
+                "exp_val": -2404.499364934749,
+                "mixed_estimator": -2404.4993946532195,
+                "casci_overlap": 0.999933679450428,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "89": {
+                "exp_val": -2404.4993658257604,
+                "mixed_estimator": -2404.4993963471466,
+                "casci_overlap": 0.99993499095354,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "90": {
+                "exp_val": -2404.4993679068793,
+                "mixed_estimator": -2404.4993963471475,
+                "casci_overlap": 0.9999362997655143,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "91": {
+                "exp_val": -2404.499369147702,
+                "mixed_estimator": -2404.499396347147,
+                "casci_overlap": 0.9999375991602428,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "92": {
+                "exp_val": -2404.4993703216674,
+                "mixed_estimator": -2404.499397868998,
+                "casci_overlap": 0.9999388740517128,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "93": {
+                "exp_val": -2404.499371185855,
+                "mixed_estimator": -2404.499399385758,
+                "casci_overlap": 0.9999401489072524,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "94": {
+                "exp_val": -2404.4993717130787,
+                "mixed_estimator": -2404.499400100074,
+                "casci_overlap": 0.9999413571870412,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "95": {
+                "exp_val": -2404.4993731413338,
+                "mixed_estimator": -2404.4994018862517,
+                "casci_overlap": 0.9999424943095899,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "96": {
+                "exp_val": -2404.4993744243898,
+                "mixed_estimator": -2404.499403656127,
+                "casci_overlap": 0.9999436109990952,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "97": {
+                "exp_val": -2404.499375139357,
+                "mixed_estimator": -2404.4994044889577,
+                "casci_overlap": 0.9999447253695017,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "98": {
+                "exp_val": -2404.4993762673853,
+                "mixed_estimator": -2404.499406253655,
+                "casci_overlap": 0.9999458355304516,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "99": {
+                "exp_val": -2404.4993767445053,
+                "mixed_estimator": -2404.4994069032787,
+                "casci_overlap": 0.9999469381092086,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "100": {
+                "exp_val": -2404.4993777370933,
+                "mixed_estimator": -2404.499408653754,
+                "casci_overlap": 0.9999480302304388,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            }
+        }
+    },
+    "1010": {
+        "Rx": {
+            "1": {
+                "exp_val": -2404.4406895046436,
+                "mixed_estimator": -2404.4406895046445,
+                "casci_overlap": 0.8913777770343779,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "2": {
+                "exp_val": -2404.452622064955,
+                "mixed_estimator": -2404.452945495756,
+                "casci_overlap": 0.9111132024334727,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "3": {
+                "exp_val": -2404.463233820352,
+                "mixed_estimator": -2404.464781324441,
+                "casci_overlap": 0.9268552633458814,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "4": {
+                "exp_val": -2404.469144603476,
+                "mixed_estimator": -2404.469043034854,
+                "casci_overlap": 0.9335200993511219,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "5": {
+                "exp_val": -2404.4749740300867,
+                "mixed_estimator": -2404.473302536087,
+                "casci_overlap": 0.940178027327328,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "6": {
+                "exp_val": -2404.4779034099956,
+                "mixed_estimator": -2404.4782165241872,
+                "casci_overlap": 0.9454404712138725,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "7": {
+                "exp_val": -2404.4807904647823,
+                "mixed_estimator": -2404.4829899796555,
+                "casci_overlap": 0.9506025143421953,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "8": {
+                "exp_val": -2404.4815084770153,
+                "mixed_estimator": -2404.487617455609,
+                "casci_overlap": 0.9555539072636322,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "9": {
+                "exp_val": -2404.482281668303,
+                "mixed_estimator": -2404.492090873618,
+                "casci_overlap": 0.9602827119307904,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "10": {
+                "exp_val": -2404.4890243543223,
+                "mixed_estimator": -2404.4962194728637,
+                "casci_overlap": 0.9647036949894197,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "11": {
+                "exp_val": -2404.494259618944,
+                "mixed_estimator": -2404.5003478676117,
+                "casci_overlap": 0.9691242400983543,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "12": {
+                "exp_val": -2404.5007566556606,
+                "mixed_estimator": -2404.5043711609173,
+                "casci_overlap": 0.9734272334460337,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "13": {
+                "exp_val": -2404.5058015330624,
+                "mixed_estimator": -2404.5083918993178,
+                "casci_overlap": 0.9777247634812456,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "14": {
+                "exp_val": -2404.507648605208,
+                "mixed_estimator": -2404.5111563109585,
+                "casci_overlap": 0.9808234717870432,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "15": {
+                "exp_val": -2404.509485150155,
+                "mixed_estimator": -2404.513918876892,
+                "casci_overlap": 0.9839180436609526,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "16": {
+                "exp_val": -2404.5110819449274,
+                "mixed_estimator": -2404.5170380313784,
+                "casci_overlap": 0.9863843523804885,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "17": {
+                "exp_val": -2404.512172429669,
+                "mixed_estimator": -2404.5195705729716,
+                "casci_overlap": 0.988309540837337,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "18": {
+                "exp_val": -2404.5134464282187,
+                "mixed_estimator": -2404.519570572972,
+                "casci_overlap": 0.9892978290853524,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "19": {
+                "exp_val": -2404.514293159589,
+                "mixed_estimator": -2404.5202612244975,
+                "casci_overlap": 0.9900109337120866,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "20": {
+                "exp_val": -2404.5151397290833,
+                "mixed_estimator": -2404.520951027799,
+                "casci_overlap": 0.9907222878182012,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "21": {
+                "exp_val": -2404.515620726873,
+                "mixed_estimator": -2404.521017110385,
+                "casci_overlap": 0.9913983071619934,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "22": {
+                "exp_val": -2404.5161013472452,
+                "mixed_estimator": -2404.521083049347,
+                "casci_overlap": 0.9920713911953659,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "23": {
+                "exp_val": -2404.516567662755,
+                "mixed_estimator": -2404.521624838678,
+                "casci_overlap": 0.9926783943666809,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "24": {
+                "exp_val": -2404.5170327824685,
+                "mixed_estimator": -2404.522166075377,
+                "casci_overlap": 0.9932841598656601,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "25": {
+                "exp_val": -2404.51777390474,
+                "mixed_estimator": -2404.522166075377,
+                "casci_overlap": 0.9937371296259667,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "26": {
+                "exp_val": -2404.5180644368647,
+                "mixed_estimator": -2404.5225349291936,
+                "casci_overlap": 0.9941595827707274,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "27": {
+                "exp_val": -2404.518317543656,
+                "mixed_estimator": -2404.522899658386,
+                "casci_overlap": 0.9945726407634948,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "28": {
+                "exp_val": -2404.5185349153726,
+                "mixed_estimator": -2404.522945853179,
+                "casci_overlap": 0.9948862040315933,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "29": {
+                "exp_val": -2404.518718217397,
+                "mixed_estimator": -2404.5229914864103,
+                "casci_overlap": 0.9951921900393756,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "30": {
+                "exp_val": -2404.518795387011,
+                "mixed_estimator": -2404.5230898681275,
+                "casci_overlap": 0.9953534800856332,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "31": {
+                "exp_val": -2404.5188915744657,
+                "mixed_estimator": -2404.5232180467665,
+                "casci_overlap": 0.9954800898672896,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "32": {
+                "exp_val": -2404.518962603101,
+                "mixed_estimator": -2404.5233020551836,
+                "casci_overlap": 0.9956065018760468,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "33": {
+                "exp_val": -2404.51904438378,
+                "mixed_estimator": -2404.5234277034224,
+                "casci_overlap": 0.9957281621429672,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "34": {
+                "exp_val": -2404.5191655653553,
+                "mixed_estimator": -2404.523427703424,
+                "casci_overlap": 0.9958446497450892,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "35": {
+                "exp_val": -2404.5192847652024,
+                "mixed_estimator": -2404.5234277034237,
+                "casci_overlap": 0.9959588492540912,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "36": {
+                "exp_val": -2404.5193567304577,
+                "mixed_estimator": -2404.523427703423,
+                "casci_overlap": 0.9960684558132437,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "37": {
+                "exp_val": -2404.519393446029,
+                "mixed_estimator": -2404.5235027676076,
+                "casci_overlap": 0.996175765848991,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "38": {
+                "exp_val": -2404.519463589944,
+                "mixed_estimator": -2404.523502767608,
+                "casci_overlap": 0.9962803998206217,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "39": {
+                "exp_val": -2404.5196582515964,
+                "mixed_estimator": -2404.5235027676076,
+                "casci_overlap": 0.9963782699167398,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "40": {
+                "exp_val": -2404.5198217398447,
+                "mixed_estimator": -2404.523502767607,
+                "casci_overlap": 0.9964761245366188,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "41": {
+                "exp_val": -2404.5200127265825,
+                "mixed_estimator": -2404.5235027676076,
+                "casci_overlap": 0.9965713252836292,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "42": {
+                "exp_val": -2404.5201733353947,
+                "mixed_estimator": -2404.5235027676076,
+                "casci_overlap": 0.9966663959943735,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "43": {
+                "exp_val": -2404.5202779149827,
+                "mixed_estimator": -2404.5235027676076,
+                "casci_overlap": 0.9967593499669424,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "44": {
+                "exp_val": -2404.520379967589,
+                "mixed_estimator": -2404.523502767607,
+                "casci_overlap": 0.9968519330802961,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "45": {
+                "exp_val": -2404.5204227810455,
+                "mixed_estimator": -2404.5235678301237,
+                "casci_overlap": 0.9969420637391764,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "46": {
+                "exp_val": -2404.520487652138,
+                "mixed_estimator": -2404.5235678301233,
+                "casci_overlap": 0.997029430306822,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "47": {
+                "exp_val": -2404.5205495036216,
+                "mixed_estimator": -2404.5235678301233,
+                "casci_overlap": 0.9971143117707589,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "48": {
+                "exp_val": -2404.520594654417,
+                "mixed_estimator": -2404.523616910176,
+                "casci_overlap": 0.9971960997596028,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "49": {
+                "exp_val": -2404.520756199061,
+                "mixed_estimator": -2404.523616910175,
+                "casci_overlap": 0.9972741495585979,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "50": {
+                "exp_val": -2404.520892909829,
+                "mixed_estimator": -2404.523616910175,
+                "casci_overlap": 0.9973521874828538,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "51": {
+                "exp_val": -2404.5210524881268,
+                "mixed_estimator": -2404.523616910176,
+                "casci_overlap": 0.997429399388829,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "52": {
+                "exp_val": -2404.5211874479883,
+                "mixed_estimator": -2404.5236169101745,
+                "casci_overlap": 0.9975065056606445,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "53": {
+                "exp_val": -2404.521227939817,
+                "mixed_estimator": -2404.523660386126,
+                "casci_overlap": 0.9975704000683847,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "54": {
+                "exp_val": -2404.5212547972274,
+                "mixed_estimator": -2404.523703449896,
+                "casci_overlap": 0.9976325161896916,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "55": {
+                "exp_val": -2404.521307398063,
+                "mixed_estimator": -2404.523703449897,
+                "casci_overlap": 0.9976718556855535,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "56": {
+                "exp_val": -2404.521359987085,
+                "mixed_estimator": -2404.5237034498955,
+                "casci_overlap": 0.9977111550528903,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "57": {
+                "exp_val": -2404.5214116249,
+                "mixed_estimator": -2404.5237034498964,
+                "casci_overlap": 0.9977499892411453,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "58": {
+                "exp_val": -2404.521463251234,
+                "mixed_estimator": -2404.5237034498973,
+                "casci_overlap": 0.9977887843212104,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "59": {
+                "exp_val": -2404.521498558071,
+                "mixed_estimator": -2404.523703449896,
+                "casci_overlap": 0.9978257947688419,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "60": {
+                "exp_val": -2404.521533869232,
+                "mixed_estimator": -2404.5237034498955,
+                "casci_overlap": 0.9978627681231951,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "61": {
+                "exp_val": -2404.521567908222,
+                "mixed_estimator": -2404.5237034498964,
+                "casci_overlap": 0.9978984039954271,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "62": {
+                "exp_val": -2404.5216019509985,
+                "mixed_estimator": -2404.523703449895,
+                "casci_overlap": 0.9979340048624301,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "63": {
+                "exp_val": -2404.5216315001016,
+                "mixed_estimator": -2404.5237326366587,
+                "casci_overlap": 0.9979680136096959,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "64": {
+                "exp_val": -2404.5216558445545,
+                "mixed_estimator": -2404.523691553331,
+                "casci_overlap": 0.9980018130204344,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "65": {
+                "exp_val": -2404.5216854881346,
+                "mixed_estimator": -2404.5237206276893,
+                "casci_overlap": 0.9980355603258152,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "66": {
+                "exp_val": -2404.5217609207593,
+                "mixed_estimator": -2404.5237206276897,
+                "casci_overlap": 0.9980686255397179,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "67": {
+                "exp_val": -2404.521825841363,
+                "mixed_estimator": -2404.52372062769,
+                "casci_overlap": 0.9981016728878097,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "68": {
+                "exp_val": -2404.5219011946847,
+                "mixed_estimator": -2404.5237206276906,
+                "casci_overlap": 0.9981346956864869,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "69": {
+                "exp_val": -2404.5219661103147,
+                "mixed_estimator": -2404.52372062769,
+                "casci_overlap": 0.9981677180024582,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "70": {
+                "exp_val": -2404.5220403491676,
+                "mixed_estimator": -2404.5237206276893,
+                "casci_overlap": 0.9982001344977893,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "71": {
+                "exp_val": -2404.5221145358887,
+                "mixed_estimator": -2404.5237206276906,
+                "casci_overlap": 0.9982324934413733,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "72": {
+                "exp_val": -2404.5221784308687,
+                "mixed_estimator": -2404.5237206276915,
+                "casci_overlap": 0.998264835925036,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "73": {
+                "exp_val": -2404.522242304549,
+                "mixed_estimator": -2404.523720627689,
+                "casci_overlap": 0.998297171420058,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "74": {
+                "exp_val": -2404.5222570568026,
+                "mixed_estimator": -2404.5237456710947,
+                "casci_overlap": 0.998329308521704,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "75": {
+                "exp_val": -2404.522277813239,
+                "mixed_estimator": -2404.5237061292746,
+                "casci_overlap": 0.9983606191129942,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "76": {
+                "exp_val": -2404.522299689963,
+                "mixed_estimator": -2404.5237291455346,
+                "casci_overlap": 0.9983871295564741,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "77": {
+                "exp_val": -2404.522321394054,
+                "mixed_estimator": -2404.5237521197887,
+                "casci_overlap": 0.9984135433265163,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "78": {
+                "exp_val": -2404.522333728031,
+                "mixed_estimator": -2404.5237742529703,
+                "casci_overlap": 0.9984383185604483,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "79": {
+                "exp_val": -2404.522345915948,
+                "mixed_estimator": -2404.523796350599,
+                "casci_overlap": 0.998463014268033,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "80": {
+                "exp_val": -2404.5223759738715,
+                "mixed_estimator": -2404.523815854865,
+                "casci_overlap": 0.9984849280342903,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "81": {
+                "exp_val": -2404.522405938357,
+                "mixed_estimator": -2404.5238353345176,
+                "casci_overlap": 0.9985067865253857,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "82": {
+                "exp_val": -2404.5224282891963,
+                "mixed_estimator": -2404.523854236834,
+                "casci_overlap": 0.9985282556054412,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "83": {
+                "exp_val": -2404.522450514394,
+                "mixed_estimator": -2404.5238730780034,
+                "casci_overlap": 0.9985495860134235,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "84": {
+                "exp_val": -2404.5224712469703,
+                "mixed_estimator": -2404.5238730780047,
+                "casci_overlap": 0.9985678880529152,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "85": {
+                "exp_val": -2404.5224919719817,
+                "mixed_estimator": -2404.5238730780043,
+                "casci_overlap": 0.9985861650392336,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "86": {
+                "exp_val": -2404.522512370259,
+                "mixed_estimator": -2404.5238730780025,
+                "casci_overlap": 0.9986042903867028,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "87": {
+                "exp_val": -2404.522532762107,
+                "mixed_estimator": -2404.523873078004,
+                "casci_overlap": 0.998622387704176,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "88": {
+                "exp_val": -2404.522545675641,
+                "mixed_estimator": -2404.523873078004,
+                "casci_overlap": 0.9986396142805036,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "89": {
+                "exp_val": -2404.522558591441,
+                "mixed_estimator": -2404.5238730780034,
+                "casci_overlap": 0.9986568172566948,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "90": {
+                "exp_val": -2404.522571087602,
+                "mixed_estimator": -2404.523873078003,
+                "casci_overlap": 0.9986734473046944,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "91": {
+                "exp_val": -2404.522583587454,
+                "mixed_estimator": -2404.523873078004,
+                "casci_overlap": 0.9986900521933654,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "92": {
+                "exp_val": -2404.522610733025,
+                "mixed_estimator": -2404.523873078004,
+                "casci_overlap": 0.998705838852004,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "93": {
+                "exp_val": -2404.5226378796,
+                "mixed_estimator": -2404.523873078004,
+                "casci_overlap": 0.9987215874245361,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "94": {
+                "exp_val": -2404.5226698174693,
+                "mixed_estimator": -2404.5238730780034,
+                "casci_overlap": 0.9987369647165479,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "95": {
+                "exp_val": -2404.522696899385,
+                "mixed_estimator": -2404.5238730780043,
+                "casci_overlap": 0.998752340530094,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "96": {
+                "exp_val": -2404.522728823143,
+                "mixed_estimator": -2404.5238730780025,
+                "casci_overlap": 0.998767700251465,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "97": {
+                "exp_val": -2404.5227558710044,
+                "mixed_estimator": -2404.5238730780034,
+                "casci_overlap": 0.9987830520359073,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "98": {
+                "exp_val": -2404.522787425166,
+                "mixed_estimator": -2404.523873078003,
+                "casci_overlap": 0.9987981736444823,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "99": {
+                "exp_val": -2404.522814169325,
+                "mixed_estimator": -2404.5238730780025,
+                "casci_overlap": 0.9988132794992066,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "100": {
+                "exp_val": -2404.5228456967047,
+                "mixed_estimator": -2404.5238730780025,
+                "casci_overlap": 0.9988283838295468,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            }
+        },
+        "R0": {
+            "1": {
+                "exp_val": -2404.4346354747854,
+                "mixed_estimator": -2404.4346354747854,
+                "casci_overlap": 0.8751224044971322,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "2": {
+                "exp_val": -2404.4464646843935,
+                "mixed_estimator": -2404.446859544411,
+                "casci_overlap": 0.8933348193152071,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "3": {
+                "exp_val": -2404.457439930535,
+                "mixed_estimator": -2404.4590328278646,
+                "casci_overlap": 0.9092063674902789,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "4": {
+                "exp_val": -2404.466830136712,
+                "mixed_estimator": -2404.4687101196014,
+                "casci_overlap": 0.9221439896782427,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "5": {
+                "exp_val": -2404.4729563722344,
+                "mixed_estimator": -2404.4761708649776,
+                "casci_overlap": 0.9310681337590676,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "6": {
+                "exp_val": -2404.4786428552943,
+                "mixed_estimator": -2404.4804181857917,
+                "casci_overlap": 0.9374134220412347,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "7": {
+                "exp_val": -2404.4842445530157,
+                "mixed_estimator": -2404.4846635857157,
+                "casci_overlap": 0.9437529721916839,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "8": {
+                "exp_val": -2404.489153379573,
+                "mixed_estimator": -2404.4908585239714,
+                "casci_overlap": 0.9496073869824955,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "9": {
+                "exp_val": -2404.491658045357,
+                "mixed_estimator": -2404.495120849338,
+                "casci_overlap": 0.9540831746601435,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "10": {
+                "exp_val": -2404.493650954476,
+                "mixed_estimator": -2404.497849413766,
+                "casci_overlap": 0.9570127343964031,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "11": {
+                "exp_val": -2404.4956342683354,
+                "mixed_estimator": -2404.500577566017,
+                "casci_overlap": 0.959941409120845,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "12": {
+                "exp_val": -2404.49750900571,
+                "mixed_estimator": -2404.503310167999,
+                "casci_overlap": 0.9628657201473713,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "13": {
+                "exp_val": -2404.499375894206,
+                "mixed_estimator": -2404.5060419857073,
+                "casci_overlap": 0.9657883528240773,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "14": {
+                "exp_val": -2404.501338555613,
+                "mixed_estimator": -2404.507353975652,
+                "casci_overlap": 0.9685833096106481,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "15": {
+                "exp_val": -2404.5029573178267,
+                "mixed_estimator": -2404.508665941612,
+                "casci_overlap": 0.9713781642062616,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "16": {
+                "exp_val": -2404.5042922447165,
+                "mixed_estimator": -2404.510651872768,
+                "casci_overlap": 0.9739960598607973,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "17": {
+                "exp_val": -2404.5056196877363,
+                "mixed_estimator": -2404.512636932262,
+                "casci_overlap": 0.9766116579317511,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "18": {
+                "exp_val": -2404.50713379672,
+                "mixed_estimator": -2404.5156308992946,
+                "casci_overlap": 0.9789051286347821,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "19": {
+                "exp_val": -2404.5084769327914,
+                "mixed_estimator": -2404.5169328188463,
+                "casci_overlap": 0.9810315233177566,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "20": {
+                "exp_val": -2404.5095677361023,
+                "mixed_estimator": -2404.5182341251866,
+                "casci_overlap": 0.9831559153845171,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "21": {
+                "exp_val": -2404.510789924143,
+                "mixed_estimator": -2404.5192936076364,
+                "casci_overlap": 0.9849654164706761,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "22": {
+                "exp_val": -2404.511869828127,
+                "mixed_estimator": -2404.5203525983447,
+                "casci_overlap": 0.9867732382394385,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "23": {
+                "exp_val": -2404.512920727425,
+                "mixed_estimator": -2404.5228452948704,
+                "casci_overlap": 0.9885527830224856,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "24": {
+                "exp_val": -2404.5137211210126,
+                "mixed_estimator": -2404.5229908606207,
+                "casci_overlap": 0.9897743929700633,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "25": {
+                "exp_val": -2404.5144209234713,
+                "mixed_estimator": -2404.5231364200135,
+                "casci_overlap": 0.990995896167417,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "26": {
+                "exp_val": -2404.5156419498508,
+                "mixed_estimator": -2404.5231364200135,
+                "casci_overlap": 0.9919124069052889,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "27": {
+                "exp_val": -2404.516847277814,
+                "mixed_estimator": -2404.523136420013,
+                "casci_overlap": 0.9928234279219283,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "28": {
+                "exp_val": -2404.5173202231895,
+                "mixed_estimator": -2404.5232077611076,
+                "casci_overlap": 0.993478146001653,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "29": {
+                "exp_val": -2404.5177918703666,
+                "mixed_estimator": -2404.5232790139476,
+                "casci_overlap": 0.9941312452194441,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "30": {
+                "exp_val": -2404.5180176915496,
+                "mixed_estimator": -2404.523366216785,
+                "casci_overlap": 0.9944033691758144,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "31": {
+                "exp_val": -2404.518215215586,
+                "mixed_estimator": -2404.5234533608636,
+                "casci_overlap": 0.9946751265402903,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "32": {
+                "exp_val": -2404.5185371145903,
+                "mixed_estimator": -2404.523453360865,
+                "casci_overlap": 0.9949445058848352,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "33": {
+                "exp_val": -2404.5188317190905,
+                "mixed_estimator": -2404.523453360865,
+                "casci_overlap": 0.9951791644484759,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "34": {
+                "exp_val": -2404.519049380435,
+                "mixed_estimator": -2404.5234533608646,
+                "casci_overlap": 0.9953645723462499,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "35": {
+                "exp_val": -2404.5192487427275,
+                "mixed_estimator": -2404.5234533608655,
+                "casci_overlap": 0.9955263268775714,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "36": {
+                "exp_val": -2404.5194129521788,
+                "mixed_estimator": -2404.5234533608646,
+                "casci_overlap": 0.9956482367145281,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "37": {
+                "exp_val": -2404.519489954655,
+                "mixed_estimator": -2404.5235684091786,
+                "casci_overlap": 0.9957623893204275,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "38": {
+                "exp_val": -2404.5195587107733,
+                "mixed_estimator": -2404.5236827560584,
+                "casci_overlap": 0.9958751542236314,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "39": {
+                "exp_val": -2404.519708128683,
+                "mixed_estimator": -2404.523682756057,
+                "casci_overlap": 0.9959813142956315,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "40": {
+                "exp_val": -2404.5197786211274,
+                "mixed_estimator": -2404.5237354901196,
+                "casci_overlap": 0.9960867762871791,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "41": {
+                "exp_val": -2404.5199185762967,
+                "mixed_estimator": -2404.5237354901183,
+                "casci_overlap": 0.9961806493771176,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "42": {
+                "exp_val": -2404.5200583325327,
+                "mixed_estimator": -2404.5237354901187,
+                "casci_overlap": 0.9962744373432144,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "43": {
+                "exp_val": -2404.520159527406,
+                "mixed_estimator": -2404.5237354901183,
+                "casci_overlap": 0.9963676413032311,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "44": {
+                "exp_val": -2404.520252618505,
+                "mixed_estimator": -2404.5237354901196,
+                "casci_overlap": 0.9964488484891658,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "45": {
+                "exp_val": -2404.5202991798496,
+                "mixed_estimator": -2404.523830336852,
+                "casci_overlap": 0.9965183006820492,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "46": {
+                "exp_val": -2404.520337576619,
+                "mixed_estimator": -2404.523924752598,
+                "casci_overlap": 0.9965871231236629,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "47": {
+                "exp_val": -2404.5203853699695,
+                "mixed_estimator": -2404.5239592533585,
+                "casci_overlap": 0.9966545877347318,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "48": {
+                "exp_val": -2404.5204803214438,
+                "mixed_estimator": -2404.523959253357,
+                "casci_overlap": 0.9967191329980578,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "49": {
+                "exp_val": -2404.5205751432763,
+                "mixed_estimator": -2404.5239592533576,
+                "casci_overlap": 0.9967836274250114,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "50": {
+                "exp_val": -2404.5206486678094,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.9968445877177112,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "51": {
+                "exp_val": -2404.520722224981,
+                "mixed_estimator": -2404.5239592533567,
+                "casci_overlap": 0.996905522782005,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "52": {
+                "exp_val": -2404.520794643101,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.996963836293796,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "53": {
+                "exp_val": -2404.5208602909543,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.9970221458733078,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "54": {
+                "exp_val": -2404.520918127397,
+                "mixed_estimator": -2404.523959253357,
+                "casci_overlap": 0.9970765493516229,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "55": {
+                "exp_val": -2404.5209759231648,
+                "mixed_estimator": -2404.5239592533576,
+                "casci_overlap": 0.9971309108038268,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "56": {
+                "exp_val": -2404.5210431635,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.997184035751741,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "57": {
+                "exp_val": -2404.521110431719,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.9972371434671199,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "58": {
+                "exp_val": -2404.5211765978665,
+                "mixed_estimator": -2404.523959253357,
+                "casci_overlap": 0.9972878727357555,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "59": {
+                "exp_val": -2404.521236876448,
+                "mixed_estimator": -2404.523959253359,
+                "casci_overlap": 0.9973386001463517,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "60": {
+                "exp_val": -2404.521290098195,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.9973860500380058,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "61": {
+                "exp_val": -2404.5213432828555,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.9974334593193467,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "62": {
+                "exp_val": -2404.5213957435712,
+                "mixed_estimator": -2404.523959253358,
+                "casci_overlap": 0.9974774359552107,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "63": {
+                "exp_val": -2404.521443150878,
+                "mixed_estimator": -2404.5239592533585,
+                "casci_overlap": 0.9975213744121669,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "64": {
+                "exp_val": -2404.5214797708754,
+                "mixed_estimator": -2404.5239825818066,
+                "casci_overlap": 0.9975648257808373,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "65": {
+                "exp_val": -2404.521535421242,
+                "mixed_estimator": -2404.523982581806,
+                "casci_overlap": 0.9976080942220368,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "66": {
+                "exp_val": -2404.5215911003193,
+                "mixed_estimator": -2404.5239825818066,
+                "casci_overlap": 0.9976513373274589,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "67": {
+                "exp_val": -2404.52166077932,
+                "mixed_estimator": -2404.523982581806,
+                "casci_overlap": 0.9976938059267989,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "68": {
+                "exp_val": -2404.5217303686472,
+                "mixed_estimator": -2404.523982581806,
+                "casci_overlap": 0.9977362384171355,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "69": {
+                "exp_val": -2404.521778360823,
+                "mixed_estimator": -2404.5239825818053,
+                "casci_overlap": 0.9977747183699139,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "70": {
+                "exp_val": -2404.5218219308736,
+                "mixed_estimator": -2404.5239825818066,
+                "casci_overlap": 0.9978131622947386,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "71": {
+                "exp_val": -2404.521868466381,
+                "mixed_estimator": -2404.5239825818066,
+                "casci_overlap": 0.9978508326532812,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "72": {
+                "exp_val": -2404.521912141644,
+                "mixed_estimator": -2404.523982581806,
+                "casci_overlap": 0.9978884677559587,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "73": {
+                "exp_val": -2404.521957050349,
+                "mixed_estimator": -2404.523982581806,
+                "casci_overlap": 0.9979224048537483,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "74": {
+                "exp_val": -2404.5219995980547,
+                "mixed_estimator": -2404.5239825818053,
+                "casci_overlap": 0.9979552296748854,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "75": {
+                "exp_val": -2404.5220396520594,
+                "mixed_estimator": -2404.523982581806,
+                "casci_overlap": 0.9979880237528194,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "76": {
+                "exp_val": -2404.5220844895202,
+                "mixed_estimator": -2404.523982581805,
+                "casci_overlap": 0.9980205223387416,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "77": {
+                "exp_val": -2404.5221292673828,
+                "mixed_estimator": -2404.5239825818057,
+                "casci_overlap": 0.9980529891401758,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "78": {
+                "exp_val": -2404.5221428805357,
+                "mixed_estimator": -2404.5239705997656,
+                "casci_overlap": 0.9980835410699839,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "79": {
+                "exp_val": -2404.5221805695614,
+                "mixed_estimator": -2404.523970599765,
+                "casci_overlap": 0.9981133239074331,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "80": {
+                "exp_val": -2404.5222044103834,
+                "mixed_estimator": -2404.523989420549,
+                "casci_overlap": 0.99814309115166,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "81": {
+                "exp_val": -2404.52224211933,
+                "mixed_estimator": -2404.5239894205492,
+                "casci_overlap": 0.9981728524274804,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "82": {
+                "exp_val": -2404.5222755073355,
+                "mixed_estimator": -2404.5239894205483,
+                "casci_overlap": 0.9981991745342034,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "83": {
+                "exp_val": -2404.5222967811524,
+                "mixed_estimator": -2404.524004060595,
+                "casci_overlap": 0.9982249957320575,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "84": {
+                "exp_val": -2404.5223045778152,
+                "mixed_estimator": -2404.5239924456937,
+                "casci_overlap": 0.9982506945683483,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "85": {
+                "exp_val": -2404.522335618687,
+                "mixed_estimator": -2404.523992445693,
+                "casci_overlap": 0.9982760152794868,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "86": {
+                "exp_val": -2404.5223646275394,
+                "mixed_estimator": -2404.5239924456923,
+                "casci_overlap": 0.9983013354737443,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "87": {
+                "exp_val": -2404.5223951292796,
+                "mixed_estimator": -2404.5239924456932,
+                "casci_overlap": 0.9983247390769295,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "88": {
+                "exp_val": -2404.5224050958936,
+                "mixed_estimator": -2404.524028312017,
+                "casci_overlap": 0.9983474739442733,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "89": {
+                "exp_val": -2404.522433459444,
+                "mixed_estimator": -2404.5240283120193,
+                "casci_overlap": 0.9983695899292949,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "90": {
+                "exp_val": -2404.5224600483048,
+                "mixed_estimator": -2404.5240283120183,
+                "casci_overlap": 0.9983917044569365,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "91": {
+                "exp_val": -2404.5224919261286,
+                "mixed_estimator": -2404.5240283120183,
+                "casci_overlap": 0.9984129522519489,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "92": {
+                "exp_val": -2404.5225238149796,
+                "mixed_estimator": -2404.5240283120174,
+                "casci_overlap": 0.998434191658172,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "93": {
+                "exp_val": -2404.522555651364,
+                "mixed_estimator": -2404.5240283120174,
+                "casci_overlap": 0.9984554220700586,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "94": {
+                "exp_val": -2404.522587497904,
+                "mixed_estimator": -2404.524028312018,
+                "casci_overlap": 0.9984766420834208,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "95": {
+                "exp_val": -2404.522600246774,
+                "mixed_estimator": -2404.5240413244524,
+                "casci_overlap": 0.9984973204516311,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "96": {
+                "exp_val": -2404.5226314688553,
+                "mixed_estimator": -2404.5240413244514,
+                "casci_overlap": 0.9985176679710506,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "97": {
+                "exp_val": -2404.5226603336273,
+                "mixed_estimator": -2404.524041324453,
+                "casci_overlap": 0.9985380143690777,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "98": {
+                "exp_val": -2404.5226915151698,
+                "mixed_estimator": -2404.524041324452,
+                "casci_overlap": 0.9985583401073137,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "99": {
+                "exp_val": -2404.5227203418035,
+                "mixed_estimator": -2404.5240413244514,
+                "casci_overlap": 0.9985786642664661,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            },
+            "100": {
+                "exp_val": -2404.522748477456,
+                "mixed_estimator": -2404.5240413244524,
+                "casci_overlap": 0.9985982474454057,
+                "pa_noiseless": 0,
+                "pa_noiseless_err": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,293 @@
+{
+  "backend": "Helios-1",
+  "scope": "No-parity, coherent parity check (CPC), and full measurement-based parity check (MBPC); Rx and R0; s and h overlap circuits",
+  "dataset_count": 12,
+  "shot_record_count": 60000,
+  "format": "Each file is a JSON array of shots. A shot is a list of [tag, value] entries. The res tag contains data-qubit readings: 0 and 1 are computational outcomes, and 2 indicates leakage. Records without res are retained as returned and must not be treated as all-zero successes.",
+  "postselection": "No shots were removed from these files. Saved_received_counts reports the classification used for the paper: no res is aborted; any 2 is leaked; otherwise accepted. Zero counts are accepted shots with all data readings zero.",
+  "datasets": [
+    {
+      "method": "no_parity",
+      "geometry": "Rx",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "raw_record_count": 8000,
+      "raw_file": "raw/no_parity/Rx_h.json",
+      "job_ids": [
+        "e0aa0b27-db38-4843-9cbd-a1032e10d22c"
+      ],
+      "saved_received_counts": {
+        "aborted": 0,
+        "accepted": 6852,
+        "leaked": 1148,
+        "total": 8000,
+        "zero": 502
+      },
+      "matches_saved_counts": true,
+      "sha256": "d9c1950403527b4b0748111a0d4f07768609e80aa6ba6f276e2a272f37d3d178"
+    },
+    {
+      "method": "no_parity",
+      "geometry": "Rx",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "raw_record_count": 2000,
+      "raw_file": "raw/no_parity/Rx_s.json",
+      "job_ids": [
+        "97c5170e-2ee9-48e3-9f8e-94eae160c8d9"
+      ],
+      "saved_received_counts": {
+        "aborted": 0,
+        "accepted": 1847,
+        "leaked": 153,
+        "total": 2000,
+        "zero": 1446
+      },
+      "matches_saved_counts": true,
+      "sha256": "c6ab87fbd403fa81eaae24ffbae5051f0980005649672a03625ea3a454d32b89"
+    },
+    {
+      "method": "no_parity",
+      "geometry": "R0",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "raw_record_count": 8000,
+      "raw_file": "raw/no_parity/R0_h.json",
+      "job_ids": [
+        "c152e5fb-5ae4-44bd-add9-5af988f4c3b7"
+      ],
+      "saved_received_counts": {
+        "aborted": 0,
+        "accepted": 7002,
+        "leaked": 998,
+        "total": 8000,
+        "zero": 566
+      },
+      "matches_saved_counts": true,
+      "sha256": "209d7ff2e175a81c564f177d57ec1fa116f5c2dd37fa2c04587d82d8e1fd5ade"
+    },
+    {
+      "method": "no_parity",
+      "geometry": "R0",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "raw_record_count": 2000,
+      "raw_file": "raw/no_parity/R0_s.json",
+      "job_ids": [
+        "522a10aa-2a30-4f50-9949-3faee529bde5"
+      ],
+      "saved_received_counts": {
+        "aborted": 0,
+        "accepted": 1882,
+        "leaked": 118,
+        "total": 2000,
+        "zero": 1550
+      },
+      "matches_saved_counts": true,
+      "sha256": "d68158299e3c20fa7e768b8363d5778cfb523c5c8a3efb3638ad93b889cbd869"
+    },
+    {
+      "method": "CPC",
+      "geometry": "Rx",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "raw_record_count": 8000,
+      "raw_file": "raw/cpc/Rx_h.json",
+      "job_ids": [
+        "14d407db-c3a2-4f75-8460-ff4ed18e8d27"
+      ],
+      "saved_received_counts": {
+        "aborted": 724,
+        "accepted": 6304,
+        "leaked": 972,
+        "total": 8000,
+        "zero": 493
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "949b68cc-2e9d-4a9d-9a55-8dd64185cb33"
+      ],
+      "sha256": "d2d7911cbf2fae1e5a001ba4a5e71ac644da857fe2f2a75eeaad41378b60f9fb"
+    },
+    {
+      "method": "CPC",
+      "geometry": "Rx",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "raw_record_count": 2000,
+      "raw_file": "raw/cpc/Rx_s.json",
+      "job_ids": [
+        "49ba4c02-9adc-4fda-81cc-a2f10330b489"
+      ],
+      "saved_received_counts": {
+        "aborted": 163,
+        "accepted": 1729,
+        "leaked": 108,
+        "total": 2000,
+        "zero": 1425
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "f7c18b6a-7b63-4b8b-9816-7f74be878b66"
+      ],
+      "sha256": "46442a37e41da845525763114d4d62b92b3edb0dbe1261463c3c9e8ba3c2419d"
+    },
+    {
+      "method": "CPC",
+      "geometry": "R0",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "raw_record_count": 8000,
+      "raw_file": "raw/cpc/R0_h.json",
+      "job_ids": [
+        "c73a21c0-05ff-4740-a7ec-2655b9a3a15b"
+      ],
+      "saved_received_counts": {
+        "aborted": 591,
+        "accepted": 6613,
+        "leaked": 796,
+        "total": 8000,
+        "zero": 504
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "00d9b17b-2b70-4a76-b731-f8d4a6e5429d"
+      ],
+      "sha256": "3b9da06d67c083fb85ade11e48191f215e6af9b2a08e4499fba5f884900db3df"
+    },
+    {
+      "method": "CPC",
+      "geometry": "R0",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "raw_record_count": 2000,
+      "raw_file": "raw/cpc/R0_s.json",
+      "job_ids": [
+        "1ee76a4c-431d-4bbd-938a-98042b607cdf"
+      ],
+      "saved_received_counts": {
+        "aborted": 141,
+        "accepted": 1759,
+        "leaked": 100,
+        "total": 2000,
+        "zero": 1469
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "81133633-be0b-4074-866a-e79a0494d565"
+      ],
+      "sha256": "c4e0eb05bb79676eada9fe98a539d56e2985f5754a246321cb81ea94184e366c"
+    },
+    {
+      "method": "MBPC",
+      "geometry": "Rx",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "raw_record_count": 8000,
+      "raw_file": "raw/mbpc/Rx_h.json",
+      "job_ids": [
+        "7ae65369-4dff-4a04-8341-8125f7b56980"
+      ],
+      "saved_received_counts": {
+        "aborted": 828,
+        "accepted": 6303,
+        "leaked": 869,
+        "total": 8000,
+        "zero": 487
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "18f4f312-2044-4e3f-a23c-467ab7934945"
+      ],
+      "sha256": "78f214ee5a59cf14928051018cf80da1d4e093d4d5880df44e33088e38eb718a"
+    },
+    {
+      "method": "MBPC",
+      "geometry": "Rx",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "raw_record_count": 2000,
+      "raw_file": "raw/mbpc/Rx_s.json",
+      "job_ids": [
+        "ea53b05b-ad31-4fc0-9653-f1f43b704ca9"
+      ],
+      "saved_received_counts": {
+        "aborted": 187,
+        "accepted": 1703,
+        "leaked": 110,
+        "total": 2000,
+        "zero": 1406
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "9b2b2375-e8e3-4951-8ae5-51bf01c0da9c"
+      ],
+      "sha256": "46a97a206825b0682167bafd753ae40229f969bd3d8fa15177848ae7671aad92"
+    },
+    {
+      "method": "MBPC",
+      "geometry": "R0",
+      "overlap": "h",
+      "submitted_shots": 8000,
+      "raw_record_count": 8000,
+      "raw_file": "raw/mbpc/R0_h.json",
+      "job_ids": [
+        "bd2beae4-f723-41ac-b921-bfaba2d05280"
+      ],
+      "saved_received_counts": {
+        "aborted": 696,
+        "accepted": 6506,
+        "leaked": 798,
+        "total": 8000,
+        "zero": 534
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "6178f71c-1250-4f54-b34c-a79f61e370f6"
+      ],
+      "sha256": "b804e8e46a98c4c50ec60af59e241c405a811ae7951b656601e75352c7e6201b"
+    },
+    {
+      "method": "MBPC",
+      "geometry": "R0",
+      "overlap": "s",
+      "submitted_shots": 2000,
+      "raw_record_count": 2000,
+      "raw_file": "raw/mbpc/R0_s.json",
+      "job_ids": [
+        "b1df607b-f09b-4d9d-b090-46184e137c6d"
+      ],
+      "saved_received_counts": {
+        "aborted": 168,
+        "accepted": 1739,
+        "leaked": 93,
+        "total": 2000,
+        "zero": 1473
+      },
+      "matches_saved_counts": true,
+      "result_ids": [
+        "4f8c2a73-50c6-4376-83a3-2f3fe857380f"
+      ],
+      "sha256": "78a828607753fc292816a9c782144d3b9ab4864ca2f7738649db7a5cacaddf9f"
+    }
+  ],
+  "active_space": "(10,10)",
+  "state_preparation": "AI-sMCS",
+  "methods": {
+    "no_parity": {
+      "name": "Leakage-only",
+      "error_detection": "Leakage",
+      "total_qubit_allocations": 20
+    },
+    "CPC": {
+      "name": "Coherent parity check (CPC)",
+      "error_detection": "Leakage + CPC",
+      "total_qubit_allocations": 22
+    },
+    "MBPC": {
+      "name": "Measurement-based parity check (MBPC)",
+      "error_detection": "Leakage + MBPC",
+      "total_qubit_allocations": 50
+    }
+  }
+}

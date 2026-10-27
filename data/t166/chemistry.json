@@ -1,0 +1,12 @@
+{
+  "description": "FCI chemistry metadata for this Hamiltonian and active-space configuration.",
+  "hamiltonian_file": "ham_T1_geom_triplet_spin_shciscf_basis_66_6e_6o.pickle",
+  "ne": 6,
+  "no": 6,
+  "nup": 4,
+  "ndown": 2,
+  "efci": -2404.4811681759234,
+  "s2": 2.0000000000000004,
+  "mult": 3.0000000000000004,
+  "cmax2": 0.9356775764872911
+}
