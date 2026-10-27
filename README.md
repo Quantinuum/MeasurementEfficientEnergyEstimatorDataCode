@@ -25,3 +25,17 @@ Scripts and data for the paper [*Measurement-efficient energy estimator for quan
 - `data/<geo><cas>/` contains circuits and shot tables for the hardware runs, grouped by geometry and active-space size (for example, `rx66` and `t11010`).
 - `data/pauli_averaging.json` records the number of shots estimated to reach chemical accuracy with Pauli averaging (PA).
 - `data/tups_params.json` contains the optimized tUPS parameters from VQE.
+
+## Load a Hamiltonian into Zixy
+
+The six `.npz` files in `data/hamiltonians/` contain NumPy integral arrays and
+Pauli expansions. `load_hamiltonians.py` reads only `constant`, `one_body`, and
+`two_body` from an `.npz` file and constructs a normal-ordered Zixy fermion
+`RealTermSum` (Zixy >= 0.4.0), without InQuanto. Spatial integrals use chemist's
+notation, with the two-body factor of 1/2 and interleaved up/down spin orbitals:
+
+```python
+from load_hamiltonians import load_hamiltonian
+
+hamiltonian = load_hamiltonian("data/hamiltonians/ham_Rx_geom_triplet_spin_shciscf_basis_66_6e_6o.npz")
+```
