@@ -1,7 +1,7 @@
-# Noor (10,10) hardware circuits
+# Measurement Efficient Energy Estimator (10,10) hardware circuits
 
 Circuit-generation scripts for the AI-selected (10,10) sMCS states used in
-Table 1 and Supplementary Table S8 of the Noor paper.
+Table 1 and Supplementary Table S8 of the Measurement Efficient Energy Estimator paper.
 
 The returned hardware shots and energy-analysis script are in
 [hardware_analysis/](hardware_analysis/).

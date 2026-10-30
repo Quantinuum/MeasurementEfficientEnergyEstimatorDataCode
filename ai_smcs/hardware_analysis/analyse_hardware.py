@@ -1,4 +1,4 @@
-"""Reproduce the Noor (10,10) hardware overlap and energy tables."""
+"""Reproduce the Measurement Efficient Energy Estimator (10,10) hardware overlap and energy tables."""
 
 import argparse
 import csv

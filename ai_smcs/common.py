@@ -1,4 +1,4 @@
-"""Inputs and local compilation for the three Noor hardware configurations."""
+"""Inputs and local compilation for the three Measurement Efficient Energy Estimator hardware configurations."""
 
 from __future__ import annotations
 

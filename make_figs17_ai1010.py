@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Make the six-panel Noor (10,10) state-preparation figure."""
+"""Make the six-panel Measurement Efficient Energy Estimator (10,10) state-preparation figure."""
 
 import json
 from pathlib import Path

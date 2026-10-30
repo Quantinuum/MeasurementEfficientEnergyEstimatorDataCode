@@ -1,4 +1,4 @@
-# Noor (10,10) hardware analysis
+# Measurement Efficient Energy Estimator (10,10) hardware analysis
 
 Raw Helios-1 measurements and postprocessing for the AI-selected (10,10) sMCS
 states: leakage-only, coherent parity check (CPC), and full measurement-based
