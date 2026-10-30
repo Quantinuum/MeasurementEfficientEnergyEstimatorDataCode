@@ -1,6 +1,5 @@
 {
   "description": "State-preparation circuits from states.json for phi/chik/psil: sparse and tket variants, with phase-restored optimized versions.",
-  "source_states": "/home/kripa.panchagnula@quantinuum.com/projects/noor/noormve/overlaps_mixed_estimator/data_qubit_hamiltonian_fci/ham_T1_geom_triplet_spin_shciscf_basis_66_6e_6o/m8_k10_l13/states.json",
   "m": 8,
   "k": 10,
   "l": 13,

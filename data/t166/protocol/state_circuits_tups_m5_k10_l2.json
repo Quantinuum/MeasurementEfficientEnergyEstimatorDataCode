@@ -1,7 +1,5 @@
 {
   "description": "State-preparation circuits from tUPS states: phi/chik are sparse, psi is the optimized tUPS state circuit from vqe.json.",
-  "source_states": "/home/kripa.panchagnula@quantinuum.com/projects/noor/noormve/overlaps_mixed_estimator/data_qubit_hamiltonian_tups/ham_T1_geom_triplet_spin_shciscf_basis_66_6e_6o/m5_k10/states.json",
-  "source_vqe": "/home/kripa.panchagnula@quantinuum.com/projects/noor/noormve/overlaps_mixed_estimator/data_qubit_hamiltonian_tups/ham_T1_geom_triplet_spin_shciscf_basis_66_6e_6o/vqe.json",
   "m": 5,
   "k": 10,
   "resources": {
