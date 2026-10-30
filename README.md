@@ -26,6 +26,8 @@ Scripts and data for the paper [*Measurement-efficient energy estimator for quan
 - `data/pauli_averaging.json` records the number of shots estimated to reach chemical accuracy with Pauli averaging (PA).
 - `data/tups_params.json` contains the optimized tUPS parameters from VQE.
 
+Some files make reference to the state "chi". This has been renamed to "lambda" in the manuscript.
+
 ## Load a Hamiltonian into Zixy
 
 The six `.npz` files in `data/hamiltonians/` contain NumPy integral arrays and
