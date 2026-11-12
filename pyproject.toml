@@ -1,0 +1,17 @@
+[project]
+name = "measurement-efficient-energy-estimator-data-code"
+version = "0.1.0"
+description = "Analysis scripts and data for the measurement-efficient energy estimator paper"
+requires-python = ">=3.12"
+dependencies = [
+    "guppylang==0.21.16",
+    "selene-sim==0.2.18",
+    "zixy==0.4.0",
+    "numpy==2.5.4",
+    "scipy==1.18.1",
+    "matplotlib==3.10.6",
+    "pandas==3.1.0",
+]
+
+[tool.uv]
+package = false

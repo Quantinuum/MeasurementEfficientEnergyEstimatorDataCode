@@ -1,0 +1,56 @@
+{
+    "66": {
+        "Rx": {
+            "circ_resources": {
+                "dets": 225
+            },
+            "energies": {
+                "sv": -2404.4874259362964
+            }
+        },
+        "R0": {
+            "circ_resources": {
+                "dets": 225
+            },
+            "energies": {
+                "sv": -2404.4811681759234
+            }
+        }
+    },
+    "88": {
+        "Rx": {
+            "circ_resources": {
+                "dets": 3100
+            },
+            "energies": {
+                "sv": -2404.5057787494557
+            }
+        },
+        "R0": {
+            "circ_resources": {
+                "dets": 2979
+            },
+            "energies": {
+                "sv": -2404.499432085572
+            }
+        }
+    },
+    "1010": {
+        "Rx": {
+            "circ_resources": {
+                "dets": 38702
+            },
+            "energies": {
+                "sv": -2404.5243150902643
+            }
+        },
+        "R0": {
+            "circ_resources": {
+                "dets": 33661
+            },
+            "energies": {
+                "sv": -2404.524434560353
+            }
+        }
+    }
+}

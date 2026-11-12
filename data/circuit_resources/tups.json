@@ -1,0 +1,56 @@
+{
+    "66": {
+        "Rx": {
+            "L1pp": {
+                "gates_1q": 150,
+                "gates_2q": 83,
+                "depth": 45,
+                "depth_2q": 25,
+                "ZZPhase_gates": 83,
+                "ZZPhase_depth": 25
+            },
+            "L2pp": {
+                "gates_1q": 266,
+                "gates_2q": 168,
+                "depth": 96,
+                "depth_2q": 57,
+                "ZZPhase_gates": 168,
+                "ZZPhase_depth": 57
+            },
+            "L3pp": {
+                "gates_1q": 390,
+                "gates_2q": 251,
+                "depth": 164,
+                "depth_2q": 100,
+                "ZZPhase_gates": 251,
+                "ZZPhase_depth": 100
+            }
+        },
+        "R0": {
+            "L1pp": {
+                "gates_1q": 150,
+                "gates_2q": 83,
+                "depth": 45,
+                "depth_2q": 25,
+                "ZZPhase_gates": 83,
+                "ZZPhase_depth": 25
+            },
+            "L2pp": {
+                "gates_1q": 266,
+                "gates_2q": 168,
+                "depth": 96,
+                "depth_2q": 57,
+                "ZZPhase_gates": 168,
+                "ZZPhase_depth": 57
+            },
+            "L3pp": {
+                "gates_1q": 390,
+                "gates_2q": 251,
+                "depth": 164,
+                "depth_2q": 100,
+                "ZZPhase_gates": 251,
+                "ZZPhase_depth": 100
+            }
+        }
+    }
+}
